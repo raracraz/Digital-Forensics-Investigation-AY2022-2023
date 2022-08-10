@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1650639755340" ID="ID_948638930" MODIFIED="1650640659773" TEXT="Digital Forensics &amp; Investigations">
-<node CREATED="1650640682898" FOLDED="true" ID="ID_1256943092" MODIFIED="1657054538210" POSITION="right" TEXT="Topic 1: Intro to Forensics">
+<node CREATED="1650640682898" ID="ID_1256943092" MODIFIED="1660130694205" POSITION="right" TEXT="Topic 1: Intro to Forensics">
 <node CREATED="1650639983807" ID="ID_665774978" MODIFIED="1650640122198" TEXT="Overview of Digital Forensics">
 <node CREATED="1650640125392" ID="ID_113548316" MODIFIED="1650640334652" TEXT="What is Digital Forensics?">
 <node CREATED="1650640169579" ID="ID_560288074" MODIFIED="1650733302626" TEXT="Using computer science and investigative procedures legally, involving the analysis of digital evidence after proper search authority, chain of custody, validation with mathematics, use of validated tools, repeatability, reporting, and possible expert presentation">
@@ -2794,7 +2794,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1657054542071" ID="ID_1612597833" MODIFIED="1657060591622" POSITION="right" TEXT="Topic 3: Data Acquisition">
+<node CREATED="1657054542071" FOLDED="true" ID="ID_1612597833" MODIFIED="1660130692749" POSITION="right" TEXT="Topic 3: Data Acquisition">
 <node CREATED="1657059155295" ID="ID_177736628" MODIFIED="1657059155295">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3563,8 +3563,7 @@
   <body>
     1. Preview a suspect&#8217;s drive remotely while it&#8217;s in use or powered on.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660114588526" MODIFIED="1660114588526">
 <richcontent TYPE="NODE"><html>
@@ -3574,8 +3573,7 @@
   <body>
     2. Perform a live acquisition (also called a &#8220;smear&#8221; because with an active computer, disk data is being altered) while the suspect&#8217;s computer is powered on.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660114592463" MODIFIED="1660114592463">
 <richcontent TYPE="NODE"><html>
@@ -3585,8 +3583,7 @@
   <body>
     3. Encrypt the connection between the suspect&#8217;s and examiner&#8217;s computers.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660114596157" MODIFIED="1660114596157">
 <richcontent TYPE="NODE"><html>
@@ -3596,8 +3593,7 @@
   <body>
     4. Copy the suspect computer&#8217;s RAM while the computer is powered on.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660114599934" ID="ID_357877510" MODIFIED="1660114599934">
 <richcontent TYPE="NODE"><html>
@@ -3607,8 +3603,7 @@
   <body>
     5. Use the optional stealth mode to hide the remote connection from the suspect while data is previewed or acquired.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660114610177" ID="ID_551735027" MODIFIED="1660114614310" TEXT="Extra Features">
 <node CREATED="1660114615296" MODIFIED="1660114615296">
@@ -3619,8 +3614,7 @@
   <body>
     1. Capture volatile system state information.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660114619383" MODIFIED="1660114619383">
 <richcontent TYPE="NODE"><html>
@@ -3630,8 +3624,7 @@
   <body>
     2. Analyze current running processes on a remote system.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660114622558" MODIFIED="1660114622558">
 <richcontent TYPE="NODE"><html>
@@ -3641,8 +3634,7 @@
   <body>
     3. Locate unseen files and processes on a remote system that might be running malware or spyware.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660114625398" MODIFIED="1660114625398">
 <richcontent TYPE="NODE"><html>
@@ -3652,8 +3644,7 @@
   <body>
     4. Remotely view and listen to IP ports on a compromised system.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660114628267" MODIFIED="1660114628267">
 <richcontent TYPE="NODE"><html>
@@ -3663,8 +3654,7 @@
   <body>
     5. Run hash comparisons on a remote system to search for known Trojans and rootkits.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660114631955" MODIFIED="1660114631955">
 <richcontent TYPE="NODE"><html>
@@ -3674,8 +3664,7 @@
   <body>
     6. Create a hash inventory of all files on a system remotely (a negative hash search capability) to establish a baseline if it gets attacked.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
