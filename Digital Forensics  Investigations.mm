@@ -16163,8 +16163,7 @@
   <body>
     Time Division Multiple Access
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660484805777" FOLDED="true" ID="ID_1505701879" MODIFIED="1660492785824">
 <richcontent TYPE="NODE"><html>
@@ -16174,8 +16173,7 @@
   <body>
     A method of digitizing and compressing
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660484812248" ID="ID_1545264299" MODIFIED="1660484812864">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16184,8 +16182,7 @@
   <body>
     A number of equal timeslots are configured for each frequency channel
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -16197,8 +16194,7 @@
   <body>
     Divides conversations by frequency and time
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660484827198" MODIFIED="1660484827198">
 <richcontent TYPE="NODE"><html>
@@ -16208,8 +16204,7 @@
   <body>
     Outdated technology
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660484846776" ID="ID_1436406160" MODIFIED="1660484854365">
 <richcontent TYPE="NODE"><html>
@@ -16219,8 +16214,7 @@
   <body>
     It facilitates many users to share the same frequency without interference. Its technology divides a signal into different timeslots, and increases the data carrying capacity
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660484852924" ID="ID_1862349387" MODIFIED="1660484853681">
@@ -16231,8 +16225,7 @@
   <body>
     Breaks up frequency allocation by time (i.e 6.7ms).
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660484862679" MODIFIED="1660484862679">
@@ -16243,8 +16236,7 @@
   <body>
     Two channels are used. (decoding/encoding)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -16275,8 +16267,7 @@
   <body>
     Integrated Digital Enhanced Network
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660484879253" ID="ID_1621116133" MODIFIED="1660484880039">
 <richcontent TYPE="NODE"><html>
@@ -16286,8 +16277,7 @@
   <body>
     iDEN phones can support SMS messages, voice mail, and data networking such as VPNs, the Internet, and intranets.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660484885743" FOLDED="true" ID="ID_685213188" MODIFIED="1660492785825">
@@ -16298,8 +16288,7 @@
   <body>
     Allows user to take advantage of PTT (push to talk) walkie talkie technology
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660484890166" MODIFIED="1660484890166">
 <richcontent TYPE="NODE"><html>
@@ -16309,8 +16298,7 @@
   <body>
     Half duplex
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -16342,8 +16330,7 @@
   <body>
     Code Division Multiple Access
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660484902111" FOLDED="true" ID="ID_128077652" MODIFIED="1660492785825">
 <richcontent TYPE="NODE"><html>
@@ -16353,8 +16340,7 @@
   <body>
     Utilizes spread-spectrum technology
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660484982758" ID="ID_1178766719" MODIFIED="1660484983437">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16363,8 +16349,7 @@
   <body>
     Spreads information contained in a particular signal (code) of interest over a much greater bandwidth than the original signal.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -16376,8 +16361,7 @@
   <body>
     Assigns a code to each piece of data passed across the spectrum
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660484996145" ID="ID_1833117403" MODIFIED="1660485006439">
 <richcontent TYPE="NODE"><html>
@@ -16387,8 +16371,7 @@
   <body>
     Unable to carry voice and data at the same time
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485014583" ID="ID_1650130122" MODIFIED="1660485015445">
@@ -16399,8 +16382,7 @@
   <body>
     Every communication channel uses the full available spectrum
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485020751" FOLDED="true" ID="ID_1049672184" MODIFIED="1660492785825">
@@ -16411,8 +16393,7 @@
   <body>
     Two channels
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485026737" MODIFIED="1660485026737">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16421,8 +16402,7 @@
   <body>
     &#8226; Encode / Decode
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660485034467" MODIFIED="1660485034467">
@@ -16433,8 +16413,7 @@
   <body>
     Spread Spectrum: channels are spread across the entire frequency range (1850- 1990MHz) instead of dedicated to one
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660485102547" FOLDED="true" ID="ID_1106795532" MODIFIED="1660492785826">
@@ -16445,8 +16424,7 @@
   <body>
     CDMA Family:-
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485106506" FOLDED="true" ID="ID_1415189713" MODIFIED="1660492785826">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16455,8 +16433,7 @@
   <body>
     cdmaOne (2G):
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485109427" MODIFIED="1660485109427">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16465,8 +16442,7 @@
   <body>
     Original CDMA system
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660485112962" FOLDED="true" ID="ID_804352526" MODIFIED="1660492785826">
@@ -16477,8 +16453,7 @@
   <body>
     CDMA2000 (3G):
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485116475" MODIFIED="1660485116475">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16487,8 +16462,7 @@
   <body>
     Evolved from cdmaOne
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485121892" ID="ID_1413942339" MODIFIED="1660485123361">
 <richcontent TYPE="NODE"><html>
@@ -16498,8 +16472,7 @@
   <body>
     A family of technology for 3G mobile cellular communications for transmission of voice, data and signals
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485128136" MODIFIED="1660485128136">
@@ -16510,8 +16483,7 @@
   <body>
     1xRTT (Voice), 1xEV-DO (3G wireless standard-Data)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660485131386" FOLDED="true" ID="ID_1888581658" MODIFIED="1660492785826">
@@ -16522,8 +16494,7 @@
   <body>
     W-CDMA (3G):
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485136245" MODIFIED="1660485136245">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16532,8 +16503,7 @@
   <body>
     Borrows ideas from CDMA
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485139831" ID="ID_310040571" MODIFIED="1660485144977">
 <richcontent TYPE="NODE"><html>
@@ -16543,8 +16513,7 @@
   <body>
     Use GSM technology and evolve into UMTS (Universal Mobile Telecommunications Service)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -16557,8 +16526,7 @@
   <body>
     BitPIM Software for CDMA
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660485192037" FOLDED="true" ID="ID_1467111522" MODIFIED="1660492785826">
 <richcontent TYPE="NODE"><html>
@@ -16568,8 +16536,7 @@
   <body>
     BitPIM is an open source, crossplatform program that allows you to view and manipulate data on many CDMA phones
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660485199348" MODIFIED="1660485199348">
 <richcontent TYPE="NODE"><html>
@@ -16579,8 +16546,7 @@
   <body>
     These include the PhoneBook, Calendar, WallPapers, RingTones and the Filesystem
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660485203571" MODIFIED="1660485203571">
@@ -16591,8 +16557,7 @@
   <body>
     Analyse most Qualcomm CDMA chipset based phones
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485206442" ID="ID_964933355" MODIFIED="1660485207181">
 <richcontent TYPE="NODE"><html>
@@ -16602,8 +16567,7 @@
   <body>
     PIM stands for Personal Information Management
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -16615,8 +16579,7 @@
   <body>
     Qualcomm for CDMA
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485221902" ID="ID_1280991572" MODIFIED="1660485222476">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16625,8 +16588,7 @@
   <body>
     Founded in 1985 - Multinational semiconductor and telecommunications equipment company. Listed company in USA NASDAQ
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485280110" MODIFIED="1660485280110">
@@ -16637,8 +16599,7 @@
   <body>
     Created CDMA and it&#8217;s components in the late 1990&#8217;s
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485287857" ID="ID_60669350" MODIFIED="1660485291288">
 <richcontent TYPE="NODE"><html>
@@ -16648,8 +16609,7 @@
   <body>
     Owns the patent on CDMA chipset technology
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -16681,8 +16641,7 @@
   <body>
     Based on TDMA
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485323404" ID="ID_1582385979" MODIFIED="1660485325901">
 <richcontent TYPE="NODE"><html>
@@ -16692,8 +16651,7 @@
   <body>
     A digital cellular technology used for transmitting mobile voice and data services
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485334756" ID="ID_859483730" MODIFIED="1660485335462">
@@ -16704,8 +16662,7 @@
   <body>
     Global Systems for Mobile Communication with frequency range from 850-1900MHz
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485340713" MODIFIED="1660485340713">
@@ -16716,8 +16673,7 @@
   <body>
     Utilizes SIM technology
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -16774,8 +16730,7 @@
   <body>
     Cell Phone Identification Numbers
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485372820" FOLDED="true" ID="ID_1502826825" MODIFIED="1660492785828">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16784,8 +16739,7 @@
   <body>
     MIN - Mobile Identity Number
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485376408" MODIFIED="1660485376408">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16794,8 +16748,7 @@
   <body>
     10 digit number
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485382166" ID="ID_1426605054" MODIFIED="1660485384835">
 <richcontent TYPE="NODE"><html>
@@ -16805,8 +16758,7 @@
   <body>
     Assigned by the carrier and used for mobile phone identification
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485389687" FOLDED="true" ID="ID_692574529" MODIFIED="1660492785828">
@@ -16817,8 +16769,7 @@
   <body>
     It consists of two different parts MIN 1 and MIN 2
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485394519" ID="ID_1606641381" MODIFIED="1660485395336">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16827,8 +16778,7 @@
   <body>
     The MIN 1 is usually the 24-bit number after the area code
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485402851" ID="ID_958558525" MODIFIED="1660485405306">
@@ -16839,8 +16789,7 @@
   <body>
     MIN 2 is the area/mobile subscriber code
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -16853,8 +16802,7 @@
   <body>
     ESN &#8211;Electronic Serial Number
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660485443166" FOLDED="true" ID="ID_204959675" MODIFIED="1660492785828">
 <richcontent TYPE="NODE"><html>
@@ -16864,8 +16812,7 @@
   <body>
     Unique 32bit number assigned to each TDMA or CDMA (non GSM) device/equipment
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660485448296" MODIFIED="1660485448296">
 <richcontent TYPE="NODE"><html>
@@ -16875,8 +16822,7 @@
   <body>
     (i.e Like MAC address in NIC)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -16888,8 +16834,7 @@
   <body>
     MEID &#8211;Mobile Equipment ID
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660485478298" MODIFIED="1660485478298">
 <richcontent TYPE="NODE"><html>
@@ -16899,8 +16844,7 @@
   <body>
     Replaces the soon to be exhausted ESN for CDMA devices
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485486655" FOLDED="true" ID="ID_293053916" MODIFIED="1660492785829">
 <richcontent TYPE="NODE"><html>
@@ -16910,8 +16854,7 @@
   <body>
     All of these fields are hexadecimal values
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660485495285" ID="ID_537598344" MODIFIED="1660485518182">
 <richcontent TYPE="NODE"><html>
@@ -16921,8 +16864,7 @@
   <body>
     RR: Regional Code. Globally administered
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485498751" FOLDED="true" ID="ID_1422042175" MODIFIED="1660492785828">
@@ -16933,8 +16875,7 @@
   <body>
     XXXXXX
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485502855" MODIFIED="1660485502855">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -16943,8 +16884,7 @@
   <body>
     000000 - For small quantities of test/prototype mobiles
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485513254" ID="ID_1549809817" MODIFIED="1660485515464">
 <richcontent TYPE="NODE"><html>
@@ -16954,8 +16894,7 @@
   <body>
     000001 - FFFFFE - Allocated to regional administration bodies or mobile manufacturers, subject to industry agreement
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485523491" MODIFIED="1660485523491">
@@ -16966,8 +16905,7 @@
   <body>
     FFFFFF &#8211; Reserved
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660485529244" MODIFIED="1660485529244">
@@ -16978,8 +16916,7 @@
   <body>
     ZZZZZZ: Manufacturer assigned to uniquely ID device
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485533029" MODIFIED="1660485533029">
 <richcontent TYPE="NODE"><html>
@@ -16989,8 +16926,7 @@
   <body>
     C &#8211; Check Digit: Not transmitted over the air
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -17002,8 +16938,7 @@
   <body>
     IMEI &#8211; International Mobile Equipment Identity
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660485599715" ID="ID_379675902" MODIFIED="1660485600520">
 <richcontent TYPE="NODE"><html>
@@ -17013,8 +16948,7 @@
   <body>
     The IMEI is a unique 15-digit code used to identify an individual GSM mobile telephone to a mobile network
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485661802" FOLDED="true" ID="ID_1653271161" MODIFIED="1660492785829">
@@ -17025,8 +16959,7 @@
   <body>
     IMEI Checksum Verification
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485666339" FOLDED="true" ID="ID_1376102286" MODIFIED="1660492785829">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17035,8 +16968,7 @@
   <body>
     The check digit is validated in three steps:
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485670095" MODIFIED="1660485670095">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17045,8 +16977,7 @@
   <body>
     Starting from the right, double every other digit (e.g., 7 &#8594; 14)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485675148" MODIFIED="1660485675148">
 <richcontent TYPE="NODE"><html>
@@ -17056,8 +16987,7 @@
   <body>
     Sum the digits (e.g., 14 &#8594; 1 + 4).
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485678418" MODIFIED="1660485678418">
 <richcontent TYPE="NODE"><html>
@@ -17067,8 +16997,7 @@
   <body>
     Check if the sum is divisible by 10.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -17081,8 +17010,7 @@
   <body>
     IMSI -International Mobile Subscriber Identity
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660485753540" MODIFIED="1660485753540">
 <richcontent TYPE="NODE"><html>
@@ -17092,8 +17020,7 @@
   <body>
     A global uniquely identifier. Always 56bit and is unique in every network
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485757844" ID="ID_391314833" MODIFIED="1660485763762">
 <richcontent TYPE="NODE"><html>
@@ -17103,8 +17030,7 @@
   <body>
     Allowed for authentication of a device to a network
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485768076" FOLDED="true" ID="ID_344508160" MODIFIED="1660492785829">
@@ -17115,8 +17041,7 @@
   <body>
     Consists of three parts
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485774689" ID="ID_1891845883" MODIFIED="1660485783504">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17125,8 +17050,7 @@
   <body>
     MCC: mobile country code (3 digits)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485778237" ID="ID_1547245255" MODIFIED="1660485783068">
@@ -17137,8 +17061,7 @@
   <body>
     MNC : mobile network code (2 digits)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485781718" ID="ID_1663202053" MODIFIED="1660485782591">
@@ -17149,8 +17072,7 @@
   <body>
     MSIN: mobile station identification number (10 dgits)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -17162,8 +17084,7 @@
   <body>
     All mobile country codes (MCC) are assigned by ITU Internation Telecommunication Union) in Recommendation E.212 (International Identification plan for public networks
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -17179,8 +17100,7 @@
   <body>
     Introduction to Android Forensics
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485903163" MODIFIED="1660485903163">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17189,8 +17109,7 @@
   <body>
     Mobile forensics is a branch of digital forensics that is evolving in today's digital era
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485907400" MODIFIED="1660485907400">
 <richcontent TYPE="NODE"><html>
@@ -17200,8 +17119,7 @@
   <body>
     It is constantly changing as new phones are released and operating systems are updated
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485914076" ID="ID_1015078234" MODIFIED="1660485915434">
 <richcontent TYPE="NODE"><html>
@@ -17211,8 +17129,7 @@
   <body>
     Android forensics deal with extracting, recovering, and analysing data present on an Android device through various techniques under forensically sound conditions
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660485921281" MODIFIED="1660485921281">
@@ -17223,8 +17140,7 @@
   <body>
     Due to the open nature of the Android operating system, these forensic techniques and methods can apply to more than just mobile phones
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485926032" MODIFIED="1660485926032">
 <richcontent TYPE="NODE"><html>
@@ -17234,8 +17150,7 @@
   <body>
     It can be refrigerators, vehicle entertainment units, televisions, watches, and many more devices that run Android Operating Systems (OS)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660485931517" ID="ID_355712557" MODIFIED="1660492786404">
@@ -17246,8 +17161,7 @@
   <body>
     Challenges in mobile forensics
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485937814" MODIFIED="1660485937814">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17256,8 +17170,7 @@
   <body>
     The wide range of operating systems and device models
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485941273" MODIFIED="1660485941273">
 <richcontent TYPE="NODE"><html>
@@ -17267,8 +17180,7 @@
   <body>
     Preventing Data Alterations on mobile devices
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485945652" MODIFIED="1660485945652">
 <richcontent TYPE="NODE"><html>
@@ -17278,8 +17190,7 @@
   <body>
     Inherent security features
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485950427" MODIFIED="1660485950427">
 <richcontent TYPE="NODE"><html>
@@ -17289,8 +17200,7 @@
   <body>
     Legal issues
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660485955781" ID="ID_1649431063" MODIFIED="1660492786408">
@@ -17301,8 +17211,7 @@
   <body>
     Seizure and Isolation
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485969685" MODIFIED="1660485969685">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17311,8 +17220,7 @@
   <body>
     Note location from where mobile has been collected.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485973946" MODIFIED="1660485973946">
 <richcontent TYPE="NODE"><html>
@@ -17322,8 +17230,7 @@
   <body>
     Take the picture using camera and take picture of the location
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485977425" ID="ID_1254895624" MODIFIED="1660492930770">
 <richcontent TYPE="NODE"><html>
@@ -17333,8 +17240,7 @@
   <body>
     Chain of Custody
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660485982897" MODIFIED="1660485982897">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17343,8 +17249,7 @@
   <body>
     Is a document to maintain each record of the Digital evidence from the collection to presentation
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660485990584" ID="ID_1488445954" MODIFIED="1660485990584">
 <richcontent TYPE="NODE"><html>
@@ -17354,8 +17259,7 @@
   <body>
     Another part of documentation is taking pictures (photographs) of the crime scene, capturing the original state of the mobile device, as well as the make, model, serial number, IMEI number or operating system version .which would help during the acquisition phase and need to be captured as well
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660485999758" MODIFIED="1660485999758">
@@ -17366,8 +17270,7 @@
   <body>
     Take the picture of the mobile phone before starting any progress
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486002981" MODIFIED="1660486002981">
 <richcontent TYPE="NODE"><html>
@@ -17377,8 +17280,7 @@
   <body>
     Request for Pin, Pattern, Passwords, SIM pin
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486006619" MODIFIED="1660486006619">
 <richcontent TYPE="NODE"><html>
@@ -17388,8 +17290,7 @@
   <body>
     Check for any Unified Endpoint Management solutions
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486009919" ID="ID_1707956756" MODIFIED="1660492929598">
 <richcontent TYPE="NODE"><html>
@@ -17399,8 +17300,7 @@
   <body>
     Note the status of the device
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660486016485" ID="ID_586655502" MODIFIED="1660486022591" TEXT="Powered on or off"/>
 <node CREATED="1660486022914" ID="ID_1304230979" MODIFIED="1660486044803" TEXT="if powered on, check battery status, network status"/>
 <node CREATED="1660486048750" ID="ID_1519846400" MODIFIED="1660486054642" TEXT="Check where the screen is locked"/>
@@ -17413,8 +17313,7 @@
   <body>
     Search/request for the SIM and if any cables are located around
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486170599" ID="ID_1798147392" MODIFIED="1660492786412">
 <richcontent TYPE="NODE"><html>
@@ -17577,8 +17476,7 @@
   <body>
     Forensic acquisition
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660486313445" MODIFIED="1660486313445">
 <richcontent TYPE="NODE"><html>
@@ -17588,8 +17486,7 @@
   <body>
     is the process of acquiring the original evidence in a forensically sound manner while maintaining the integrity of it
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486317027" MODIFIED="1660486317027">
 <richcontent TYPE="NODE"><html>
@@ -17599,8 +17496,7 @@
   <body>
     This process is also known as &#8220;Imaging&#8221;
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486320843" ID="ID_246695298" MODIFIED="1660486325575">
 <richcontent TYPE="NODE"><html>
@@ -17610,8 +17506,7 @@
   <body>
     It can be done on site (at the scene) and can also be done off-site (in the lab)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660486329990" ID="ID_1646918305" MODIFIED="1660492786420">
@@ -17622,8 +17517,7 @@
   <body>
     Hashing
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660486334866" MODIFIED="1660486334866">
 <richcontent TYPE="NODE"><html>
@@ -17633,8 +17527,7 @@
   <body>
     Done after acquisition of device
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486338459" MODIFIED="1660486338459">
 <richcontent TYPE="NODE"><html>
@@ -17644,8 +17537,7 @@
   <body>
     Hashing is the method used to prove the integrity of the evidence
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486342285" MODIFIED="1660486342285">
 <richcontent TYPE="NODE"><html>
@@ -17655,8 +17547,7 @@
   <body>
     MD5 or SHA are widely used algorithms to calculate the Hash values
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486345418" MODIFIED="1660486345418">
 <richcontent TYPE="NODE"><html>
@@ -17666,8 +17557,7 @@
   <body>
     Hash values should be documented as well to maintain record of the Digital evidence
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660486364641" ID="ID_1184886303" MODIFIED="1660492786422">
@@ -17678,8 +17568,7 @@
   <body>
     Gathering Information on Device Accessibility
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660486369718" MODIFIED="1660486369718">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17688,8 +17577,7 @@
   <body>
     Android Mobile device acquisition depends on the following factors for data collection
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486373418" ID="ID_1475565406" MODIFIED="1660492920374">
 <richcontent TYPE="NODE"><html>
@@ -17699,8 +17587,7 @@
   <body>
     Factors
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660486377360" MODIFIED="1660486377360">
 <richcontent TYPE="NODE"><html>
@@ -17710,8 +17597,7 @@
   <body>
     Android Version
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486380213" ID="ID_1533248207" MODIFIED="1660492926577">
 <richcontent TYPE="NODE"><html>
@@ -17721,8 +17607,7 @@
   <body>
     Device Security
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660486385628" MODIFIED="1660486385628">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17731,8 +17616,7 @@
   <body>
     Pattern
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486389630" MODIFIED="1660486389630">
 <richcontent TYPE="NODE"><html>
@@ -17742,8 +17626,7 @@
   <body>
     PIN
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486392694" MODIFIED="1660486392694">
 <richcontent TYPE="NODE"><html>
@@ -17753,8 +17636,7 @@
   <body>
     Password
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486395482" MODIFIED="1660486395482">
 <richcontent TYPE="NODE"><html>
@@ -17764,8 +17646,7 @@
   <body>
     Fingerprint
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486398553" MODIFIED="1660486398553">
 <richcontent TYPE="NODE"><html>
@@ -17775,8 +17656,7 @@
   <body>
     Face Recognition mechanism
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486402671" MODIFIED="1660486402671">
 <richcontent TYPE="NODE"><html>
@@ -17786,8 +17666,7 @@
   <body>
     Bluetooth Device Lock &amp; Unlock
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660486410885" ID="ID_1909857847" MODIFIED="1660492922794">
@@ -17798,8 +17677,7 @@
   <body>
     Device accessibility
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660486414991" ID="ID_46081905" MODIFIED="1660486414991">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17808,8 +17686,7 @@
   <body>
     Non-Root Access
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486417054" ID="ID_233896796" MODIFIED="1660486420411" TEXT="Root Access"/>
 </node>
@@ -17822,8 +17699,7 @@
   <body>
     Mode of Transfers
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660486547598" ID="ID_1711435979" MODIFIED="1660492925088">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17832,8 +17708,7 @@
   <body>
     The following mediums can be utilized to acquire a mobile device which depends on availability and device status:
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660486551115" MODIFIED="1660486551115">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17842,8 +17717,7 @@
   <body>
     USB Connectivity
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486556700" ID="ID_973399995" MODIFIED="1660486566960">
 <richcontent TYPE="NODE"><html>
@@ -17853,8 +17727,7 @@
   <body>
     Bluetooth: Mobile acquisition can be performed by utilizing Android Debuging bridge(ADB) via bluetooth connection
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486570884" MODIFIED="1660486570884">
 <richcontent TYPE="NODE"><html>
@@ -17864,8 +17737,7 @@
   <body>
     Wireless: Both mobile device and acquisition machine has to be connected to same wifi network. Device acquisition can be performed by using android device bridge via WiFi
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -17878,8 +17750,7 @@
   <body>
     Prerequisites
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660486583526" MODIFIED="1660486583526">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -17888,8 +17759,7 @@
   <body>
     This pre-requisites is either done during or before acquisition
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486589347" ID="ID_935035209" MODIFIED="1660492919119">
 <richcontent TYPE="NODE"><html>
@@ -17899,8 +17769,7 @@
   <body>
     Media Transfer Protocol (MTP)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660486596866" MODIFIED="1660486596866">
 <richcontent TYPE="NODE"><html>
@@ -17910,8 +17779,7 @@
   <body>
     Allows media files to be transferred automatically to and from portable device
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486600018" MODIFIED="1660486600018">
 <richcontent TYPE="NODE"><html>
@@ -17921,8 +17789,7 @@
   <body>
     Ensured for uninterrupted device acquisition
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660486605023" ID="ID_1456421201" MODIFIED="1660492917473">
@@ -17933,8 +17800,7 @@
   <body>
     Enabling USB debugging
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660486609867" MODIFIED="1660486609867">
 <richcontent TYPE="NODE"><html>
@@ -17944,8 +17810,7 @@
   <body>
     USB debugging is a developer option which enables analysis machine to establish connection with the device via Android Debug Bridge (ADB)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486613473" MODIFIED="1660486613473">
 <richcontent TYPE="NODE"><html>
@@ -17955,8 +17820,7 @@
   <body>
     ADB it acts as a bridge between computer and the mobile phone
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486616637" MODIFIED="1660486616637">
 <richcontent TYPE="NODE"><html>
@@ -17966,8 +17830,7 @@
   <body>
     To communicate with the phone from the computer, we do it via ADB
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486619564" MODIFIED="1660486619564">
 <richcontent TYPE="NODE"><html>
@@ -17977,8 +17840,7 @@
   <body>
     To work with ADB, USB debugging options should be enabled on the phone
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660486625508" ID="ID_46062050" MODIFIED="1660492916225">
@@ -17989,8 +17851,7 @@
   <body>
     Enable Stay Awake/Increase Screen Time
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660486630214" MODIFIED="1660486630214">
 <richcontent TYPE="NODE"><html>
@@ -18000,8 +17861,7 @@
   <body>
     Enabling this option and charging the device will make the device stay awake which means that, it doesn't get locked
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486633247" MODIFIED="1660486633247">
 <richcontent TYPE="NODE"><html>
@@ -18011,8 +17871,7 @@
   <body>
     In Android devices, this option is usually found under Settings | Developer options
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -18024,8 +17883,7 @@
   <body>
     Types of Acquisition
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660486698754" ID="ID_1588496090" MODIFIED="1660492911157" TEXT="File system">
 <node CREATED="1660486772256" ID="ID_209614628" MODIFIED="1660486772258" TEXT="This method of acquisition enables the examiner to gain more data than obtained via a logical acquisition because it provides access to file system data."/>
@@ -18041,8 +17899,7 @@
   <body>
     Advance Logical
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660486899494" ID="ID_614122799" MODIFIED="1660486900665">
 <richcontent TYPE="NODE"><html>
@@ -18052,8 +17909,7 @@
   <body>
     Combines both Logical and File System extraction methods
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -18065,8 +17921,7 @@
   <body>
     Manual / logical
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660486909897" MODIFIED="1660486909897">
 <richcontent TYPE="NODE"><html>
@@ -18076,8 +17931,7 @@
   <body>
     The examiner uses the user interface of the phone to browse and investigate
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486912931" MODIFIED="1660486912931">
 <richcontent TYPE="NODE"><html>
@@ -18087,8 +17941,7 @@
   <body>
     No special tools or techniques are required
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486917736" MODIFIED="1660486917736">
 <richcontent TYPE="NODE"><html>
@@ -18098,8 +17951,7 @@
   <body>
     Manual Extraction of Chat messages (Screen Shots, export to external media)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486921436" MODIFIED="1660486921436">
 <richcontent TYPE="NODE"><html>
@@ -18109,8 +17961,7 @@
   <body>
     limitation is that only the files and data visible through the normal user interface
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486924865" MODIFIED="1660486924865">
 <richcontent TYPE="NODE"><html>
@@ -18120,8 +17971,7 @@
   <body>
     Data extracted through other methods can also be verified using this
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660486928267" MODIFIED="1660486928267">
 <richcontent TYPE="NODE"><html>
@@ -18131,8 +17981,7 @@
   <body>
     Very easily modify data on the device
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660486933943" ID="ID_374559935" MODIFIED="1660492903947">
@@ -18143,8 +17992,7 @@
   <body>
     Brute Force
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660486938229" MODIFIED="1660486938229">
 <richcontent TYPE="NODE"><html>
@@ -18154,8 +18002,7 @@
   <body>
     offensive techniques like password cracking, patterns, pins, Rooting the device
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -18167,8 +18014,7 @@
   <body>
     Operating Modes of Android
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660487077109" ID="ID_1062060180" MODIFIED="1660492897779">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -18177,8 +18023,7 @@
   <body>
     Three (3) operating modes
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660487086002" ID="ID_1034361586" MODIFIED="1660492902115">
 <richcontent TYPE="NODE"><html>
@@ -18188,8 +18033,7 @@
   <body>
     Android Safe mode
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660487173964" MODIFIED="1660487173964">
 <richcontent TYPE="NODE"><html>
@@ -18199,8 +18043,7 @@
   <body>
     safe mode builds a clean and secure environment
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660487180083" MODIFIED="1660487180083">
 <richcontent TYPE="NODE"><html>
@@ -18210,8 +18053,7 @@
   <body>
     Third-party apps are disabled and greyed out
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660487183998" ID="ID_135116643" MODIFIED="1660487201450">
 <richcontent TYPE="NODE"><html>
@@ -18221,8 +18063,7 @@
   <body>
     For troubleshooting smartphone&#8217;s problems, like restarting itself, lagging, freezing, battery issues, or data disappearing, are caused by third-party applications or not
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660487088728" ID="ID_205371167" MODIFIED="1660492900827">
@@ -18233,8 +18074,7 @@
   <body>
     Recovery Mode
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660487212041" MODIFIED="1660487212041">
 <richcontent TYPE="NODE"><html>
@@ -18244,8 +18084,7 @@
   <body>
     Recovery is an Android-based, lightweight runtime environment which is separate from and parallel to the main Android operating system
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660487221277" ID="ID_740468509" MODIFIED="1660487225639">
 <richcontent TYPE="NODE"><html>
@@ -18255,8 +18094,7 @@
   <body>
     There are mainly two kinds of recoveries: stock recovery and custom recovery
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660487224315" MODIFIED="1660487224315">
@@ -18267,8 +18105,7 @@
   <body>
     In recovery mode, you will get some advanced options
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660487229541" MODIFIED="1660487229541">
 <richcontent TYPE="NODE"><html>
@@ -18278,8 +18115,7 @@
   <body>
     There are several custom recovery images available in the market today, such as ClockworkMod Recovery, TeamWin Recovery Project
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660487092109" ID="ID_698282563" MODIFIED="1660492899307">
@@ -18290,8 +18126,7 @@
   <body>
     Fastboot Mode
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660488072072" MODIFIED="1660488072072">
 <richcontent TYPE="NODE"><html>
@@ -18301,8 +18136,7 @@
   <body>
     Fastboot is a tool/protocol that comes with the Android SDK (software developer kit) package
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660488075177" MODIFIED="1660488075177">
 <richcontent TYPE="NODE"><html>
@@ -18312,8 +18146,7 @@
   <body>
     Which can be used to re-flash partitions on Android device
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660488078719" MODIFIED="1660488078719">
 <richcontent TYPE="NODE"><html>
@@ -18323,8 +18156,7 @@
   <body>
     It is an alternative to recovery mode for doing installations and updates
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660488082495" MODIFIED="1660488082495">
 <richcontent TYPE="NODE"><html>
@@ -18334,8 +18166,7 @@
   <body>
     Fastboot mode can be used for unlocking the bootloader for certain Android device models
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -18349,8 +18180,7 @@
   <body>
     Rooting is the process of letting the users of Android phones gain the highest privilege i.e. Root user privilege on an Android Phone
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660491670015" MODIFIED="1660491670015">
 <richcontent TYPE="NODE"><html>
@@ -18360,8 +18190,7 @@
   <body>
     Android is based on Linux as discussed. Thus, gaining root access is same as gaining root user access or administrative access on Linux OS
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660491753678" MODIFIED="1660491753678">
 <richcontent TYPE="NODE"><html>
@@ -18371,8 +18200,7 @@
   <body>
     However, from a forensic point of view, the main reason for rooting is to gain access to those parts of the system that are normally not accessible
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660491756930" MODIFIED="1660491756930">
 <richcontent TYPE="NODE"><html>
@@ -18382,8 +18210,7 @@
   <body>
     Most of the public root tools will result in a permanent root. In this, the changes persist even after rebooting the device.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660491760597" MODIFIED="1660491760597">
 <richcontent TYPE="NODE"><html>
@@ -18393,8 +18220,7 @@
   <body>
     In the case of a temporary root, the changes are lost once the device reboots
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660491766620" MODIFIED="1660491766620">
 <richcontent TYPE="NODE"><html>
@@ -18404,8 +18230,7 @@
   <body>
     Temporary roots should always be preferred over permanent for forensic acquisition
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660491773179" ID="ID_535946679" MODIFIED="1660491786791">
 <richcontent TYPE="NODE"><html>
@@ -18415,8 +18240,7 @@
   <body>
     Note* it easily to accidentally&#160;modify data on the device
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660492404377" ID="ID_769711302" MODIFIED="1660492786432">
@@ -18427,8 +18251,7 @@
   <body>
     Smartphone Market Share
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660492409536" MODIFIED="1660492409536">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -18437,8 +18260,7 @@
   <body>
     There are various devices which run on Android, but Android is widely used on Smart Phones
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492413699" MODIFIED="1660492413699">
 <richcontent TYPE="NODE"><html>
@@ -18448,8 +18270,7 @@
   <body>
     Based on Worldwide Smartphone Shipment OS Market Share Forecast
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492421334" MODIFIED="1660492421334">
 <richcontent TYPE="NODE"><html>
@@ -18459,8 +18280,7 @@
   <body>
     https://www.idc.com/promo/smartphone-market-share/os [Updated: 15 Dec 2020]
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660492427610" ID="ID_428284165" MODIFIED="1660492786435">
@@ -18471,8 +18291,7 @@
   <body>
     Introduction to Android Operating System
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660492448523" MODIFIED="1660492448523">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -18481,8 +18300,7 @@
   <body>
     Android is a mobile operating system based on a modified version of the Linux kernel
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492452992" MODIFIED="1660492452992">
 <richcontent TYPE="NODE"><html>
@@ -18492,8 +18310,7 @@
   <body>
     Android is an operating system (OS) developed by the Open Handset Alliance (OHA)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492456998" MODIFIED="1660492456998">
 <richcontent TYPE="NODE"><html>
@@ -18503,8 +18320,7 @@
   <body>
     The OHA is the group that is in charge of the Android smartphone operating system
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492461221" MODIFIED="1660492461221">
 <richcontent TYPE="NODE"><html>
@@ -18514,8 +18330,7 @@
   <body>
     It was created by Google and includes key members such as China Mobile, HTC, Intel, Motorola, NTT DoCoMo, Sprint, and T-Mobile USA
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492468854" MODIFIED="1660492468854">
 <richcontent TYPE="NODE"><html>
@@ -18525,8 +18340,7 @@
   <body>
     The Alliance is a group of more than 50 mobile technology companies working together to develop a non-proprietary open standard platform called Android project
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660492477375" ID="ID_749600865" MODIFIED="1660492786439">
@@ -18537,8 +18351,7 @@
   <body>
     Android Architecture
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660492485142" MODIFIED="1660492485142">
 <richcontent TYPE="NODE"><html>
@@ -18548,8 +18361,7 @@
   <body>
     The basic architecture of Android, its core and Android OS builds are based on the Linux kernel
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492490484" ID="ID_56131665" MODIFIED="1660492895539">
 <richcontent TYPE="NODE"><html>
@@ -18559,8 +18371,7 @@
   <body>
     The Linux kernel
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660492496818" MODIFIED="1660492496818">
 <richcontent TYPE="NODE"><html>
@@ -18570,8 +18381,7 @@
   <body>
     All of the core functionalities of Android, such as process management, memory management, security, and networking are managed by the Linux kernel
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492508063" MODIFIED="1660492508063">
 <richcontent TYPE="NODE"><html>
@@ -18581,8 +18391,7 @@
   <body>
     Example : What actually happens when you take a photo using the camera button on your mobile device?
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660492536579" ID="ID_1871214399" MODIFIED="1660492893495">
@@ -18593,8 +18402,7 @@
   <body>
     Hardware abstraction level
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660492547379" MODIFIED="1660492547379">
 <richcontent TYPE="NODE"><html>
@@ -18604,8 +18412,7 @@
   <body>
     The hardware abstraction level (HAL) allows the higher level, Java API framework, to work with mobile device's hardware with help of standard interfaces
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492553285" MODIFIED="1660492553285">
 <richcontent TYPE="NODE"><html>
@@ -18615,8 +18422,7 @@
   <body>
     This can be done due to multiple library modules, which provide interfaces for different types of hardware components, like Bluetooth or camera
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660492564434" ID="ID_3257413" MODIFIED="1660492894605">
@@ -18627,8 +18433,7 @@
   <body>
     Android Runtime
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660492573095" MODIFIED="1660492573095">
 <richcontent TYPE="NODE"><html>
@@ -18638,8 +18443,7 @@
   <body>
     Since Android 5.0 each application runs in its own process and with its own instance of the Android Runtime (ART)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492579598" MODIFIED="1660492579598">
 <richcontent TYPE="NODE"><html>
@@ -18649,8 +18453,7 @@
   <body>
     It allows multiple virtual machines to run on low-memory devices by executing DEX (Dalvik Executable) files
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492586449" MODIFIED="1660492586449">
 <richcontent TYPE="NODE"><html>
@@ -18660,8 +18463,7 @@
   <body>
     Prior to version 5.0 Dalvik was Android Runtime, so applications developed for Dalvik should work when running with ART
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660492590763" ID="ID_615318088" MODIFIED="1660492892605">
@@ -18672,8 +18474,7 @@
   <body>
     Native C/C++ Libraries
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660492600062" MODIFIED="1660492600062">
 <richcontent TYPE="NODE"><html>
@@ -18683,8 +18484,7 @@
   <body>
     Many core Android system components and services, including those mentioned earlier, like HAL and ART, are built from native code, so they require native libraries written in C and C++
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660492605453" ID="ID_1182046793" MODIFIED="1660492890273">
@@ -18695,8 +18495,7 @@
   <body>
     Java API Framework
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660492611666" FOLDED="true" ID="ID_324430805" MODIFIED="1660492785835">
 <richcontent TYPE="NODE"><html>
@@ -18706,8 +18505,7 @@
   <body>
     Java API framework allows developers to create applications using modular system components and services as building blocks
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660492625423" ID="ID_661289491" MODIFIED="1660492626859">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -18716,8 +18514,7 @@
   <body>
     View System allows to build application's user interface, and includes lists, grids, text boxes, buttons etc.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660492632029" ID="ID_464323212" MODIFIED="1660492645881">
@@ -18728,8 +18525,7 @@
   <body>
     Resource Manager provides access to non-code components of an application, like localized strings, graphics and layout files
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660492636026" ID="ID_1396825064" MODIFIED="1660492645888">
@@ -18740,8 +18536,7 @@
   <body>
     Notification Manager allows applications to display custom alerts
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660492639526" ID="ID_1534005079" MODIFIED="1660492645885">
@@ -18752,8 +18547,7 @@
   <body>
     Activity Manager manages the lifecycle as applications, and their back stacks the order in which each activity is opened
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 <node CREATED="1660492643520" ID="ID_437982435" MODIFIED="1660492645884">
@@ -18764,8 +18558,7 @@
   <body>
     Content Providers allows applications to access other applications data, and share their own
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
@@ -18778,8 +18571,7 @@
   <body>
     The Application Layer
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660492662763" MODIFIED="1660492662763">
 <richcontent TYPE="NODE"><html>
@@ -18789,8 +18581,7 @@
   <body>
     The topmost layer in the Android stack consists of applications called apps, which are programs that users directly interact with
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492679045" FOLDED="true" ID="ID_1209436597" MODIFIED="1660492785836">
 <richcontent TYPE="NODE"><html>
@@ -18800,8 +18591,7 @@
   <body>
     There are two kinds of apps, System apps and User Installed apps
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660492684501" FOLDED="true" ID="ID_976113624" MODIFIED="1660492785836">
 <richcontent TYPE="NODE"><html>
@@ -18811,8 +18601,7 @@
   <body>
     System apps
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660492698073" MODIFIED="1660492698073">
 <richcontent TYPE="NODE"><html>
@@ -18822,8 +18611,7 @@
   <body>
     These are applications that are pre-installed on the phone such as default browser, email client, and contacts are examples of system apps.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492701795" MODIFIED="1660492701795">
 <richcontent TYPE="NODE"><html>
@@ -18833,8 +18621,7 @@
   <body>
     These generally cannot be uninstalled or changed by the user as they are read- only on production devices though some devices offer the ability to disable these applications
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492706063" MODIFIED="1660492706063">
 <richcontent TYPE="NODE"><html>
@@ -18844,8 +18631,7 @@
   <body>
     o If a system application is disabled, the app and all of its data remain on the device on the system partition, the application icon is simply hidden from the user.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492712054" MODIFIED="1660492712054">
 <richcontent TYPE="NODE"><html>
@@ -18855,8 +18641,7 @@
   <body>
     These applications can usually be found in the /system partition
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492716855" MODIFIED="1660492716855">
 <richcontent TYPE="NODE"><html>
@@ -18866,8 +18651,7 @@
   <body>
     Beginning in Android 4.4, apps installed in /system/priv-app/ are treated as privileged applications and are granted permissions with protection-level (signatureOrSystem) to privileged apps
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660492722786" FOLDED="true" ID="ID_518498168" MODIFIED="1660492785836" TEXT="User installed apps">
@@ -18880,8 +18664,7 @@
   <body>
     These are the applications that are downloaded and installed by the user from various distribution platforms such as Google Play
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492739008" MODIFIED="1660492739008">
 <richcontent TYPE="NODE"><html>
@@ -18891,8 +18674,7 @@
   <body>
     Google Play is the official app store for the Android operating system, where users can browse and download the applications
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492746347" MODIFIED="1660492746347">
 <richcontent TYPE="NODE"><html>
@@ -18902,8 +18684,7 @@
   <body>
     These apps are present under the /data partition
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -18918,8 +18699,7 @@
   <body>
     Android by default runs on Linux kernel
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492777640" MODIFIED="1660492777640">
 <richcontent TYPE="NODE"><html>
@@ -18929,8 +18709,7 @@
   <body>
     Linux kernel provides Android security features
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492783383" ID="ID_1248849165" MODIFIED="1660492783383">
 <richcontent TYPE="NODE"><html>
@@ -18940,8 +18719,7 @@
   <body>
     The security features and offerings that are incorporated aim to achieve three (3) things:
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660492827499" MODIFIED="1660492827499">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -18950,8 +18728,7 @@
   <body>
     o To protect user data
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492831298" MODIFIED="1660492831298">
 <richcontent TYPE="NODE"><html>
@@ -18961,8 +18738,7 @@
   <body>
     o To protect system resources
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492834311" MODIFIED="1660492834311">
 <richcontent TYPE="NODE"><html>
@@ -18972,8 +18748,7 @@
   <body>
     o To make sure that one application cannot access the data of another application
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660492842643" ID="ID_524530288" MODIFIED="1660492843391">
@@ -18984,8 +18759,7 @@
   <body>
     User-based permissions model
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660492847932" MODIFIED="1660492847932">
 <richcontent TYPE="NODE"><html>
@@ -18995,8 +18769,7 @@
   <body>
     Android OS has implemented permission model for individual apps
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492945551" MODIFIED="1660492945551">
 <richcontent TYPE="NODE"><html>
@@ -19006,8 +18779,7 @@
   <body>
     Applications must declare a list of permissions they require in a file called manifest.xml
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492962189" MODIFIED="1660492962189">
 <richcontent TYPE="NODE"><html>
@@ -19017,8 +18789,7 @@
   <body>
     When a user installs the application, Android presents permission list to the user so that they can view the list to allow or disallow the installation
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492969719" MODIFIED="1660492969719">
 <richcontent TYPE="NODE"><html>
@@ -19028,8 +18799,7 @@
   <body>
     We cannot install an android application with few permissions. Either we have to accept all the permissions or decline to install it
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660492974980" ID="ID_1287419689" MODIFIED="1660492975966">
@@ -19040,8 +18810,7 @@
   <body>
     Application sandboxing
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660492986885" MODIFIED="1660492986885">
 <richcontent TYPE="NODE"><html>
@@ -19051,8 +18820,7 @@
   <body>
     By default, Android make use of Linux user-based protection model
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492991969" MODIFIED="1660492991969">
 <richcontent TYPE="NODE"><html>
@@ -19062,8 +18830,7 @@
   <body>
     Every android application is assigned is a UID and is run as a different process
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660492999718" MODIFIED="1660492999718">
 <richcontent TYPE="NODE"><html>
@@ -19073,8 +18840,7 @@
   <body>
     By default, an application cannot access data of other application
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493006178" MODIFIED="1660493006178">
 <richcontent TYPE="NODE"><html>
@@ -19084,8 +18850,7 @@
   <body>
     So, if an application tries to do something malicious, it can do within its context and permission it has been assigned by the OS
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493015377" ID="ID_1926074495" MODIFIED="1660493016200">
@@ -19096,8 +18861,7 @@
   <body>
     SELinux in Android
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660493023587" MODIFIED="1660493023587">
 <richcontent TYPE="NODE"><html>
@@ -19107,8 +18871,7 @@
   <body>
     From Android 4.3, SELinux (Security Enhanced Linux) is supported by Android
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493027418" MODIFIED="1660493027418">
 <richcontent TYPE="NODE"><html>
@@ -19118,8 +18881,7 @@
   <body>
     SE android uses MAC (Mandatory Access Control) which ensures Application runs in an isolated environment
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493031425" MODIFIED="1660493031425">
 <richcontent TYPE="NODE"><html>
@@ -19129,8 +18891,7 @@
   <body>
     With SELinux Android, if a user installs the malicious app, malware cannot access the OS and corrupt the device
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493036697" ID="ID_337543415" MODIFIED="1660493037656">
@@ -19141,8 +18902,7 @@
   <body>
     Application Signing
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660493041687" MODIFIED="1660493041687">
 <richcontent TYPE="NODE"><html>
@@ -19152,8 +18912,7 @@
   <body>
     All android apps are signed by the developer/owner to determine the author of the app
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493046319" MODIFIED="1660493046319">
 <richcontent TYPE="NODE"><html>
@@ -19163,8 +18922,7 @@
   <body>
     The key store and private key which is used during signing need to be protected for pushing a new update to the application
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493054892" ID="ID_571047075" MODIFIED="1660493055974">
@@ -19175,8 +18933,7 @@
   <body>
     Secure interposes communication
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660493061580" MODIFIED="1660493061580">
 <richcontent TYPE="NODE"><html>
@@ -19186,8 +18943,7 @@
   <body>
     As discussed, sandboxing is obtained between the processes using UID assigned to different processes
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493065453" MODIFIED="1660493065453">
 <richcontent TYPE="NODE"><html>
@@ -19197,8 +18953,7 @@
   <body>
     The Binder framework in Android provides the capabilities required to organize all types of communication between various processes
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493069342" MODIFIED="1660493069342">
 <richcontent TYPE="NODE"><html>
@@ -19208,8 +18963,7 @@
   <body>
     All communications between the processes using the Binder framework occur through the Linux kernel driver, /dev/binder
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -19473,8 +19227,7 @@
   <body>
     Android File Systems: Partitions
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660493502420" MODIFIED="1660493502420">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -19483,8 +19236,7 @@
   <body>
     Android uses more than one file system and multiple partitions to organize files and folders in the device
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493507672" MODIFIED="1660493507672">
 <richcontent TYPE="NODE"><html>
@@ -19494,8 +19246,7 @@
   <body>
     In the file system partitions are represented by directories
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493511090" ID="ID_1390040369" MODIFIED="1660493511090">
 <richcontent TYPE="NODE"><html>
@@ -19505,8 +19256,7 @@
   <body>
     There may be other partitions which differ in each model such as sdcard, sd-ext
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493514966" ID="ID_198539328" MODIFIED="1660493516172">
 <richcontent TYPE="NODE"><html>
@@ -19516,8 +19266,7 @@
   <body>
     Partitions
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660493613093" ID="ID_746046854" MODIFIED="1660493619020" TEXT="BOOTLOADER">
 <node CREATED="1660493624922" MODIFIED="1660493624922">
@@ -19539,8 +19288,7 @@
   <body>
     BOOT or /boot
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660493559398" MODIFIED="1660493559398">
 <richcontent TYPE="NODE"><html>
@@ -19550,8 +19298,7 @@
   <body>
     This partition has the information and files required for the phone to boot
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493563178" MODIFIED="1660493563178">
 <richcontent TYPE="NODE"><html>
@@ -19561,8 +19308,7 @@
   <body>
     It contains the kernel and RAM disk
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493526729" ID="ID_837558589" MODIFIED="1660493755566" TEXT="SYSTEM or /system">
@@ -19575,8 +19321,7 @@
   <body>
     The Android system image here contains the Android framework, libraries, system binaries, and preinstalled applications
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493571150" MODIFIED="1660493571150">
 <richcontent TYPE="NODE"><html>
@@ -19586,8 +19331,7 @@
   <body>
     Without this partition, the device cannot boot into normal mode
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493529513" ID="ID_1767533979" MODIFIED="1660493755566" TEXT="RECOVERY or /Recovery">
@@ -19600,8 +19344,7 @@
   <body>
     Recovery partition allows the device to boot into the recovery console through which activities such as phone updates and other maintenance operations are performed
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493535480" ID="ID_612805162" MODIFIED="1660493755566" TEXT="DATA or /data">
@@ -19614,8 +19357,7 @@
   <body>
     The device&#8217;s internal storage for application dat
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493585960" MODIFIED="1660493585960">
 <richcontent TYPE="NODE"><html>
@@ -19625,8 +19367,7 @@
   <body>
     It contain all the user data like sms, contacts, settings and all data related to installed applications
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493539055" ID="ID_98705638" MODIFIED="1660493755566" TEXT="CACHE or /cache">
@@ -19639,8 +19380,7 @@
   <body>
     This partition is used to store frequently accessed data such as recovery logs and update packages downloaded over the cellular network
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493542633" ID="ID_855445384" MODIFIED="1660493755566" TEXT="MISC or /misc">
@@ -19653,8 +19393,7 @@
   <body>
     This partition contains other important system setting information, such as a USB configuration, carrier ID, and other hardware settings
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493701698" ID="ID_811419046" MODIFIED="1660493714665" TEXT="SDCARD or /sdcard">
@@ -19666,8 +19405,7 @@
   <body>
     This partition is for the SD card, not for the internal memory. It is used to store any type of data such as media, documents, ROM etc
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493722494" MODIFIED="1660493722494">
 <richcontent TYPE="NODE"><html>
@@ -19677,8 +19415,7 @@
   <body>
     The SD card can be internal or external SD card depending on the device
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493724906" ID="ID_94527511" MODIFIED="1660493739273" TEXT="SD-EXT or /sd-ext">
@@ -19690,8 +19427,7 @@
   <body>
     This partition is commonly used by custom ROMs and not a standard Android partition.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493746496" ID="ID_1407708444" MODIFIED="1660493746496">
 <richcontent TYPE="NODE"><html>
@@ -19701,8 +19437,7 @@
   <body>
     It is an additional partition on SD card that act as data partition in some custom ROMs that have the features like app2sd to get additional storage for installing their apps
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -19716,8 +19451,7 @@
   <body>
     Android file hierarchy
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660493884139" MODIFIED="1660493884139">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -19726,8 +19460,7 @@
   <body>
     A basic understanding of how Android organizes its data in files and folders helps a forensic analyst narrow down his research to specific locations
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493892940" MODIFIED="1660493892940">
 <richcontent TYPE="NODE"><html>
@@ -19737,8 +19470,7 @@
   <body>
     If you are familiar with Unix-like systems, you will understand the file hierarchy in Android very well
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493897546" MODIFIED="1660493897546">
 <richcontent TYPE="NODE"><html>
@@ -19748,8 +19480,7 @@
   <body>
     Based on the device manufacturer and the underlying Linux version, the structure of this hierarchy may have a few insignificant changes
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493905083" ID="ID_730968726" MODIFIED="1660493906335">
 <richcontent TYPE="NODE"><html>
@@ -19759,8 +19490,7 @@
   <body>
     Directories Overviews
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660493909818" ID="ID_1599402549" MODIFIED="1660493916922">
 <richcontent TYPE="NODE"><html>
@@ -19770,8 +19500,7 @@
   <body>
     Acct
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660493916378" MODIFIED="1660493916378">
 <richcontent TYPE="NODE"><html>
@@ -19781,8 +19510,7 @@
   <body>
     This is the mount point for the acct cgroup (control group) that provides for user accounting
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493921837" ID="ID_477912454" MODIFIED="1660493922506">
@@ -19793,8 +19521,7 @@
   <body>
     Cache
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660493925459" MODIFIED="1660493925459">
 <richcontent TYPE="NODE"><html>
@@ -19804,8 +19531,7 @@
   <body>
     This is the directory (/cache) where Android stores frequently accessed data and app components
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493929011" MODIFIED="1660493929011">
 <richcontent TYPE="NODE"><html>
@@ -19815,8 +19541,7 @@
   <body>
     Wiping the cache doesn&#8217;t affect your personal data, but simply deletes the existing data there
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493932511" MODIFIED="1660493932511">
 <richcontent TYPE="NODE"><html>
@@ -19826,8 +19551,7 @@
   <body>
     There is also another directory in this folder called lost+found. This directory holds recovered files (if any) in the event of filesystem corruption, such as incorrectly removing the SD card without unmounting it and so on
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493937092" MODIFIED="1660493937092">
 <richcontent TYPE="NODE"><html>
@@ -19837,8 +19561,7 @@
   <body>
     The cache may contain forensically relevant artifacts, such as images, browsing history, and other app data
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493945316" ID="ID_985005309" MODIFIED="1660493947015">
@@ -19849,8 +19572,7 @@
   <body>
     d
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660493950543" MODIFIED="1660493950543">
 <richcontent TYPE="NODE"><html>
@@ -19860,8 +19582,7 @@
   <body>
     This is a symbolic link to /sys/kernel/debug
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493954244" MODIFIED="1660493954244">
 <richcontent TYPE="NODE"><html>
@@ -19871,8 +19592,7 @@
   <body>
     This folder is used to mount the debugfs file system and to debug kernel
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493957902" ID="ID_1410822652" MODIFIED="1660493958689">
@@ -19883,8 +19603,7 @@
   <body>
     Data
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660493962326" MODIFIED="1660493962326">
 <richcontent TYPE="NODE"><html>
@@ -19894,8 +19613,7 @@
   <body>
     This is the partition that contains the data of each application
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493965869" MODIFIED="1660493965869">
 <richcontent TYPE="NODE"><html>
@@ -19905,8 +19623,7 @@
   <body>
     Most of the data belonging to a user, such as the contacts, SMS, dialed numbers, and so on, is stored in this folder
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660493970791" MODIFIED="1660493970791">
 <richcontent TYPE="NODE"><html>
@@ -19916,8 +19633,7 @@
   <body>
     This folder has significant importance from a forensic point of view as it holds valuable data
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660493980797" ID="ID_1915078485" MODIFIED="1660493981892">
@@ -19928,8 +19644,7 @@
   <body>
     Important sub-directories under /data or userdata
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660494012313" ID="ID_1622218332" MODIFIED="1660494012313">
 <richcontent TYPE="NODE"><html>
@@ -19939,8 +19654,7 @@
   <body>
     /dalvik-cache
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494055780" MODIFIED="1660494055780">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -19949,8 +19663,7 @@
   <body>
     This folder contains several logs that might be useful during the examination, depending on the underlying requirements
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494016730" ID="ID_986851193" MODIFIED="1660494016730">
@@ -19961,8 +19674,7 @@
   <body>
     /data/data
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494060389" MODIFIED="1660494060389">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -19971,8 +19683,7 @@
   <body>
     The /data/data partition contains the private data of all the applications
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494020716" ID="ID_470583359" MODIFIED="1660494020716">
@@ -19983,8 +19694,7 @@
   <body>
     /dev
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494065725" MODIFIED="1660494065725">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -19993,8 +19703,7 @@
   <body>
     This directory contains special device files for all the devices Defines the devices available to the applications
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494025018" ID="ID_730214837" MODIFIED="1660494025018">
@@ -20005,8 +19714,7 @@
   <body>
     /init
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494070267" MODIFIED="1660494070267">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20015,8 +19723,7 @@
   <body>
     When booting the Android kernel, the init program is executed
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494027940" ID="ID_121836594" MODIFIED="1660494027940">
@@ -20027,8 +19734,7 @@
   <body>
     /mnt
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494074795" MODIFIED="1660494074795">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20037,8 +19743,7 @@
   <body>
     This directory serves as a mount point for all the file systems, internal and external SD cards
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494030507" ID="ID_274201147" MODIFIED="1660494030507">
@@ -20049,8 +19754,7 @@
   <body>
     /proc
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494078995" MODIFIED="1660494078995">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20059,8 +19763,7 @@
   <body>
     It contains files that have useful information about the processes
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494033359" ID="ID_1587568658" MODIFIED="1660494033359">
@@ -20071,8 +19774,7 @@
   <body>
     /root
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494085368" MODIFIED="1660494085368">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20081,8 +19783,7 @@
   <body>
     This is the home directory for the root account
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494089187" MODIFIED="1660494089187">
 <richcontent TYPE="NODE"><html>
@@ -20092,8 +19793,7 @@
   <body>
     This folder can be accessed only if the device is rooted
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494036967" ID="ID_538930228" MODIFIED="1660494036967">
@@ -20104,8 +19804,7 @@
   <body>
     /misc
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494096045" MODIFIED="1660494096045">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20114,8 +19813,7 @@
   <body>
     miscellaneous settings. Information about hardware settings, USB settings, and so on can be accessed from this folder
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494039681" ID="ID_1821297523" MODIFIED="1660494039681">
@@ -20126,8 +19824,7 @@
   <body>
     /sdcard
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494101468" MODIFIED="1660494101468">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20136,8 +19833,7 @@
   <body>
     This is the partition that contains the data present on the SD card of the device There are some default folders, such as android_secure, Android, DCIM, media, and so on, present in most of the mobiles
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494047410" ID="ID_745268048" MODIFIED="1660494047410">
@@ -20148,8 +19844,7 @@
   <body>
     Digital Camera Images (DCIM)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494107061" MODIFIED="1660494107061">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20158,8 +19853,7 @@
   <body>
     Within DCIM, you will find photos you have taken, videos, and thumbnails (cache) files. Photos are stored in /DCIM/Camera
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494050188" ID="ID_1659002348" MODIFIED="1660494050188">
@@ -20170,8 +19864,7 @@
   <body>
     /system
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494110671" MODIFIED="1660494110671">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20180,8 +19873,7 @@
   <body>
     Directory contains libraries, system binaries, and other system-related files The pre-installed applications that come along with the phone are also present in this partition
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -20195,8 +19887,7 @@
   <body>
     Ways to store data
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494332477" MODIFIED="1660494332477">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20205,8 +19896,7 @@
   <body>
     Android devices store a lot of sensitive data through the use of apps
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494338238" ID="ID_1906892002" MODIFIED="1660494338238">
 <richcontent TYPE="NODE"><html>
@@ -20216,8 +19906,7 @@
   <body>
     Various sources of Data on Android
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494342141" MODIFIED="1660494342141">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20226,8 +19915,7 @@
   <body>
     Apps that come along with Android
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494345710" MODIFIED="1660494345710">
 <richcontent TYPE="NODE"><html>
@@ -20237,8 +19925,7 @@
   <body>
     Apps installed by the manufacturer
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494349088" MODIFIED="1660494349088">
 <richcontent TYPE="NODE"><html>
@@ -20248,8 +19935,7 @@
   <body>
     Apps installed by a wireless carrier
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494352242" ID="ID_863615607" MODIFIED="1660494352242">
 <richcontent TYPE="NODE"><html>
@@ -20259,8 +19945,7 @@
   <body>
     Apps installed by the user
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494357649" ID="ID_1562963697" MODIFIED="1660494357649">
@@ -20271,8 +19956,7 @@
   <body>
     Ways to store data locally in an Android app
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494362111" ID="ID_156447310" MODIFIED="1660494400834">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20281,8 +19965,7 @@
   <body>
     Shared preferences
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660494398449" MODIFIED="1660494398449">
 <richcontent TYPE="NODE"><html>
@@ -20292,8 +19975,7 @@
   <body>
     Store data in key values pairs of data types in the .xml format
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494407283" MODIFIED="1660494407283">
 <richcontent TYPE="NODE"><html>
@@ -20303,16 +19985,9 @@
   <body>
     Save user preferences data of the current application (e.g user account name and passwords, settings)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1660494411324" MODIFIED="1660494411324">
-<richcontent TYPE="NODE">&lt;html&gt;
-&lt;body&gt;
-These files are typically stored in the application&#x2019;s /data/data/&lt;package_name&gt;/shared_prefs
-&lt;/body&gt;
-&lt;/html&gt;</richcontent>
-</node>
+<node CREATED="1660494411324" MODIFIED="1660494411324" TEXT="&amp;lt;html&amp;gt;&#xa;&amp;lt;body&amp;gt;&#xa;These files are typically stored in the application&amp;#x2019;s /data/data/&amp;lt;package_name&amp;gt;/shared_prefs&#xa;&amp;lt;/body&amp;gt;&#xa;&amp;lt;/html&amp;gt;"/>
 </node>
 <node CREATED="1660494366599" ID="ID_1819610966" MODIFIED="1660494400835">
 <richcontent TYPE="NODE"><html>
@@ -20322,8 +19997,7 @@ These files are typically stored in the application&#x2019;s /data/data/&lt;pack
   <body>
     Internal storage
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660494416860" MODIFIED="1660494416860">
 <richcontent TYPE="NODE"><html>
@@ -20333,8 +20007,7 @@ These files are typically stored in the application&#x2019;s /data/data/&lt;pack
   <body>
     These files are located typically in the application&#8217;s /data/data subdirectory
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494420417" MODIFIED="1660494420417">
 <richcontent TYPE="NODE"><html>
@@ -20344,8 +20017,7 @@ These files are typically stored in the application&#x2019;s /data/data/&lt;pack
   <body>
     Data stored here is private and cannot be accessed by other applications (unless they have root access)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494424006" MODIFIED="1660494424006">
 <richcontent TYPE="NODE"><html>
@@ -20355,8 +20027,7 @@ These files are typically stored in the application&#x2019;s /data/data/&lt;pack
   <body>
     Internal data for each of the app is stored in respective folders
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494427524" MODIFIED="1660494427524">
 <richcontent TYPE="NODE"><html>
@@ -20366,8 +20037,7 @@ These files are typically stored in the application&#x2019;s /data/data/&lt;pack
   <body>
     Usually, shared pref, lib, Cache, database folders are created for most of the applications
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494368178" ID="ID_1301983538" MODIFIED="1660494400835" TEXT="External storage">
@@ -20380,8 +20050,7 @@ These files are typically stored in the application&#x2019;s /data/data/&lt;pack
   <body>
     Files can also be stored by the apps in external storage.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494455092" MODIFIED="1660494455092">
 <richcontent TYPE="NODE"><html>
@@ -20391,8 +20060,7 @@ These files are typically stored in the application&#x2019;s /data/data/&lt;pack
   <body>
     External storage can be a removable media, such as an SD card or non-removable storage that comes with the phone
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494459392" MODIFIED="1660494459392">
 <richcontent TYPE="NODE"><html>
@@ -20402,8 +20070,7 @@ These files are typically stored in the application&#x2019;s /data/data/&lt;pack
   <body>
     SD cards are usually formatted with the FAT32 filesystem, however it can be stored as other filesystems, such as EXT3 and EXT4, are also being used increasingly
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494462846" MODIFIED="1660494462846">
 <richcontent TYPE="NODE"><html>
@@ -20413,8 +20080,7 @@ These files are typically stored in the application&#x2019;s /data/data/&lt;pack
   <body>
     Data stored in SD Card are public and can be accessed by other applications, provided the requesting apps have the necessary permissions
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494374037" ID="ID_196258139" MODIFIED="1660494400835" TEXT="SQLite database">
@@ -20427,16 +20093,9 @@ These files are typically stored in the application&#x2019;s /data/data/&lt;pack
   <body>
     SQLite is a popular database format present in many mobile systems
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
-<node CREATED="1660494475650" MODIFIED="1660494475650">
-<richcontent TYPE="NODE">&lt;html&gt;
-&lt;body&gt;
-The SQLite files used by the apps are generally stored at /data/data/&lt;ApplicationPackageName&gt;/databases
-&lt;/body&gt;
-&lt;/html&gt;</richcontent>
-</node>
+<node CREATED="1660494475650" MODIFIED="1660494475650" TEXT="&amp;lt;html&amp;gt;&#xa;&amp;lt;body&amp;gt;&#xa;The SQLite files used by the apps are generally stored at /data/data/&amp;lt;ApplicationPackageName&amp;gt;/databases&#xa;&amp;lt;/body&amp;gt;&#xa;&amp;lt;/html&amp;gt;"/>
 </node>
 <node CREATED="1660494380894" ID="ID_1385834132" MODIFIED="1660494400835" TEXT="Network">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -20448,8 +20107,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     You can use the network to store and retrieve data on your own web-based services
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494483574" MODIFIED="1660494483574">
 <richcontent TYPE="NODE"><html>
@@ -20459,14 +20117,13 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     To do network operations, the classes in the java.net.* and android.net.* packages can be used
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1660494528066" ID="ID_472667225" MODIFIED="1660494539340" POSITION="right" TEXT="Topic 11: Mobile forensics (IOS)">
+<node CREATED="1660494528066" FOLDED="true" ID="ID_472667225" MODIFIED="1660498564629" POSITION="right" TEXT="Topic 11: Mobile forensics (IOS)">
 <node CREATED="1660485955781" ID="ID_9783071" MODIFIED="1660492786408">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20587,8 +20244,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Four (4) Major points
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660494606132" ID="ID_1512084742" MODIFIED="1660494606132">
 <richcontent TYPE="NODE"><html>
@@ -20598,8 +20254,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Circumventing the passcode/iTunes backup password is not always possible
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660494610937" MODIFIED="1660494610937">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -20608,8 +20263,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     1. Try to secure the passcode from the owner and/or immediately disable the passcode requirement if the phone is accessible
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494614079" MODIFIED="1660494614079">
 <richcontent TYPE="NODE"><html>
@@ -20619,8 +20273,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     2. Place the phone in &#8220;airplane mode&#8221;
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494619578" MODIFIED="1660494619578">
 <richcontent TYPE="NODE"><html>
@@ -20630,8 +20283,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     3. Change the setting, the Auto-lock feature to &#8220;never&#8221; would be a desired setting for the duration of forensic acquisition
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494624732" MODIFIED="1660494624732">
 <richcontent TYPE="NODE"><html>
@@ -20641,8 +20293,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     4. Document the settings changed prior to taking a forensic image
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -20654,8 +20305,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Isolation Techniques (If iOS device turned ON)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660494681720" MODIFIED="1660494681720">
 <richcontent TYPE="NODE"><html>
@@ -20665,8 +20315,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Place the phone in &#8220;airplane mode&#8221;
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494687477" MODIFIED="1660494687477">
 <richcontent TYPE="NODE"><html>
@@ -20676,8 +20325,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Check and manually disable, if necessary, &quot;hotspots&#8221; or any GPS locations, the Wi-Fi and Bluetooth toggles mode (these may be left on even in Airplane mode if the user enabled Wi-Fi once in that mode)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494690722" MODIFIED="1660494690722">
 <richcontent TYPE="NODE"><html>
@@ -20687,8 +20335,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Connect the phone to a power bank
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494695175" MODIFIED="1660494695175">
 <richcontent TYPE="NODE"><html>
@@ -20698,8 +20345,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Do not remove the SIM card at this point. There maybe scenarios where it is found that devices lock up when the SIM card is removed
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494698692" MODIFIED="1660494698692">
 <richcontent TYPE="NODE"><html>
@@ -20709,8 +20355,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Use a Lightning adapter to prevent USB Restricted mode from being activated (for devices running iOS 11.4.1 only; iOS 12 and 13 may restrict USB immediately)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494702867" MODIFIED="1660494702867">
 <richcontent TYPE="NODE"><html>
@@ -20720,8 +20365,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     If you have a Faraday bag handy, place the phone along with the adapter and charger into the Faraday bag
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660494709896" ID="ID_642628878" MODIFIED="1660494711157">
@@ -20732,8 +20376,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Isolation Techniques (If device is OFF, DO NOT turn ON.)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660494716327" MODIFIED="1660494716327">
 <richcontent TYPE="NODE"><html>
@@ -20743,8 +20386,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Place it in an Evidence Bag or Box
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494720473" MODIFIED="1660494720473">
 <richcontent TYPE="NODE"><html>
@@ -20754,8 +20396,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     If you have a Faraday bag handy, place the phone along with the adapter and charger into the Faraday bag
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494723480" MODIFIED="1660494723480">
 <richcontent TYPE="NODE"><html>
@@ -20765,8 +20406,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Bring it back to Forensic Lab
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494726428" MODIFIED="1660494726428">
 <richcontent TYPE="NODE"><html>
@@ -20776,8 +20416,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Back in the Forensic Lab
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494729681" MODIFIED="1660494729681">
 <richcontent TYPE="NODE"><html>
@@ -20787,8 +20426,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     You will want to remove the SIM card
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494732899" MODIFIED="1660494732899">
 <richcontent TYPE="NODE"><html>
@@ -20798,8 +20436,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Do a proper acquisition of the SIM
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494736035" MODIFIED="1660494736035">
 <richcontent TYPE="NODE"><html>
@@ -20809,8 +20446,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     You will have to turn on the phone if necessary, and treat is as if it was turn on and apply the Isolation Techniques
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -21044,8 +20680,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Cloud acquisition
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660494944342" MODIFIED="1660494944342">
 <richcontent TYPE="NODE"><html>
@@ -21055,8 +20690,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     iCloud backups
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494948418" MODIFIED="1660494948418">
 <richcontent TYPE="NODE"><html>
@@ -21066,8 +20700,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     iCloud Drive (full content, including third-party app data not available by any other means)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494953024" MODIFIED="1660494953024">
 <richcontent TYPE="NODE"><html>
@@ -21077,8 +20710,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     iCloud Photos
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494956701" MODIFIED="1660494956701">
 <richcontent TYPE="NODE"><html>
@@ -21088,8 +20720,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     FileVault2 recovery token (FileVault is a disk encryption program in Mac Operating system)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494960037" MODIFIED="1660494960037">
 <richcontent TYPE="NODE"><html>
@@ -21099,8 +20730,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     iCloud keychain
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494962765" MODIFIED="1660494962765">
 <richcontent TYPE="NODE"><html>
@@ -21110,8 +20740,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Health data
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494965712" MODIFIED="1660494965712">
 <richcontent TYPE="NODE"><html>
@@ -21121,8 +20750,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Messages (iMessage and SMS)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494976585" ID="ID_652194901" MODIFIED="1660494977395">
 <richcontent TYPE="NODE"><html>
@@ -21132,8 +20760,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Draw backs on cloud acquisition
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660494981237" MODIFIED="1660494981237">
 <richcontent TYPE="NODE"><html>
@@ -21143,8 +20770,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Need proper authentication credentials
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660494985937" MODIFIED="1660494985937">
 <richcontent TYPE="NODE"><html>
@@ -21154,8 +20780,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Need the user&#8217;s Apple ID and password, plus the second, two factor - authentication factor (if 2FA is enabled)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -21167,8 +20792,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Acquisition via iTunes Backup
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660494998231" MODIFIED="1660494998231">
 <richcontent TYPE="NODE"><html>
@@ -21178,8 +20802,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     If iOS device not available. A backup would be retrieved from the workstation (Windows or MacOS)
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495003419" MODIFIED="1660495003419">
 <richcontent TYPE="NODE"><html>
@@ -21189,8 +20812,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Device typically connects to for updates or syncing music, movies and applications
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495009098" MODIFIED="1660495009098">
 <richcontent TYPE="NODE"><html>
@@ -21200,8 +20822,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     It should be noted that iTunes performs an automated backup during the sync process and/or when an upgrade to the iOS is performed
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495013244" ID="ID_344688304" MODIFIED="1660495013244">
 <richcontent TYPE="NODE"><html>
@@ -21211,8 +20832,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Backups are stored in alternate locations depending on the OS
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660495020169" ID="ID_1845463496" MODIFIED="1660495020169">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21221,8 +20841,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Windows XP
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660495052433" ID="ID_936795357" MODIFIED="1660495052433">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21231,8 +20850,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     %systempartition%\documents and settings\%username%\Application Data\Apple Computer\MobileSync\Backup
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660495022237" ID="ID_1413624016" MODIFIED="1660495041306" TEXT="Windows Vista, 7, 8, 10">
@@ -21244,8 +20862,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     %systempartition%\Users\%username%\AppData\Roaming\Apple Computer\MobileSync\Backup\
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660495044236" ID="ID_556177293" MODIFIED="1660495047206" TEXT="MacOS">
@@ -21257,8 +20874,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Users/%username%/Library/Application Support/MobileSync/Backup
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -21272,8 +20888,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Operating modes of iOS devices
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660495083505" ID="ID_1962947893" MODIFIED="1660495083505">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21282,8 +20897,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     IOS devices can be operated in three modes
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660495087277" ID="ID_1883725890" MODIFIED="1660495155869">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21292,8 +20906,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Normal mode
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660495117511" MODIFIED="1660495117511">
 <richcontent TYPE="NODE"><html>
@@ -21303,8 +20916,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     When iPhone is switched on, it boots in an operating system
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495121809" MODIFIED="1660495121809">
 <richcontent TYPE="NODE"><html>
@@ -21314,8 +20926,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     In normal mode, the user could perform all regular activities
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495125136" ID="ID_49565441" MODIFIED="1660495125136">
 <richcontent TYPE="NODE"><html>
@@ -21325,8 +20936,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Normal mode boot process consists of three (3) steps:
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660495129619" MODIFIED="1660495129619">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21335,8 +20945,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Low-Level Bootloader
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495133269" ID="ID_1233211805" MODIFIED="1660495133269">
 <richcontent TYPE="NODE"><html>
@@ -21346,8 +20955,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     iBook
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495135018" ID="ID_545410850" MODIFIED="1660495137703" TEXT="IOS kernel"/>
 </node>
@@ -21359,8 +20967,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     These boot steps are signed to keep the integrity of the process
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660495089963" ID="ID_460544016" MODIFIED="1660495107359">
@@ -21371,8 +20978,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Recovery mode
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660495165863" MODIFIED="1660495165863">
 <richcontent TYPE="NODE"><html>
@@ -21382,8 +20988,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     The device enters into recovery mode
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495169199" MODIFIED="1660495169199">
 <richcontent TYPE="NODE"><html>
@@ -21393,8 +20998,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     if during the normal boot process if any step is failed to load or verify
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660495092768" ID="ID_1284126933" MODIFIED="1660495186848">
@@ -21405,8 +21009,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     DFU (Device Firmware Upgrade) mode
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660495190946" MODIFIED="1660495190946">
 <richcontent TYPE="NODE"><html>
@@ -21416,8 +21019,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Used to perform IOS upgrading, and it is a low-level mode for diagnosis
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495195711" MODIFIED="1660495195711">
 <richcontent TYPE="NODE"><html>
@@ -21427,8 +21029,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     During boot up, if Boot ROM is not getting a load or verify, then iPhone presents the Black screen
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -21440,8 +21041,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     It is necessary that examiner or Investigator should be aware of this mode as this knowledge is required to decide during the forensic acquisition that on which mode device should be operated to allow efficient extraction of data
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660495206551" ID="ID_85551117" MODIFIED="1660495206551">
@@ -21452,8 +21052,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Jailbreaking
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660495215970" MODIFIED="1660495215970">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21462,8 +21061,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Jailbreaking is the process of exploiting the flaws of a locked-down electronic device to install software other than what the manufacturer has made available for that device
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495219729" MODIFIED="1660495219729">
 <richcontent TYPE="NODE"><html>
@@ -21473,8 +21071,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Jailbreaking allows the device owner to gain full access to the root of the operating system and access all the features
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495227032" MODIFIED="1660495227032">
 <richcontent TYPE="NODE"><html>
@@ -21484,8 +21081,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     user could gain access to all partitions including file system with read-write only permissions
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495231577" MODIFIED="1660495231577">
 <richcontent TYPE="NODE"><html>
@@ -21495,8 +21091,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     This method is not accepted forensically because it may overwrite some important data but it allows performing physical acquisition efficiently
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495235979" MODIFIED="1660495235979">
 <richcontent TYPE="NODE"><html>
@@ -21506,8 +21101,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     This method is used when root access of the file system is required as well as for the physical acquisition
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495244210" ID="ID_258723521" MODIFIED="1660495244980">
 <richcontent TYPE="NODE"><html>
@@ -21517,8 +21111,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Implications
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660495249907" ID="ID_616662295" MODIFIED="1660495249907">
 <richcontent TYPE="NODE"><html>
@@ -21528,8 +21121,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Apple considers jailbreaking iOS to be a violation of its terms and conditions of use and advises customers that the practice exposes a phone to several risks, including
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660495256230" MODIFIED="1660495256230">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21538,8 +21130,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Security vulnerabilities
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495259355" MODIFIED="1660495259355">
 <richcontent TYPE="NODE"><html>
@@ -21549,8 +21140,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Stability issues
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495262560" MODIFIED="1660495262560">
 <richcontent TYPE="NODE"><html>
@@ -21560,8 +21150,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Potential crashes and freezes
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495265567" MODIFIED="1660495265567">
 <richcontent TYPE="NODE"><html>
@@ -21571,8 +21160,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Shortened battery life
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -21585,8 +21173,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     iOS Devices
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660495952430" ID="ID_527076778" MODIFIED="1660495952430">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21595,8 +21182,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     iPhone
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660495968673" MODIFIED="1660495968673">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21605,8 +21191,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Most popular among IOS devices is iPhone, due to design, Camera and Features
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660495956113" ID="ID_336674816" MODIFIED="1660495956113">
@@ -21617,8 +21202,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     iPad
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660495972448" MODIFIED="1660495972448">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21627,8 +21211,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     After the Huge success of the iPhone
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495976930" MODIFIED="1660495976930">
 <richcontent TYPE="NODE"><html>
@@ -21638,8 +21221,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Apple launched iPad tablet known as iPad or iPad first Generation. It was released after the iPhone 3Gs
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660495961566" ID="ID_1812160851" MODIFIED="1660495961566">
@@ -21650,8 +21232,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     iPod
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660495988250" MODIFIED="1660495988250">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21660,8 +21241,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     First iPod was launched by Apple in 2001. It was known as &#8220;First Generation&#8221;
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495991279" MODIFIED="1660495991279">
 <richcontent TYPE="NODE"><html>
@@ -21671,8 +21251,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Subsequent have been referred as &#8220;Second Generation&#8221; so on
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660495995819" MODIFIED="1660495995819">
 <richcontent TYPE="NODE"><html>
@@ -21682,8 +21261,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Initial lunched as Music play but it advances to have the ability to play Videos and Games to users
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660496100792" MODIFIED="1660496100792">
 <richcontent TYPE="NODE"><html>
@@ -21693,8 +21271,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     An examiner could retrieve forensic data from storage, browser, gallery, etc. on an iPod
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660496111740" ID="ID_815362181" MODIFIED="1660496111740">
 <richcontent TYPE="NODE"><html>
@@ -21704,8 +21281,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     iPod Touch models featured
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660496115838" MODIFIED="1660496115838">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21714,8 +21290,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Camera, Wi-Fi Capabilities, Safari web browser, Storage and Playback for Audio, Video and Photo, YouTube player
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660496118633" MODIFIED="1660496118633">
 <richcontent TYPE="NODE"><html>
@@ -21725,8 +21300,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Apps could be installed from App store
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -21739,8 +21313,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     iOS Architecture
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660496129997" MODIFIED="1660496129997">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21749,8 +21322,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Both the Mac OS X and iOS evolved from an earlier Apple operating system called Darwin
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660496133970" MODIFIED="1660496133970">
 <richcontent TYPE="NODE"><html>
@@ -21760,8 +21332,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Darwin is a Berkeley Software Distribution (BSD) Unix OS
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660496137271" ID="ID_1137178236" MODIFIED="1660496141162">
 <richcontent TYPE="NODE"><html>
@@ -21771,8 +21342,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     It is a discontinued operating system based on Research Unix
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660496147591" MODIFIED="1660496147591">
 <richcontent TYPE="NODE"><html>
@@ -21782,8 +21352,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     iOS is a proprietary mobile operating system owned by Apple and it is only allowed to be installed in Apple equipment or devices
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660496151282" MODIFIED="1660496151282">
 <richcontent TYPE="NODE"><html>
@@ -21793,8 +21362,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Mobile operating systems such as Android and iOS are based on UNIX-like operating systems
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660496154979" ID="ID_1782796602" MODIFIED="1660496154979">
 <richcontent TYPE="NODE"><html>
@@ -21804,8 +21372,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Linux is a family of open-source Unix-like operating systems
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660496177754" ID="ID_1421639954" MODIFIED="1660496180512" TEXT="Layers">
 <node CREATED="1660496185941" ID="ID_1254992101" MODIFIED="1660496185941">
@@ -21816,8 +21383,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Cocoa Touch
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660496203536" MODIFIED="1660496203536">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21826,8 +21392,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Layer which Most Application interact with
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660496188523" ID="ID_1789094831" MODIFIED="1660496188523">
@@ -21838,8 +21403,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Media
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660496207368" MODIFIED="1660496207368">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21848,8 +21412,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     The Media layer which has media services such as audio &amp; video
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660496191280" ID="ID_1503912473" MODIFIED="1660496191280">
@@ -21860,8 +21423,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Core Services
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660496210999" MODIFIED="1660496210999">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21870,8 +21432,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Core services layer which provides used in upper layers
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660496194016" ID="ID_915363539" MODIFIED="1660496194016">
@@ -21882,8 +21443,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Core OS
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660496214753" ID="ID_1891270158" MODIFIED="1660496237962">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21892,8 +21452,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Most of the Mac OS X components are in it.
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660496239414" ID="ID_411557832" MODIFIED="1660496242980">
 <richcontent TYPE="NODE"><html>
@@ -21903,8 +21462,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     This is low level and closely work with computational instructions
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1660496196999" ID="ID_1246127975" MODIFIED="1660496196999">
@@ -21915,8 +21473,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Kernel and Device Drivers
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660496218585" MODIFIED="1660496218585">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21925,8 +21482,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Layer which Most Application interact with
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -21939,8 +21495,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     App Interaction with iOS
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1660496322315" MODIFIED="1660496322315">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -21949,8 +21504,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Sandboxing, a technology whose primary job is security and control
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660496325154" MODIFIED="1660496325154">
 <richcontent TYPE="NODE"><html>
@@ -21960,8 +21514,7 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     By enforcing a very strict set of rules on which apps can be installed on a device and exactly what they can do
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1660496327789" MODIFIED="1660496327789">
 <richcontent TYPE="NODE"><html>
@@ -21971,8 +21524,2650 @@ The SQLite files used by the apps are generally stored at /data/data/&lt;Applica
   <body>
     Minimum set of privileges it needs to get its job done
   </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660497181233" ID="ID_292779688" MODIFIED="1660497181233">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    iOS Standard Directories: Where Files Reside
+  </body>
 </html>
 </richcontent>
+<node CREATED="1660497190231" ID="ID_1981073456" MODIFIED="1660497190231">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    AppName.app
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497206105" MODIFIED="1660497206105">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This directory contains the app and all of its resources
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497194258" ID="ID_1562693324" MODIFIED="1660497194258">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Documents/
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497211033" MODIFIED="1660497211033">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This directory to store user-generated content which are Userdata
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497196899" ID="ID_1785583282" MODIFIED="1660497196899">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Documents/Inbox
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497214626" MODIFIED="1660497214626">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This directory to access files that your app was asked to open by outside entities.
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497217807" MODIFIED="1660497217807">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Specifically, the Mail program places email attachments associated with your app in this directory
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497199765" ID="ID_1080390904" MODIFIED="1660497199765">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Library/
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497223268" MODIFIED="1660497223268">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The Library Directory Stores App-Specific Files such as data files, caches, resources, preferences
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497202146" ID="ID_854187596" MODIFIED="1660497202146">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    tmp/
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497226869" MODIFIED="1660497226869">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This directory to write temporary files that do not need to persist between launches of your app
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660497237014" ID="ID_308185883" MODIFIED="1660497237014">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    IOS File System
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497241898" ID="ID_1746382781" MODIFIED="1660497242813">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    HFS+ File system
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497246600" MODIFIED="1660497246600">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Apple developed Hierarchical File System (HFS)
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497252997" MODIFIED="1660497252997">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Provides large data sets
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497257448" MODIFIED="1660497257448">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Disk formatted with HFS has 512-byte Blocks at Physical level
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497260742" ID="ID_606673556" MODIFIED="1660497260742">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    There are two (2) types of Blocks in the HFS system
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497264438" ID="ID_559244459" MODIFIED="1660497268622">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Logical Blocks
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497277260" MODIFIED="1660497277260">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    which are numbered from first to last within the volume
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497272996" ID="ID_378099952" MODIFIED="1660497277778">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Allocation blocks
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497285099" ID="ID_1489559248" MODIFIED="1660497285099">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    group of logical blocks used to track data. Allocation blocks, Can be tied together as groups to be utilized more efficiently by HFS
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660497307906" ID="ID_1592950472" MODIFIED="1660497307906">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    HFS uses both absolute time (Local time) as well as UNIX time so one can identify the location of the system
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497313323" MODIFIED="1660497313323">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Absolute time e.g. 371589010, found in History.plist(safari)
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497316945" MODIFIED="1660497316945">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    UNIX time e.g. 1349896210, found in moz_cookies (firefox), global_history.dat (opera)
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497322163" MODIFIED="1660497322163">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    HFS files system uses catalog file system to organize data
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497327569" MODIFIED="1660497327569">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It uses B * tree (Balanced tree) structure to organize data
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497330711" MODIFIED="1660497330711">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Trees are consists of nodes
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497333582" ID="ID_716838719" MODIFIED="1660497333582">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    When data are added or deleted, it runs the algorithm to keep balance
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497371208" ID="ID_449195356" MODIFIED="1660497382007" TEXT="Structure of HFS+">
+<node CREATED="1660497348510" ID="ID_23071024" MODIFIED="1660497350432">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Reserved Boot Block
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497393595" MODIFIED="1660497393595">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    first 1024 bytes are reserved boot blocks
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497388635" ID="ID_1298449796" MODIFIED="1660497389439">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Volume Header
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497397483" MODIFIED="1660497397483">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It contains information about the structure of HFS Volume. It keeps track of Catalog ID Numbering and increases it one each time file added. HFS+ volume header also contains signature &#8220;H+.&#8221;
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497405651" ID="ID_813437778" MODIFIED="1660497406372">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Allocation file
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497410332" MODIFIED="1660497410332">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It keeps track of allocation blocks used by the file system. It basically includes a bitmap. Each bit represents the status of the allocation block. If it is set to 1, that means Allocation block is used, and if it is 0, that means allocation block is not used.
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497416031" ID="ID_1057405791" MODIFIED="1660497416740">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Extent Overflow file
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497420959" MODIFIED="1660497420959">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It consists of a pointer to the extent of the. If the file is larger than eight contiguous allocation blocks, then it uses extents.
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497424598" ID="ID_1755853141" MODIFIED="1660497425366">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Catalog File
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497428878" MODIFIED="1660497428878">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It organizes data using balanced tree system as mentioned previously. It utilizes to find the location of file or folder within the volume. It also contains the metadata of file like creation and modification date, permissions.
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497433180" ID="ID_1234673050" MODIFIED="1660497434371">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Attribute File
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497437600" MODIFIED="1660497437600">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It contains the customizable attributes of a file
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497440889" ID="ID_231205877" MODIFIED="1660497441998">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Startup File
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497445072" MODIFIED="1660497445072">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It assists the booting system which does not have built-in ROM support.
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497447756" MODIFIED="1660497447756">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Actual data is stored in the file system and tracked by the file system.
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497451237" ID="ID_1810206138" MODIFIED="1660497451968">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Alternate Volume Header
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497454983" MODIFIED="1660497454983">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It is Back up Volume header located at Last 1024 byte of the volume
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497459611" MODIFIED="1660497459611">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Last 512 Bytes are reserved
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660497466446" ID="ID_1835448217" MODIFIED="1660497466446">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Partitions
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497473730" ID="ID_1641118784" MODIFIED="1660497473730">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    An iOS device will have two (2) partitions:
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497477877" ID="ID_543913126" MODIFIED="1660497486396">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    System partition
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497492342" MODIFIED="1660497492342">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Firmware/OS partitions
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497495134" MODIFIED="1660497495134">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Read only partition
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497498408" MODIFIED="1660497498408">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Containing only system files, upgrade files and basic applications
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497480292" ID="ID_1332937816" MODIFIED="1660497486396" TEXT="Data partition">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497503070" MODIFIED="1660497503070">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Contains user data
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497506739" MODIFIED="1660497506739">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This partition will be the focus of most Investigation
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497509745" MODIFIED="1660497509745">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It is Read/Write partition
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497514262" ID="ID_486221738" MODIFIED="1660497514262">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This partition is where all iTunes applications will reside along with the user&#8217;s profile data
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497609692" ID="ID_1037572507" MODIFIED="1660497617061" TEXT="Directories">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497620534" ID="ID_837154251" MODIFIED="1660497620534">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Keychains
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497644235" ID="ID_315812782" MODIFIED="1660497662227" TEXT="Keychain.db, which contains user password from various applications"/>
+</node>
+<node CREATED="1660497623604" ID="ID_1201993706" MODIFIED="1660497623604">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    LogsGeneral.log
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497683195" MODIFIED="1660497683195">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    General.log
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497686690" MODIFIED="1660497686690">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The OS version and Serial number Lockdown.log &#8211; Lockdown Daemon log
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497626096" ID="ID_891720487" MODIFIED="1660497626096">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Mobile
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497690493" MODIFIED="1660497690493">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    User Data
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497628658" ID="ID_1658027558" MODIFIED="1660497628658">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Preferences
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497694338" MODIFIED="1660497694338">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    System Configurations
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497630902" ID="ID_1382081467" MODIFIED="1660497630902">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Run
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497698088" MODIFIED="1660497698088">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    System Logs
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497633184" ID="ID_215779671" MODIFIED="1660497633184">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Tmp
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497835512" MODIFIED="1660497835512">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Manifest.Plist , Plist Back up
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497635998" ID="ID_1151158604" MODIFIED="1660497635998">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Root
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497839027" MODIFIED="1660497839027">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Caches, Lockdown, and Preferences
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497639725" ID="ID_501127527" MODIFIED="1660497639725">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Property List Files
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497843050" MODIFIED="1660497843050">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Other Plist Files residing in different locations for different applications
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660497854013" ID="ID_591022133" MODIFIED="1660497854013">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Property List (Plist)
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497882307" MODIFIED="1660497882307">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Plist is a data file (sometimes called a property file) used to store various types of data on iOS and Macintosh operating systems.
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497886228" MODIFIED="1660497886228">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Originally Apple used the NeXSTEP format or a binary format for these files but this was deprecated and a new XLM format was introduced
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497889148" MODIFIED="1660497889148">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Property lists/XML files are used in the management of configuration of OS and applications
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497892207" MODIFIED="1660497892207">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Contains useful artifacts related to web cookies, email accounts, GPS Map routes and searches system configuration preferences, browsing history and bookmarks etc.
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497895459" MODIFIED="1660497895459">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    These files could be open to the simple text editor to view the contents
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497900325" ID="ID_274251125" MODIFIED="1660497900325">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    SQL Lite Databases
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497905081" MODIFIED="1660497905081">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    SQLite data format is a popular format for mobile devices and open source applications.
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497909178" MODIFIED="1660497909178">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Logical extraction of the iPhone could provide lots of SQLite database files
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497913748" MODIFIED="1660497913748">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It uses SQLite databases to store user data, the tool SQLite browser is used to explore and read SQL Lite database
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497917100" MODIFIED="1660497917100">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Native iOS applications such as Calendar, Text Messages, Notes, Photos, Address Book utilize this database structure to store and organize their data
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660497918664" ID="ID_1323547801" MODIFIED="1660497925149" TEXT="Exif metadata">
+<node CREATED="1660497929846" ID="ID_732274139" MODIFIED="1660497934358">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Exchangeable image file (EXIF)
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497939967" MODIFIED="1660497939967">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    A standard that specifies the formats for images, sounds, used by digital cameras, scanners and other systems handling image and sound files recorded by digital cameras or voice recorders
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497943454" MODIFIED="1660497943454">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Contains, Timestamps, Longitude, latitude, location and device information depending on the device used to capture
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660497951830" ID="ID_1659160649" MODIFIED="1660497951830">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Data Structure and Artifacts
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660497958061" MODIFIED="1660497958061">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Important artifacts which are generated by features of the system or interaction of the user with the device
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497961732" MODIFIED="1660497961732">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It is very necessary to understand how data are stored in device
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497965444" MODIFIED="1660497965444">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The iOS directory structure is common across all iOS devices
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497968338" MODIFIED="1660497968338">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The folder structure resembles a UNIX layout and there are several directories the examiner will immediately be interested in
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497971634" MODIFIED="1660497971634">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Some files will be stored in text format and easily readable
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660497974650" MODIFIED="1660497974650">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Other files will be stored in SQLite databases, XML files or binary format
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498038965" ID="ID_804832415" MODIFIED="1660498039889">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Timestamps
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498043653" ID="ID_1069582194" MODIFIED="1660498551407">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    An iOS device will have many Sqlite and plist files that can build a case for a forensic examiner
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498046997" MODIFIED="1660498046997">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The iOS operating system provides MACB (modified, accessed, changed, born date) times and can be vital when used with a timeline
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498050191" MODIFIED="1660498050191">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Timelines are an essential element for forensic analysis and in the digital world and time stamps are recorded for many events
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498059330" ID="ID_895607619" MODIFIED="1660498060458">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Applications
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498064884" MODIFIED="1660498064884">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The default applications store their data in the private/var/mobile/Library folder
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498067992" MODIFIED="1660498067992">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This includes the Address Book, Mail, Calendar, Maps, Notes, YouTube, Safari, Messages, Weather and Voicemail applications
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498070504" ID="ID_96499514" MODIFIED="1660498070504">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Downloaded applications from iTunes, user data are stored under /private/var/mobile/ or /User/
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498075087" MODIFIED="1660498075087">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Example: /private/var/mobile/Application or /User/Application
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498078372" MODIFIED="1660498078372">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This directory will hold the files associated with each application
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498084471" ID="ID_1473896577" MODIFIED="1660498084471">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    assigned a 32 character alphanumeric universally unique identifier by Apple
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498099812" MODIFIED="1660498099812">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    (Example: /User/Applications/GA07A3WW- 0E39-33OJ-B947-9CAA16688G22) -UUID
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498094395" MODIFIED="1660498094395">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    unique ID will be consistent across all iOS devices
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498123285" MODIFIED="1660498123285">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Common files are found within most applications folders such as info.plist, resourcerules.plist and applestores.db.
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498126633" MODIFIED="1660498126633">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Depending on the application, varying configuration files, plist files and XML data will be found.
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498129666" MODIFIED="1660498129666">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The examiner can occasionally find username and password data, cookies, or images that will help provide evidence
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498135997" ID="ID_1368988269" MODIFIED="1660498136871">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    iTunesMetadata.plist from the root application folder contains information related to device, Apple account name, date of purchase etc.
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660498141842" ID="ID_158487743" MODIFIED="1660498142942">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    iTunes Backup
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498148834" MODIFIED="1660498148834">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Inside the backup folder there are several interesting files that will provide information on whether the examiner is reviewing the correct iOS device
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498151851" ID="ID_326189565" MODIFIED="1660498152514">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The root of the backup folder will contain the status, info and manifest plist files
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498180686" ID="ID_1852346289" MODIFIED="1660498273838">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The<b>&#160;Status.plist</b>&#160;provides data about the latest backup. Consists fields:
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498185418" ID="ID_376033443" MODIFIED="1660498185418">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    IsFullBackup:
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498201623" MODIFIED="1660498201623">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This identifies whether or not the backup was a full backup of the device
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498188968" ID="ID_676327401" MODIFIED="1660498188968">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    UUID:
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498205783" MODIFIED="1660498205783">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This is the Universally Unique Identifier (UUID) of the device
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498191735" ID="ID_780750931" MODIFIED="1660498191735">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Date:
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498209822" MODIFIED="1660498209822">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This is the timestamp of the last time the backup was modified
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498194506" ID="ID_1960047413" MODIFIED="1660498194506">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    BackupState:
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498213918" MODIFIED="1660498213918">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This identifies whether the backup is a new backup or one that has been updated
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498197314" ID="ID_285860607" MODIFIED="1660498197314">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    SnapshotState:
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498217569" MODIFIED="1660498217569">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This identifies whether the backup process has successfully finished
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660498237996" ID="ID_1729751617" MODIFIED="1660498260068">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The<b>&#160;Info.plist</b>&#160;file contains data that can be used to confirm the backup matches the device.
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498242684" MODIFIED="1660498242684">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The IMEI number can be found here along with the phone number
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498249310" ID="ID_238272217" MODIFIED="1660498252780">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The <b>Manifest.plist</b>&#160;file contains metadata about the backed up files
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498284200" ID="ID_702032062" MODIFIED="1660498285644">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Photos
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498289861" ID="ID_1397759032" MODIFIED="1660498300030">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Photos in private/var/mobile/media/DCIM
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498299093" MODIFIED="1660498299093">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This folder will contain photos either taken or synced to the device
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498306164" MODIFIED="1660498306164">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The pictures found here will have timestamp metadata
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498310336" MODIFIED="1660498310336">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Photos within the 100APPLE folder indicate that they were taken from the device itself
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498313842" MODIFIED="1660498313842">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The camera application numbers the images from the iOS device sequentially
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498317050" MODIFIED="1660498317050">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The first picture taken will be named IMG_0001 and will continue numbering without regards to files being deleted or moved
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498323289" ID="ID_1308451685" MODIFIED="1660498324517">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Keystrokes
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498331289" ID="ID_1401290141" MODIFIED="1660498396808">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Keystrokes in /private/var/mobile/Library/Keyboard
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498334566" MODIFIED="1660498334566">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The dynamic dictionary is the text file dynamic-text.dat
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498337774" MODIFIED="1660498337774">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This dictionary stores words typed by the user during the course of using the device
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498342880" MODIFIED="1660498342880">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Any word entered into applications like Notes, Safari, Messages, Facebook or any application that will allow text input, will be captured
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498348235" MODIFIED="1660498348235">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Intent is to aid user in typing thus technical or special keywords that may not be Standard English words or acronyms that could be helpful for the investigation
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498353203" ID="ID_863293310" MODIFIED="1660498356030">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Passwords
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498360155" ID="ID_1835940919" MODIFIED="1660498360871">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Passwords in /private/var/Keychains
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498367379" MODIFIED="1660498367379">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    iOS applications use Apple&#8217;s keychain for password management
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498370157" MODIFIED="1660498370157">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Contains key-chain-2.db file
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498373870" MODIFIED="1660498373870">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Accounts and passwords such as Voicemail passwords, wireless access point key phrases and device login passcodes can be found inside this database
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498377639" MODIFIED="1660498377639">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    In some cases the passwords will be encrypted by the iOS encryption keychain procedure and will need 3rd Party Tools to be decrypted
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498386165" ID="ID_47181934" MODIFIED="1660498387194">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Notes
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498390535" ID="ID_119975922" MODIFIED="1660498392150">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Notes in /private/var/mobile/Library/Notes
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498402620" MODIFIED="1660498402620">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Review acronym or keywords that may be useful to investigation
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498406602" ID="ID_1096818103" MODIFIED="1660498412664">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Text Messages
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498417317" ID="ID_993263375" MODIFIED="1660498418291">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    /private/var/mobile/Library/SMS the sms.db can be found
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498422280" MODIFIED="1660498422280">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Review text messaging communication
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498431149" ID="ID_1106723769" MODIFIED="1660498432525">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Browser Cookies
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498435657" ID="ID_951975599" MODIFIED="1660498439946">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Browser Cookies in /private/var/mobile/Library
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498438808" ID="ID_1144384166" MODIFIED="1660498438808">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Safari cookies can be an important piece of evidence when identifying web browsing activities from the device
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498444840" ID="ID_1920141850" MODIFIED="1660498446056">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Browser Cache
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498449648" ID="ID_408232539" MODIFIED="1660498450502">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Browser Searches in /private/var/mobile/Library/Caches/Safari
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498454874" ID="ID_46765820" MODIFIED="1660498459911">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Search terms from using the Safari browser can be found in the <b>RecentSearches.plist</b>&#160; file
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498464550" MODIFIED="1660498464550">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    This particular plist file is in XML format and can be read with a text viewer
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498469054" ID="ID_498697766" MODIFIED="1660498470261">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    AddressBook
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498474341" ID="ID_1202344134" MODIFIED="1660498474989">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    AddressBook in /private/var/mobile/Library/AddressBook
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498479731" MODIFIED="1660498479731">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The AddressBook.sqlitedb file in the iOS can contain a wealth of information about the owner&#8217;s personal contacts
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498487573" ID="ID_1815892623" MODIFIED="1660498488799">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Call History
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498492377" ID="ID_1300460476" MODIFIED="1660498493066">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Call History in /private/var/Library/CallHistory
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498497078" MODIFIED="1660498497078">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The call history of an iOS device that can place cellular calls is contained in call_history.db
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498501154" ID="ID_28777771" MODIFIED="1660498502338">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Geographical Location and Wi-Fi Data
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498508343" MODIFIED="1660498508343">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    GPS and Wi-Fi evidence can be a sought after item to help build a picture of the iOS device location at a specific time and also users habits
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498513381" MODIFIED="1660498513381">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Many iOS applications will attempt to cache the user&#8217;s location and store GPS data depending on the purpose of the application
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498517364" MODIFIED="1660498517364">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    example iPhone&#8217;s camera will attempt to store longitude and latitude when a photo is taken
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498526052" ID="ID_1262787011" MODIFIED="1660498532962">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The <b>consolidated.db</b>&#160;file found in private/var/Library/Caches/locationd can hold a tremendous amount of geolocation data
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498536708" MODIFIED="1660498536708">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The wifilocation table contains longitude, latitude, MAC, and timestamps of wireless infrastructures the iOS device has utilized
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498539453" MODIFIED="1660498539453">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The cellLocationLocal table contains longitude, latitude, altitude, timestamps and tower data
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660498589979" ID="ID_127817446" MODIFIED="1660498599916" POSITION="right" TEXT="Topic 12: Rooting &amp; Jailbreaking">
+<node CREATED="1660498619709" ID="ID_189625024" MODIFIED="1660498619709">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Rooting and Jailbreaking
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498623871" ID="ID_1306917586" MODIFIED="1660498623871">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Popular mobile devices come with restrictions
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498627206" MODIFIED="1660498627206">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Limit application installation
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498629997" MODIFIED="1660498629997">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Limited access privileges to device
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498636512" ID="ID_1487134490" MODIFIED="1660498636512">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Code signing :
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498644613" MODIFIED="1660498644613">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    One of the most important security mechanisms in iOS is code signing. All binaries and libraries must be signed by a trusted authority Code signing app assures users that it is from a known source and the app hasn't been modified since it was last signed
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660498659471" ID="ID_1495366262" MODIFIED="1660498691405">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Rooting &amp; Jailbreaking are methods used to escape the restrictions
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498663349" MODIFIED="1660498663349">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Gained &#8220;Unrestricted devices access&#8221;!
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498713092" ID="ID_1999848572" MODIFIED="1660498713092">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Rooting used in Android
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498717101" ID="ID_699115636" MODIFIED="1660498732653">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Rooting is the Android equivalent of jailbreaking on IOS, a means of unlocking the operating system so you can install unapproved apps, deleted unwanted bloatware, update the OS, replace the firmware, customize anything and so on.
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498738322" ID="ID_1194652617" MODIFIED="1660498738322">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Allow user to gain &#8220;root&#8221; user privileges
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498744652" MODIFIED="1660498744652">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    No restriction on system settings after rooted
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498752395" MODIFIED="1660498752395">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Android allow sideloading without rooting by default. (Install app from non-android market. i.e download apk files from website and install)
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498759651" ID="ID_1235430852" MODIFIED="1660498764622">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Jailbreaking in iOS
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498765929" ID="ID_1944077798" MODIFIED="1660498765929">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Required modification on OS settings
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498771993" ID="ID_1377415138" MODIFIED="1660498789918">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    A form of privilege escalation via hardware / software exploits
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498776709" ID="ID_1831726267" MODIFIED="1660498790377">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Enable installation of 3rd PartyApps
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660498786803" MODIFIED="1660498786803">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Phone will work with App Store / can still make call after Jailbroken
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660498795767" ID="ID_808268800" MODIFIED="1660498795767">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Motivation for End Users
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498799641" MODIFIED="1660498799641">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    More application sources
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498802915" ID="ID_194544858" MODIFIED="1660498803506">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Access unauthorized applications
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498806553" ID="ID_301317253" MODIFIED="1660498807236">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Pirated software &amp; Firefox in iPhone
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660498813869" ID="ID_1705805363" MODIFIED="1660498813869">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Remove vendor-installed SW (bloatware)
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498821361" MODIFIED="1660498821361">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Improve performance
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498825571" MODIFIED="1660498825571">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Increase available memory (RAM / ROM [mmc])
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498829666" ID="ID_231443454" MODIFIED="1660498841044">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Access restricted hardware resources
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498834214" ID="ID_1657740401" MODIFIED="1660498834214">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Ie Bluetooth on Kindle Fire (Tablet from Amazon)
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498837613" ID="ID_797278516" MODIFIED="1660498842041">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Perform system tweaking
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1660498866323" ID="ID_1703351686" MODIFIED="1660498866323">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Warnings before rooting / jailbreaking
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498874246" ID="ID_290256297" MODIFIED="1660498874246">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    To escape control, need to run 3rd party tools
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498878043" ID="ID_1838577672" MODIFIED="1660498878043">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Question to ask&#8230; Are these toolssecure?
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498882237" ID="ID_1871789913" MODIFIED="1660498882959">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Voiding of warranty
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498887194" MODIFIED="1660498887194">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Error and performance issue (not tested). Could cause phones become unstable
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498896529" ID="ID_1602488648" MODIFIED="1660498896529">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Don&#8217;t root or jailbreak your everyday product devices!!
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498900464" MODIFIED="1660498900464">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Needed for day to day operations
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498905666" ID="ID_1064892423" MODIFIED="1660498911926">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Check organization&#8217;s <b>legal posture (security policy) </b>on permitted activities with corporate devices
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498916943" MODIFIED="1660498916943">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    E.g. EULA (end-user license agreement) violation
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660498922181" ID="ID_438499659" MODIFIED="1660498923087">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Jailbreaking iPhone
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498926942" ID="ID_1780304455" MODIFIED="1660498926942">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Tools like JailbreakMe, Redsn0w, and Evasi0n can be used for jailbreaking an iPhone&#8230;
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498932235" MODIFIED="1660498932235">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    JailbreakMe is the easiest way to free your device. Fully customizable, themeable, and with every tweak you could possibly imagine.
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498941952" ID="ID_1052528182" MODIFIED="1660498942984">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Vulnerabilities exploited usually fixed as soon as possible in the next revision of iOS by Apple. Therefore, nearly every new version of iOS requires a new set of vulnerabilities to jailbreak the device
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660498949696" ID="ID_1511436004" MODIFIED="1660498950647">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Rooting Android
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498954426" ID="ID_1649728143" MODIFIED="1660498960029">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Varies significantly from devices to device
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498961960" MODIFIED="1660498961960">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Due to differences in Hardware
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660498965831" ID="ID_1014219606" MODIFIED="1660498965831">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Rooting steps involves:-
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660498969870" MODIFIED="1660498969870">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Flash recovery &#8211; Enter recovery and is meant to backup device and load new OS
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498974427" MODIFIED="1660498974427">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Flash boot (fastboot) &#8211; Used to flash images such as recoveries, bootloaders, and kernels to your Android device
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498977744" MODIFIED="1660498977744">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Local privilege Escalation (i.e su)
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660498983149" ID="ID_1764921280" MODIFIED="1660498983149">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    ADB Privilege Escalation - Android Debug Bridge (ADB) lets you communicate to your Android device from your PC using the command line.
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660499000762" ID="ID_48211384" MODIFIED="1660499006989">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Typically for some methods to work it will need
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660499005447" ID="ID_21421042" MODIFIED="1660499007573">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Allow unsigned software (i.e sideloading)
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660499011117" ID="ID_1887656463" MODIFIED="1660499011789">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Enable USB Debugging - A developer mode in Android phones that allows newly programmed apps to be copied via USB to the device for testing.
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660499022557" ID="ID_415105220" MODIFIED="1660499024983">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Do consider if phone are stolen data can be extracted!!!
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660499030271" ID="ID_1003629730" MODIFIED="1660499030271">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Various tools are used
+  </body>
+</html>
+</richcontent>
+<node CREATED="1660499034295" MODIFIED="1660499034295">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    ADB (old school)
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660499037568" MODIFIED="1660499037568">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    z4root (from Android 2.3)
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660499040390" MODIFIED="1660499040390">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    SuperOneClick (need adb)
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660499043356" MODIFIED="1660499043356">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Flashing recovery &amp; custom ROM
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1660499046251" MODIFIED="1660499046251">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Motochopper (Android 4.32)
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1660499052531" ID="ID_576331333" MODIFIED="1660499064281">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Once rooted ADB can yield a rootshell when local privilege escalation request (su) is requested.
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660499062845" ID="ID_1152941104" MODIFIED="1660499063852">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The superuser.apk will prompt you, which you need to grant, before rootshell is granted to the shell
+  </body>
+</html>
+</richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 </node>
