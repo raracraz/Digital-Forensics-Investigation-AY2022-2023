@@ -460,7 +460,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1650787984438" FOLDED="true" ID="ID_1799998248" MODIFIED="1660492784107">
+<node CREATED="1650787984438" ID="ID_1799998248" MODIFIED="1660502856892">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -480,7 +480,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1650788417509" FOLDED="true" ID="ID_1406393768" MODIFIED="1660492784106">
+<node CREATED="1650788417509" ID="ID_1406393768" MODIFIED="1660502860180">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -489,7 +489,7 @@
     Collect evidence that can be offered in court or at a corporate inquiry
   </body>
 </html></richcontent>
-<node CREATED="1650788440550" FOLDED="true" ID="ID_938036811" MODIFIED="1660492784106" TEXT="Eg:">
+<node CREATED="1650788440550" ID="ID_938036811" MODIFIED="1660502861802" TEXT="Eg:">
 <node CREATED="1650788445719" MODIFIED="1650788445719">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -512,7 +512,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1650788456910" FOLDED="true" ID="ID_505771118" MODIFIED="1660492784107">
+<node CREATED="1650788456910" ID="ID_505771118" MODIFIED="1660502858450">
 <richcontent TYPE="NODE"><html>
   <head>
     
