@@ -7167,7 +7167,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1660329976591" MODIFIED="1660329976591">
+<node CREATED="1660329976591" ID="ID_1223077027" MODIFIED="1660329976591">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -7176,6 +7176,23 @@
     Each MFT record starts with a header identifying it as a resident or nonresident attribute
   </body>
 </html></richcontent>
+</node>
+<node CREATED="1660668202009" ID="ID_1449223180" MODIFIED="1660668213046" TEXT="Attribute from a MFT">
+<node CREATED="1660668222564" ID="ID_974606356" MODIFIED="1660668226949" TEXT="0x10">
+<node CREATED="1660668260015" ID="ID_1200224667" MODIFIED="1660668341325" TEXT="This field contains data on file creation, alterations, MFT changes, read dates and times, and DOS file permissions"/>
+</node>
+<node CREATED="1660668228444" ID="ID_1733925885" MODIFIED="1660668231869" TEXT="0x20">
+<node CREATED="1660668346232" ID="ID_697556821" MODIFIED="1660668389823" TEXT="Attributes that don&apos;t fit in the MFT (nonresident attributes) are listed here along with their locations"/>
+</node>
+<node CREATED="1660668232944" ID="ID_963323927" MODIFIED="1660668236354" TEXT="0x30">
+<node CREATED="1660668392813" ID="ID_577821567" MODIFIED="1660668543743" TEXT="The long and short names for a file are contained here. Up to 255 unicode bytes are available for long filenames. For POSIX requirements, addition names or hard links can also be listed. Files with short filenames have only one attribute ID 0x30. Long filenames have two attributes ID 0x30 in the MFT record: one for the short name and one for the long name"/>
+</node>
+<node CREATED="1660668237488" ID="ID_1040011665" MODIFIED="1660668240362" TEXT="0x40">
+<node CREATED="1660668548817" ID="ID_1613871566" MODIFIED="1660668643989" TEXT="Ownership and who has access rights to the file or folder are listed here. Every MFT record is assigned a unique GUID. Depending on your NFTS setup, some file records might not contain this attribute ID."/>
+</node>
+<node CREATED="1660668241425" ID="ID_1215442026" MODIFIED="1660668243491" TEXT="0x50">
+<node CREATED="1660668649354" ID="ID_1215819705" MODIFIED="1660668663049" TEXT="Contains the access controls (ACL) for the file"/>
+</node>
 </node>
 <node CREATED="1660329980988" ID="ID_192608637" MODIFIED="1660499512782">
 <richcontent TYPE="NODE"><html>
