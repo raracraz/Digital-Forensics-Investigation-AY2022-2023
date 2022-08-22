@@ -1,7 +1,7 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1650639755340" ID="ID_948638930" MODIFIED="1650640659773" TEXT="Digital Forensics &amp; Investigations">
-<node CREATED="1650640682898" ID="ID_1256943092" MODIFIED="1660500266920" POSITION="right" TEXT="Topic 1: Intro to Forensics">
+<node CREATED="1650640682898" FOLDED="true" ID="ID_1256943092" MODIFIED="1661135653626" POSITION="right" TEXT="Topic 1: Intro to Forensics">
 <node CREATED="1650639983807" ID="ID_665774978" MODIFIED="1660492785996" TEXT="Overview of Digital Forensics">
 <node CREATED="1650640125392" ID="ID_113548316" MODIFIED="1660499089181" TEXT="What is Digital Forensics?">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
@@ -540,7 +540,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1650640661146" ID="ID_726873561" MODIFIED="1660500269136" POSITION="right" TEXT="Topic 2: Understanding Computer Investigations">
+<node CREATED="1650640661146" FOLDED="true" ID="ID_726873561" MODIFIED="1661135688662" POSITION="right" TEXT="Topic 2: Understanding Computer Investigations">
 <node CREATED="1650788973164" ID="ID_1017044145" MODIFIED="1660492786002">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -949,7 +949,7 @@
     2. Complete an evidence form and establish a <b>chain of custody</b>
   </body>
 </html></richcontent>
-<node CREATED="1650903254796" MODIFIED="1650903254796">
+<node CREATED="1650903254796" ID="ID_1368771247" MODIFIED="1650903254796">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1894,7 +1894,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1650976556145" FOLDED="true" ID="ID_1897998935" MODIFIED="1660492784365">
+<node CREATED="1650976556145" ID="ID_1897998935" MODIFIED="1660774765451">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2796,7 +2796,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1657054542071" ID="ID_1612597833" MODIFIED="1660500271946" POSITION="right" TEXT="Topic 3: Data Acquisition">
+<node CREATED="1657054542071" FOLDED="true" ID="ID_1612597833" MODIFIED="1660779606931" POSITION="right" TEXT="Topic 3: Data Acquisition">
 <node CREATED="1657059155295" ID="ID_177736628" MODIFIED="1660492786035">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3472,7 +3472,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1657071146269" MODIFIED="1657071146269">
+<node CREATED="1657071146269" ID="ID_227772946" MODIFIED="1657071146269">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3482,7 +3482,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1657071153761" MODIFIED="1657071153761">
+<node CREATED="1657071153761" ID="ID_1816536803" MODIFIED="1657071153761">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3567,7 +3567,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1660114588526" MODIFIED="1660114588526">
+<node CREATED="1660114588526" ID="ID_650008287" MODIFIED="1660114588526">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3672,7 +3672,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1660308455603" ID="ID_1587838127" MODIFIED="1660500273737" POSITION="right" TEXT="Topic 4: Digital forensics tools">
+<node CREATED="1660308455603" FOLDED="true" ID="ID_1587838127" MODIFIED="1660835093759" POSITION="right" TEXT="Topic 4: Digital forensics tools">
 <node CREATED="1660308493681" ID="ID_1892820764" MODIFIED="1660492786054">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -3830,7 +3830,7 @@
     Acquisition
   </body>
 </html></richcontent>
-<node CREATED="1660323684784" MODIFIED="1660323684784">
+<node CREATED="1660323684784" ID="ID_533437371" MODIFIED="1660323684784">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -3950,7 +3950,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1660323791083" MODIFIED="1660323791083">
+<node CREATED="1660323791083" ID="ID_1169430961" MODIFIED="1660323791083">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5193,7 +5193,7 @@
     Prevents data writes to a hard disk
   </body>
 </html></richcontent>
-<node CREATED="1660324583741" MODIFIED="1660324583741">
+<node CREATED="1660324583741" ID="ID_1516325657" MODIFIED="1660324583741">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -5827,7 +5827,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1660327599089" ID="ID_313465484" MODIFIED="1660500276298" POSITION="right" TEXT="Topic 5: Evidence Processing - OS &amp; File Systems">
+<node CREATED="1660327599089" FOLDED="true" ID="ID_313465484" MODIFIED="1660835676647" POSITION="right" TEXT="Topic 5: Evidence Processing - OS &amp; File Systems">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660328801231" ID="ID_208622149" MODIFIED="1660492786109">
 <richcontent TYPE="NODE"><html>
@@ -8794,7 +8794,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1660332629121" ID="ID_469454726" MODIFIED="1660500278677" POSITION="right" TEXT="Topic 6: Digital Forensics Analysis and Validation">
+<node CREATED="1660332629121" ID="ID_469454726" MODIFIED="1661135600245" POSITION="right" TEXT="Topic 6: Digital Forensics Analysis and Validation">
 <node CREATED="1660332720980" ID="ID_406279624" MODIFIED="1660492786207">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -9349,7 +9349,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1660381808097" MODIFIED="1660381808097">
+<node CREATED="1660381808097" ID="ID_539692964" MODIFIED="1660381808097">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10087,7 +10087,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1660386288790" MODIFIED="1660386288790">
+<node CREATED="1660386288790" ID="ID_1509587896" MODIFIED="1660386288790">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10097,7 +10097,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1660386295231" MODIFIED="1660386295231">
+<node CREATED="1660386295231" ID="ID_1172995788" MODIFIED="1660386295231">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -10581,7 +10581,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1660386626429" ID="ID_310767012" MODIFIED="1660500283630" POSITION="left" TEXT="Topic 7: The Investigator&#x2019;s Office and Laboratory ">
+<node CREATED="1660386626429" FOLDED="true" ID="ID_310767012" MODIFIED="1660842831167" POSITION="right" TEXT="Topic 7: The Investigator&#x2019;s Office and Laboratory ">
 <node CREATED="1660386808409" ID="ID_650674796" MODIFIED="1660492786253">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -12023,7 +12023,7 @@
     Audits should include inspecting the following facility components and practices:
   </body>
 </html></richcontent>
-<node CREATED="1660397273959" MODIFIED="1660397273959">
+<node CREATED="1660397273959" ID="ID_1056989954" MODIFIED="1660397273959">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12033,7 +12033,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1660397277498" MODIFIED="1660397277498">
+<node CREATED="1660397277498" ID="ID_1562631489" MODIFIED="1660397277498">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12043,7 +12043,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1660397281110" MODIFIED="1660397281110">
+<node CREATED="1660397281110" ID="ID_357632093" MODIFIED="1660397281110">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12053,7 +12053,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1660397284086" MODIFIED="1660397284086">
+<node CREATED="1660397284086" ID="ID_207572657" MODIFIED="1660397284086">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12063,7 +12063,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1660397287495" MODIFIED="1660397287495">
+<node CREATED="1660397287495" ID="ID_853694528" MODIFIED="1660397287495">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -12470,7 +12470,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1660402972842" ID="ID_1703129533" MODIFIED="1660500286464" POSITION="left" TEXT="Topic 8: Processing Crime and Incident Scenes">
+<node CREATED="1660402972842" ID="ID_1703129533" MODIFIED="1661135551695" POSITION="right" TEXT="Topic 8: Processing Crime and Incident Scenes">
 <node CREATED="1660403004646" ID="ID_278790425" MODIFIED="1660492786303">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -13189,7 +13189,7 @@
     If a corporate investigator finds that an employee is committing or has committed a crime
   </body>
 </html></richcontent>
-<node CREATED="1660408005387" MODIFIED="1660408005387">
+<node CREATED="1660408005387" ID="ID_583669458" MODIFIED="1660408005387">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13796,7 +13796,7 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1660409644666" FOLDED="true" ID="ID_1555569824" MODIFIED="1660492785713">
+<node CREATED="1660409644666" ID="ID_1555569824" MODIFIED="1660843117314">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -13806,7 +13806,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1660409694208" FOLDED="true" ID="ID_1434647062" MODIFIED="1660492785713">
+<node CREATED="1660409694208" ID="ID_1434647062" MODIFIED="1660843118835">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14064,6 +14064,10 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660670064566" ID="ID_786225779" MODIFIED="1660670070315" TEXT="flashlight"/>
+<node CREATED="1660670070882" ID="ID_884392052" MODIFIED="1660670082488" TEXT="laptop computer"/>
+<node CREATED="1660670083493" ID="ID_938214810" MODIFIED="1660670088409" TEXT="digital camera"/>
+<node CREATED="1660670092727" ID="ID_7622241" MODIFIED="1660670097957" TEXT="digital forensics kit"/>
 </node>
 </node>
 <node CREATED="1660409923589" ID="ID_710031567" MODIFIED="1660499879731">
@@ -14076,7 +14080,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1660409927433" MODIFIED="1660409927433">
+<node CREATED="1660409927433" ID="ID_870218939" MODIFIED="1660409927433">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -14085,6 +14089,12 @@
     Includes all tools you can afford to take to the field
   </body>
 </html></richcontent>
+<node CREATED="1660670121374" ID="ID_927724281" MODIFIED="1660670161244" TEXT="additional handtools: pilers, bolt cutters, pry bar"/>
+<node CREATED="1660670162201" ID="ID_915167882" MODIFIED="1660670175841" TEXT="leather gloves"/>
+<node CREATED="1660670176755" ID="ID_298119938" MODIFIED="1660670187434" TEXT="hand truck / luggage cart"/>
+<node CREATED="1660670188367" ID="ID_106877776" MODIFIED="1660670205483" TEXT="USB drives of varies sizes"/>
+<node CREATED="1660670275799" ID="ID_512892122" MODIFIED="1660670282683" TEXT="magnifying glasses"/>
+<node CREATED="1660670314300" ID="ID_1228517894" MODIFIED="1660670361686" TEXT="electrical power strips"/>
 </node>
 <node CREATED="1660409930252" MODIFIED="1660409930252">
 <richcontent TYPE="NODE"><html>
@@ -15012,7 +15022,7 @@
 </html></richcontent>
 </node>
 </node>
-<node CREATED="1660410634906" MODIFIED="1660410634906">
+<node CREATED="1660410634906" ID="ID_1027711370" MODIFIED="1660410634906">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15633,7 +15643,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1660411619886" ID="ID_1977901997" MODIFIED="1660500289601" POSITION="left" TEXT="Topic 9: Historical Cellular">
+<node CREATED="1660411619886" FOLDED="true" ID="ID_1977901997" MODIFIED="1661096208860" POSITION="right" TEXT="Topic 9: Historical Cellular">
 <node CREATED="1660415523234" ID="ID_704942958" MODIFIED="1660492786387" TEXT="How do cell phones work?">
 <node CREATED="1660415932304" ID="ID_453770965" MODIFIED="1660499981943">
 <richcontent TYPE="NODE"><html>
@@ -15810,7 +15820,7 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1660417898553" MODIFIED="1660417898553">
+<node CREATED="1660417898553" ID="ID_1380465907" MODIFIED="1660417898553">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -15820,7 +15830,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1660417903954" MODIFIED="1660417903954">
+<node CREATED="1660417903954" ID="ID_1267036953" MODIFIED="1660417903954">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -17107,7 +17117,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1660485841794" ID="ID_579122812" MODIFIED="1660500295927" POSITION="left" TEXT="Topic 10: Mobile forensics (Android)">
+<node CREATED="1660485841794" FOLDED="true" ID="ID_579122812" MODIFIED="1661096480891" POSITION="right" TEXT="Topic 10: Mobile forensics (Android)">
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1660485880286" ID="ID_749123081" MODIFIED="1660492786402">
 <richcontent TYPE="NODE"><html>
@@ -20140,7 +20150,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1660494528066" ID="ID_472667225" MODIFIED="1660500299848" POSITION="left" TEXT="Topic 11: Mobile forensics (IOS)">
+<node CREATED="1660494528066" ID="ID_472667225" MODIFIED="1661096482175" POSITION="right" TEXT="Topic 11: Mobile forensics (IOS)">
 <node CREATED="1660485955781" ID="ID_9783071" MODIFIED="1660492786408">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -22438,7 +22448,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1660497951830" ID="ID_1659160649" MODIFIED="1660497951830">
+<node CREATED="1660497951830" ID="ID_1659160649" MODIFIED="1661096706341">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23325,7 +23335,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1660498589979" ID="ID_127817446" MODIFIED="1660500303010" POSITION="left" TEXT="Topic 12: Rooting &amp; Jailbreaking">
+<node CREATED="1660498589979" ID="ID_127817446" MODIFIED="1661096708671" POSITION="right" TEXT="Topic 12: Rooting &amp; Jailbreaking">
 <node CREATED="1660498619709" ID="ID_189625024" MODIFIED="1660498619709">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -23518,7 +23528,7 @@
     Motivation for End Users
   </body>
 </html></richcontent>
-<node CREATED="1660498799641" MODIFIED="1660498799641">
+<node CREATED="1660498799641" ID="ID_1340859436" MODIFIED="1660498799641">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23653,7 +23663,7 @@
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1660498887194" MODIFIED="1660498887194">
+<node CREATED="1660498887194" ID="ID_538535610" MODIFIED="1660498887194">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23880,7 +23890,7 @@
     Various tools are used
   </body>
 </html></richcontent>
-<node CREATED="1660499034295" MODIFIED="1660499034295">
+<node CREATED="1660499034295" ID="ID_1006923556" MODIFIED="1660499034295">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23890,7 +23900,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1660499037568" MODIFIED="1660499037568">
+<node CREATED="1660499037568" ID="ID_407667171" MODIFIED="1660499037568">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23900,7 +23910,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1660499040390" MODIFIED="1660499040390">
+<node CREATED="1660499040390" ID="ID_1945654406" MODIFIED="1660499040390">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23910,7 +23920,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1660499043356" MODIFIED="1660499043356">
+<node CREATED="1660499043356" ID="ID_1390013084" MODIFIED="1660499043356">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23920,7 +23930,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1660499046251" MODIFIED="1660499046251">
+<node CREATED="1660499046251" ID="ID_263624396" MODIFIED="1660499046251">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -23952,6 +23962,6482 @@
   </body>
 </html></richcontent>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1660773012021" ID="ID_546029621" MODIFIED="1660773018178" POSITION="left" TEXT="Area of Focus">
+<node CREATED="1660773024077" ID="ID_1805971812" MODIFIED="1661135693226" TEXT="Topic 1: Intro to Forensics">
+<node CREATED="1660773166271" ID="ID_1016093143" MODIFIED="1660773177060" TEXT="Definition of Digital Forensics">
+<node CREATED="1650640169579" ID="ID_293372052" MODIFIED="1650733302626" TEXT="Using computer science and investigative procedures legally, involving the analysis of digital evidence after proper search authority, chain of custody, validation with mathematics, use of validated tools, repeatability, reporting, and possible expert presentation">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660773195325" ID="ID_1069351051" MODIFIED="1660773213219" TEXT="What is a &quot;chain of custody&quot;">
+<node CREATED="1650903254796" ID="ID_721502201" MODIFIED="1660773405594">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    A chain of custody helps show where the file came from, who created it, and the type of equipment that was used
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660773450938" ID="ID_900167433" MODIFIED="1660773468013" TEXT="Difference between Private and Public investigations">
+<node CREATED="1650641100750" ID="ID_1475969233" MODIFIED="1660499103174" TEXT="Public-sector  investigations">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650641250884" ID="ID_1190710368" MODIFIED="1650641257472" TEXT="Involve government agencies responsible for criminal investigations and prosecution"/>
+<node CREATED="1650641271190" ID="ID_336108492" MODIFIED="1650641292720" TEXT="Professionals need to be familiar with &#x201c;Fourth Amendment&#x201d; to the U.S. Constitution - Restrict government search and seizure"/>
+<node CREATED="1650643625850" ID="ID_1507956021" MODIFIED="1660499107784" TEXT="Following the legal processes">
+<node CREATED="1650646967916" ID="ID_1690393067" MODIFIED="1660499108929" TEXT="Steps to take">
+<node CREATED="1650643649278" ID="ID_400299083" MODIFIED="1650733289678" TEXT="1. A criminal investigation usually begins when someone finds evidence of or witnesses a crime">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1650643653825" ID="ID_828226699" MODIFIED="1650733290304" TEXT="2. Police interview the complainant and writes a report about the crime">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1650643663040" ID="ID_66973287" MODIFIED="1660499114966" TEXT="3. Report is processed and management decides to start an investigation or log the information in a police blotter">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650643758646" ID="ID_1955407588" MODIFIED="1650643759455" TEXT="Blotter is a historical database of previous crimes"/>
+</node>
+</node>
+<node CREATED="1650647383955" ID="ID_1257419301" MODIFIED="1660499110084" TEXT="Persons Involved">
+<node CREATED="1650643786716" ID="ID_502599713" MODIFIED="1660499116625" TEXT="Digital Evidence First Responder (DEFR)">
+<node CREATED="1650646662043" ID="ID_1529024503" MODIFIED="1650733287942">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Arrives on an incident scene, assesses the situation, and takes precautions to acquire and preserve evidence
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1650646656058" ID="ID_1692178578" MODIFIED="1660499117357">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Digital Evidence Specialist (DES)
+  </body>
+</html></richcontent>
+<node CREATED="1650646702454" ID="ID_161531388" MODIFIED="1650733286887">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Has the skill to analyze the data and determine when another specialist should be called in to assist
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1650646713189" ID="ID_1484419843" MODIFIED="1660499110961">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Affidavit
+  </body>
+</html></richcontent>
+<node CREATED="1650646720503" ID="ID_150310395" MODIFIED="1660499118190" TEXT="A sworn statement of support of facts about  or evidence of a crime">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650646817511" ID="ID_731755613" MODIFIED="1650733295579" TEXT="Must include exhibits that support the allegation">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1650641109050" ID="ID_750885483" MODIFIED="1660499104205" TEXT="Private-sector  investigations">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650647452244" ID="ID_1352414295" MODIFIED="1660499118817">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Involve private companies and lawyers who address company policy violations and litigation disputes
+  </body>
+</html></richcontent>
+<node CREATED="1650647469545" ID="ID_1415006089" MODIFIED="1650647502918" TEXT="Eg: wrongful termination"/>
+</node>
+<node CREATED="1650647511917" ID="ID_1027969574" MODIFIED="1650647511917">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Businesses strive to minimize or eliminate litigation
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650647521400" ID="ID_1003446319" MODIFIED="1660499119978">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Private-sector crimes can involve:
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650647527150" ID="ID_1560990768" MODIFIED="1650647539102">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    E-mail harassment
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650647534566" ID="ID_888475523" MODIFIED="1650647548108">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Falsification of data
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650647554652" ID="ID_1855644703" MODIFIED="1650647560872">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Gender and age discrimination
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650647567646" ID="ID_1080657419" MODIFIED="1650647572631">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Embezzlement
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650647581160" ID="ID_918038836" MODIFIED="1650647586065">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Sabotage
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650647594045" ID="ID_1651377927" MODIFIED="1650647605551">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Industrial Espionage
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650733244655" ID="ID_295273531" MODIFIED="1660499121015">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Businesses can reduce the risk of litigation by
+  </body>
+</html></richcontent>
+<node CREATED="1650733252323" ID="ID_1823016921" MODIFIED="1650733281963">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    publishing and maintaining policies that employees find easy to read and follow
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1650733267396" ID="ID_1930125670" MODIFIED="1660499121996">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Most important policies define rules for using the company&#8217;s computers and networks
+  </body>
+</html></richcontent>
+<node CREATED="1650733272477" ID="ID_758460956" MODIFIED="1650733275602">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Known as an &#8220;Acceptable use policy&#8221;
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1650733359372" ID="ID_781357794" MODIFIED="1660499123960">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Line of authority
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650733369243" ID="ID_1414812770" MODIFIED="1650733374699">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    States who has the legal right to initiate an investigation, who can take possession of evidence, and who can have access to evidence
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650784701835" ID="ID_1784584926" MODIFIED="1660499124958" TEXT="Businesses can avoid litigation by">
+<node CREATED="1650784717760" ID="ID_529119182" MODIFIED="1660499131431" TEXT="Displaying a warning banner on computer screens">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650784744724" ID="ID_1538185287" MODIFIED="1650784744724">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Informs end users that the organization reserves the right to inspect computer systems and network traffic at will
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1650784795192" ID="ID_415272968" MODIFIED="1660499125602">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    During private investigations
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650784805388" ID="ID_1607476888" MODIFIED="1660499130295">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    you search for evidence to support allegations of violations of a company&#8217;s rules or an attack on its assets
+  </body>
+</html></richcontent>
+<node CREATED="1650784816663" ID="ID_1078455494" MODIFIED="1660499133048" TEXT="Eg:">
+<node CREATED="1650784824849" MODIFIED="1650784824849">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Abuse or misuse of computing assets
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650784828689" MODIFIED="1650784828689">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    E-mail abuse
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650784832610" MODIFIED="1650784832610">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Internet abuse
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1650784897556" ID="ID_1263724838" MODIFIED="1650784899507">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    A private-sector investigator&#8217;s job is to minimize risk to the company
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1650786978616" ID="ID_1508656431" MODIFIED="1660499126586">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Bring your own device (BYOD) environment
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="11"/>
+<node CREATED="1650787079993" MODIFIED="1650787079993">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Some companies state that if you connect a personal device to the business network, it falls under the same rules as company property
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650787178375" ID="ID_1820554116" MODIFIED="1660499127241">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Maintaining Professional Conduct
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650787289481" ID="ID_245718103" MODIFIED="1650787292135">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Professional conduct - includes ethics, morals, and standards of behavior
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1650787300146" ID="ID_1339250341" MODIFIED="1660499129323">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    An investigator must exhibit the highest level of professional behavior at all times
+  </body>
+</html></richcontent>
+<node CREATED="1650787304557" ID="ID_1927212753" MODIFIED="1650787312160">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Maintain objectivity
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1650787308921" ID="ID_325653207" MODIFIED="1650787312743">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Maintain credibility by maintaining confidentiality
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1650787548152" ID="ID_1367389918" MODIFIED="1650787618879">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Investigations should <b>attend training</b>&#160;to stay current with the latest technical changes in computer hardware and software, networking, and forensic tools
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650787630034" ID="ID_1365610683" MODIFIED="1660499128088">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Preparing a Digital Forensics Investigation
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650787984438" ID="ID_1572728280" MODIFIED="1660502856892">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Role of a digital forensics professional
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650788406139" ID="ID_1567562458" MODIFIED="1650788410099">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Gather evidence to prove that a suspect committed a crime or violated a company policy
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650788417509" ID="ID_1322823443" MODIFIED="1660502860180">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Collect evidence that can be offered in court or at a corporate inquiry
+  </body>
+</html></richcontent>
+<node CREATED="1650788440550" ID="ID_988520677" MODIFIED="1660502861802" TEXT="Eg:">
+<node CREATED="1650788445719" MODIFIED="1650788445719">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Investigate the suspect&#8217;s computer
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650788451340" MODIFIED="1650788451340">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Preserve the evidence on a different computer
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1650788456910" ID="ID_68540990" MODIFIED="1660502858450">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Chain of custody
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650788463060" ID="ID_1550087506" MODIFIED="1650788502194">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Route the evidence takes from the time you find it until the case is closed or goes to court .
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660773513097" ID="ID_1099067213" MODIFIED="1660773524306" TEXT="Case law">
+<node CREATED="1660773526647" ID="ID_188819357" MODIFIED="1660773533079" TEXT="What is Case law">
+<node CREATED="1650640830476" ID="ID_1511714981" MODIFIED="1660282791510" TEXT="Allows legal counsel to apply previous similar cases to current one in an effort to address ambiguity in laws when statutes does not exist">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660773533443" ID="ID_743370166" MODIFIED="1660773538837" TEXT="Why is Case law required">
+<node CREATED="1650640780595" ID="ID_472110481" MODIFIED="1650733312819" TEXT="Existing laws can&#x2019;t keep up with the rate of technological change">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660773589379" ID="ID_24597913" MODIFIED="1660773604989" TEXT="When statutes don&apos;t exist, case law is used">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1650640869010" ID="ID_1143692179" MODIFIED="1650733315706" TEXT="Examiners must be familiar with recent court rulings on search and seizure in the electronic environment">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1660773621510" ID="ID_241226809" MODIFIED="1660773641085" TEXT="Potential challenges a digital investigator may face today">
+<node CREATED="1660773824458" ID="ID_1656480732" MODIFIED="1660773835515" TEXT="Password protection on devices"/>
+<node CREATED="1660773835967" ID="ID_189840906" MODIFIED="1660773840470" TEXT="Encryption"/>
+<node CREATED="1660773851591" ID="ID_1917069962" MODIFIED="1660773937998" TEXT="Potential legal issues"/>
+<node CREATED="1660773986688" ID="ID_940557701" MODIFIED="1660774002887" TEXT="Amount of data stored on a device is large"/>
+<node CREATED="1660774031930" ID="ID_1081303077" MODIFIED="1660774064718" TEXT="Cloud storage is becoming increasingly popular"/>
+</node>
+</node>
+<node CREATED="1660774411649" FOLDED="true" ID="ID_1704310356" MODIFIED="1660836233266" TEXT="Topic 2: Understanding Computer Investigations">
+<node CREATED="1660774452111" ID="ID_1539259807" MODIFIED="1660774474903" TEXT="Most important rule of Computer Forensics">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660774463840" ID="ID_1401797169" MODIFIED="1660774474904" TEXT="Preserve the original evidence">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660774566269" ID="ID_768097956" MODIFIED="1660774575007" TEXT="Chain of evidence form">
+<node CREATED="1660774579602" ID="ID_1543184875" MODIFIED="1660774625978" TEXT="To record who collected, handled, analysed or controlled evidence during investigation">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1650904711101" ID="ID_1028971211" MODIFIED="1660499189063" TEXT="An evidence custody form helps you document what has been done with the original evidence and  its forensics copies">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650904771392" ID="ID_1610203848" MODIFIED="1650904781046">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Also called a <b>chain-of-evidence</b>&#160;form
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650904799990" ID="ID_1534447075" MODIFIED="1660499190448">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Two types
+  </body>
+</html></richcontent>
+<node CREATED="1650904806529" ID="ID_1098011266" MODIFIED="1660499192379">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Single-evidence form
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650904821069" MODIFIED="1650904821069">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Lists each piece of evidence on a separate page
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650904813761" ID="ID_1255897034" MODIFIED="1660499191683">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Multi-evidence form
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650905030569" ID="ID_1033876119" MODIFIED="1660499193190">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Examples
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650905036527" ID="ID_986373769" MODIFIED="1660499198911">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Model number or serial number
+  </body>
+</html></richcontent>
+<node CREATED="1650905068921" ID="ID_1999679770" MODIFIED="1650905073740">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    List the model number or serial number of the computer component.
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650905042689" ID="ID_1594233646" MODIFIED="1660499200280">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Evidence recovered by
+  </body>
+</html></richcontent>
+<node CREATED="1650905080333" MODIFIED="1650905080333">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The name of the investigator who recovered the evidence
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650905092111" MODIFIED="1650905092111">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The chain of custody for evidence starts with this information. The person placing his or her name on this line is responsible for preserving, transporting, and securing the evidence.
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650905051791" ID="ID_578332323" MODIFIED="1660499194498">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Date and time
+  </body>
+</html></richcontent>
+<node CREATED="1650905097966" MODIFIED="1650905097966">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The date and time the evidence was taken into custody.
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660774643409" ID="ID_389484946" MODIFIED="1660774655064" TEXT="Understand common investigation cases">
+<node CREATED="1650906102751" ID="ID_1776741305" MODIFIED="1660499212671">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Example #1: Employee Termination Cases
+  </body>
+</html></richcontent>
+<node CREATED="1650906117272" MODIFIED="1650906117272">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The majority of investigative work for termination cases involves employee abuse of corporate assets
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906124576" ID="ID_1593317187" MODIFIED="1660499218046">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Incidents that create a hostile work environment are the predominant types of cases investigated
+  </body>
+</html></richcontent>
+<node CREATED="1650906130252" MODIFIED="1650906130252">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Viewing pornography in the workplace
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906136437" MODIFIED="1650906136437">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Sending inappropriate e-mails
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650906143835" ID="ID_1411243534" MODIFIED="1660499220870">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Organizations must have appropriate policies in place
+  </body>
+</html></richcontent>
+<node CREATED="1650906150368" ID="ID_1658938877" MODIFIED="1650906151584">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    &#8211; consult HR department
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1650906164682" ID="ID_1697950034" MODIFIED="1660499213770">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Example #2: Internet Abuse Investigations
+  </body>
+</html></richcontent>
+<node CREATED="1650906170873" ID="ID_1527589026" MODIFIED="1660499222357">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    To conduct an investigation you need:
+  </body>
+</html></richcontent>
+<node CREATED="1650906176680" ID="ID_703742875" MODIFIED="1650906183473">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Organization&#8217;s <b>Internet proxy server logs</b>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906190463" ID="ID_509531180" MODIFIED="1650906200868">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Suspect computer&#8217;s <b>IP address</b>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906206863" MODIFIED="1650906206863">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Suspect computer&#8217;s disk drive
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906213078" MODIFIED="1650906213078">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Your preferred computer forensics analysis tool
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650906225517" ID="ID_1343115490" MODIFIED="1660499223468">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Recommended steps
+  </body>
+</html></richcontent>
+<node CREATED="1650906230939" MODIFIED="1650906230939">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Use standard forensic analysis techniques and procedures
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906356004" MODIFIED="1650906356004">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Use appropriate tools to extract all Web page URL information
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906363686" MODIFIED="1650906363686">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Contact the network firewall administrator and request a proxy server log
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906368273" MODIFIED="1650906368273">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Compare the data recovered from forensic analysis to the proxy server log
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906372303" MODIFIED="1650906372303">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Continue analyzing the computer&#8217;s disk drive data
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1650906379307" ID="ID_1887632930" MODIFIED="1660499214663">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Example #3: E-mail Abuse Investigations
+  </body>
+</html></richcontent>
+<node CREATED="1650906423384" ID="ID_1860570469" MODIFIED="1660499224665">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    To conduct an investigation you need:
+  </body>
+</html></richcontent>
+<node CREATED="1650906429254" MODIFIED="1650906429254">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    An electronic copy of the offending e-mail that contains message header data
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906436994" MODIFIED="1650906436994">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    If available, e-mail server log records
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906440946" MODIFIED="1650906440946">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    For e-mail systems that store users&#8217; messages on a central server, access to the server
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906446200" MODIFIED="1650906446200">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Access to the computer so that you can perform a forensic analysis on it
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650906450064" MODIFIED="1650906450064">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Your preferred computer forensics analysis tool
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650906464903" ID="ID_1101162386" MODIFIED="1660499225768">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Recommended steps
+  </body>
+</html></richcontent>
+<node CREATED="1650976336533" ID="ID_1762039062" MODIFIED="1650976336533">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Use the standard forensic analysis techniques
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976344465" MODIFIED="1650976344465">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Obtain an electronic copy of the suspect&#8217;s and victim&#8217;s e-mail folder or data
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976349993" MODIFIED="1650976349993">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    For Web-based e-mail investigations, use tools such as FTK&#8217;s Internet Keyword Search option to extract all related e-mail address information
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976353181" MODIFIED="1650976353181">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Examine header data of all messages of interest to the investigation
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1650976364257" ID="ID_1746557009" MODIFIED="1660499215743">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Example #4: Industrial Espionage Investigations
+  </body>
+</html></richcontent>
+<node CREATED="1650976383226" ID="ID_45328753" MODIFIED="1650976394072">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    All suspected <b>industrial espionage cases</b>&#160;should be treated as <b>criminal investigations</b>&#160;:<b>&#160;Very common</b>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976403787" ID="ID_1034913065" MODIFIED="1660499228008">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Staff needed include:
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650976409256" ID="ID_1940777953" MODIFIED="1660499231868">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Computing investigator
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650976428903" MODIFIED="1650976428903">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    who is responsible for disk forensic examinations
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650976412650" ID="ID_1575569661" MODIFIED="1660499232684">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Technology specialist
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650976432917" MODIFIED="1650976432917">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    who is knowledgeable of the suspected compromised technical data
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650976415492" ID="ID_1274796909" MODIFIED="1660499233502">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Network specialist
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650976436819" MODIFIED="1650976436819">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    who can perform log analysis and set up network sniffers
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650976421075" ID="ID_443237690" MODIFIED="1660499234640">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Threat assessment specialist
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650976440514" MODIFIED="1650976440514">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    (typically an attorney)
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1650976448154" ID="ID_1857014617" MODIFIED="1660499229382">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <b>Guidelines</b>&#160;when initiating an investigation
+  </body>
+</html></richcontent>
+<node CREATED="1650976455056" MODIFIED="1650976455056">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    1. Determine whether this investigation involves a possible industrial espionage incident
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976458462" ID="ID_276980754" MODIFIED="1650976458462">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    2. Consult with corporate attorneys and upper management
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976476095" MODIFIED="1650976476095">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    3. Determine what information is needed to substantiate the allegation
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976479895" MODIFIED="1650976479895">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    4. Generate a list of keywords for disk forensics and sniffer monitoring
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976484224" MODIFIED="1650976484224">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    5. List and collect resources for the investigation
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976491030" MODIFIED="1650976491030">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    6. Determine goal and scope of the investigation
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976494201" MODIFIED="1650976494201">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    7. Initiate investigation after approval from management
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650976499482" ID="ID_550335945" MODIFIED="1660499230450">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <b>Planning</b>&#160;considerations
+  </body>
+</html></richcontent>
+<node CREATED="1650976512473" MODIFIED="1650976512473">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    1. Examine all e-mail of suspected employees
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976515819" MODIFIED="1650976515819">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    2. Search Internet newsgroups or message boards
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976519018" MODIFIED="1650976519018">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    3. Initiate physical surveillance
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976521895" MODIFIED="1650976521895">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    4. Examine facility physical access logs for sensitive areas
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976528871" MODIFIED="1650976528871">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    5. Determine suspect location in relation to the vulnerable asset
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976532358" MODIFIED="1650976532358">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    6. Study the suspect&#8217;s work habits
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976536579" MODIFIED="1650976536579">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    7. Collect all incoming and outgoing phone logs
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1650976556145" ID="ID_946843825" MODIFIED="1660774745160">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Steps to conducting an industrial espionage case
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1650976561385" MODIFIED="1650976561385">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    1. Gather all personnel assigned to the investigation and brief them on the plan
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976564345" MODIFIED="1650976564345">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    2. Gather resources to conduct the investigation
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976569388" MODIFIED="1650976569388">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    3. Place surveillance systems at key locations
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976572909" MODIFIED="1650976572909">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    4. Discreetly gather any additional evidence
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976576047" MODIFIED="1650976576047">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    5. Collect all log data from networks and e-mail servers
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976578784" MODIFIED="1650976578784">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    6. Report regularly to management and corporate attorneys
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1650976583075" MODIFIED="1650976583075">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    7. Review the investigation&#8217;s scope with management and corporate attorneys
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660774718590" ID="ID_1660794918" MODIFIED="1660774759588" TEXT="Difference between Private-sector and Public-sector investigation">
+<node CREATED="1660775294763" ID="ID_815149393" MODIFIED="1660775457946" TEXT="Public sector usually deal with criminal cases, while Private sector deals with abuse of resources"/>
+<node CREATED="1660775459319" ID="ID_936353383" MODIFIED="1660775563178" TEXT="Public sector involves government agencies responsible for criminal investigations and prosecution, while Private sector involves private companies and lawyers who address company policy violations and litigation disputes"/>
+<node CREATED="1660775701023" ID="ID_1054337930" MODIFIED="1660775794532" TEXT="Public sector has access to privileged government resources to solve cases, while private does not have the same access"/>
+</node>
+</node>
+<node CREATED="1660775814869" FOLDED="true" ID="ID_892071507" MODIFIED="1660836231812" TEXT="Topic 3: Data Acquisition">
+<node CREATED="1660775850855" ID="ID_319758309" MODIFIED="1660775860333" TEXT="Evidence storage formats">
+<node CREATED="1657059218901" ID="ID_1416191043" MODIFIED="1660499279419">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Raw format
+  </body>
+</html></richcontent>
+<node CREATED="1657059328976" MODIFIED="1657059328976">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Makes it possible to write bit-stream data to files (Sequence flat file)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059334968" ID="ID_12470228" MODIFIED="1660499283069">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Advantages
+  </body>
+</html></richcontent>
+<node CREATED="1657059347321" ID="ID_134770024" MODIFIED="1657059359498">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    1. Fast data transfers
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059350919" ID="ID_1542729900" MODIFIED="1657059365134">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    2. Ignores minor data read errors on source drive
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059354452" ID="ID_632713641" MODIFIED="1657059369462">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    3. Most computer forensics tools can read raw format
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1657059343660" ID="ID_961039842" MODIFIED="1660499284041">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Disadvantages
+  </body>
+</html></richcontent>
+<node CREATED="1657059376318" ID="ID_1925702056" MODIFIED="1657059403882">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    1. Requires as much storage as original disk or data
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059399648" ID="ID_463583737" MODIFIED="1657059427747">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    2. Tools might not collect bad sectors due to low threshold of retry reads on weak media spots on a drive
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1657059222503" ID="ID_212848621" MODIFIED="1660499280502">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Proprietary formats
+  </body>
+</html></richcontent>
+<node CREATED="1657059451673" ID="ID_1406262321" MODIFIED="1660499284989">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Advantages
+    </p>
+  </body>
+</html></richcontent>
+<node CREATED="1657059467179" ID="ID_1185990424" MODIFIED="1657059539588">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    1. Option to compress or not compress image files - save space
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059481875" ID="ID_1704229627" MODIFIED="1657059543580">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    2. Can split an image into smaller segmented files &#8211; provide integrity check for split data
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059485522" ID="ID_362770907" MODIFIED="1657059547336">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    3. Can integrate metadata into the image file
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1657059504623" ID="ID_273718664" MODIFIED="1660499285982" TEXT="Disadvantages">
+<node CREATED="1657059518485" ID="ID_1056463514" MODIFIED="1657059530656">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    1. Inability to share an image between different tools/vendors
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059526391" ID="ID_851964672" MODIFIED="1657059534573">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    2. File size limitation for each segmented volume
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1657059587829" ID="ID_720436023" MODIFIED="1657059602262">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The Expert Witness format is unofficial standard - Ex01, E01
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1657059226374" ID="ID_758556721" MODIFIED="1660499281475">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Advanced Forensics Format (AFF)
+  </body>
+</html></richcontent>
+<node CREATED="1657059617732" ID="ID_1433794713" MODIFIED="1660499287541">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Design goals
+  </body>
+</html></richcontent>
+<node CREATED="1657059624483" MODIFIED="1657059624483">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    1. Provide compressed or uncompressed image files
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059627679" MODIFIED="1657059627679">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    2. No size restriction for disk-to-image files
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059631010" MODIFIED="1657059631010">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    3. Provide space in the image file or segmented files for metadata
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059634482" MODIFIED="1657059634482">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    4. Simple design with extensibility
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059637548" MODIFIED="1657059637548">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    5. Open source for multiple platforms and Oss
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059642635" MODIFIED="1657059642635">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    6. vendors will have no implementation restrictions on this format. Possible the future standard
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657059646369" MODIFIED="1657059646369">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    7. Internal consistency checks for self-authentication
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1657059660751" ID="ID_16750206" MODIFIED="1660499288827" TEXT="File extensions:">
+<node CREATED="1657059672940" ID="ID_1342761972" MODIFIED="1660499290288" TEXT=".afd">
+<node CREATED="1657059871861" ID="ID_326541528" MODIFIED="1657059876128">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    segmented image files
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1657059683902" ID="ID_373430216" MODIFIED="1660499291271" TEXT=".afm">
+<node CREATED="1657059881793" MODIFIED="1657059881793">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    AFF metadata
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1657059889106" ID="ID_1498047620" MODIFIED="1657059894461">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    AFF is <b>open source</b>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660775990373" ID="ID_1010603805" MODIFIED="1660776007107" TEXT="Why is Acquisition necessary">
+<node CREATED="1660776007912" ID="ID_1679455533" MODIFIED="1660776012853">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The goal of forensic data acquisition is to create a forensic copy of a piece of media that is suitable for use as evidence in a court of law
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660776026984" ID="ID_1617622625" MODIFIED="1660776031337" TEXT="Acquisition methods">
+<node CREATED="1657059956122" ID="ID_496087024" MODIFIED="1660499295586">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Creating a disk-to-image file
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1657060001006" MODIFIED="1657060001006">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Most common method and offers most flexibility
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657060099613" MODIFIED="1657060099613">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Can make more than one copy
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657060103217" MODIFIED="1657060103217">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Copies are bit-for-bit replications of the original drive
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657060135680" ID="ID_811074452" MODIFIED="1657060146850">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Tools: ProDiscover, EnCase, FTK, SMART, Sleuth Kit, X-Ways, iLookIX
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1657059958995" ID="ID_286987144" MODIFIED="1660499296400">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Creating a disk-to-disk
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1657060116318" MODIFIED="1657060116318">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    When disk-to-image copy is not possible
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657060120585" ID="ID_1422673551" MODIFIED="1657060177759">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Tools can adjust disk&#8217;s geometry (eg: track, sector)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657060124789" ID="ID_952354728" MODIFIED="1657060152636">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Tools: EnCase, SnapCopy, SafeBack
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1657060382855" ID="ID_1152343391" MODIFIED="1660499297338" TEXT="Used when time is limited">
+<node CREATED="1657060401036" ID="ID_1742969392" MODIFIED="1660499300146">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Creating a logical disk-to-disk
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1657060413494" ID="ID_773405000" MODIFIED="1657060419263">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Captures only specific files of interest to the case
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1657060404065" ID="ID_244022630" MODIFIED="1660499301223">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Creating a sparse data copy of a file or folder
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1657060424678" ID="ID_946446877" MODIFIED="1657060431281">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Collects fragments of unallocated (deleted) data
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1657060442651" ID="ID_1402624414" MODIFIED="1660499302034" TEXT="Reasons for using Logical or Sparse acquisition">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1657060454095" MODIFIED="1657060454095">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    For large disks
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1657060493510" ID="ID_50398008" MODIFIED="1660499298240">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    When making a copy, consider:
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1657060498290" ID="ID_1202127965" MODIFIED="1660499302638">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Size of the source disk
+  </body>
+</html></richcontent>
+<node CREATED="1657060531377" ID="ID_1888813197" MODIFIED="1657060540529">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    an alternative is using tape backup systems (i.e SDLT. Can be slow if data is large)
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1657060516983" MODIFIED="1657060516983">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Whether you can retain the disk
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660776353535" ID="ID_1636781151" MODIFIED="1660776376020" TEXT="Write-blocking device">
+<node CREATED="1660776605908" ID="ID_239806641" MODIFIED="1660776613873" TEXT="What is a write-blocking device">
+<node CREATED="1660776617528" ID="ID_1770981949" MODIFIED="1660776617531" TEXT="A write blocker is any tool that permits read-only access to data storage devices without compromising the integrity of the data."/>
+</node>
+<node CREATED="1660776378506" ID="ID_1404466953" MODIFIED="1660776387360" TEXT="Purpose of a Write-blocking device">
+<node CREATED="1660776429634" ID="ID_393620177" MODIFIED="1660776678104" TEXT="A write blocker guarantees the protection of data on a device from any accidental writes."/>
+</node>
+<node CREATED="1660776387748" ID="ID_1066729611" MODIFIED="1660776398525" TEXT="Types of write-blocking device">
+<node CREATED="1660324587853" ID="ID_1026429487" MODIFIED="1660499382184">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Software-enabled blockers
+  </body>
+</html></richcontent>
+<node CREATED="1660324591667" ID="ID_107790633" MODIFIED="1660499384112">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Typically run in a shell mode (Windows CLI)
+  </body>
+</html></richcontent>
+<node CREATED="1660324596864" MODIFIED="1660324596864">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Example: PDBlock from Digital Intelligence
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660324600643" ID="ID_1675053340" MODIFIED="1660499383136">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Hardware options
+  </body>
+</html></richcontent>
+<node CREATED="1660324604436" ID="ID_305211687" MODIFIED="1660499385188">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Ideal for GUI forensic tools
+  </body>
+</html></richcontent>
+<node CREATED="1660324608267" MODIFIED="1660324608267">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    They prevent Windows or Linux from writing data to the blocked drive.
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660324612571" MODIFIED="1660324612571">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Act as a bridge between the suspect drive and the forensic workstation
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660779197978" ID="ID_104706635" MODIFIED="1660779417919" TEXT="Validation">
+<node CREATED="1660779207523" ID="ID_871104083" MODIFIED="1660779214555" TEXT="Types of validation techniques">
+<node CREATED="1657071163204" ID="ID_990595683" MODIFIED="1657071164499">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    CRC-32, MD5, and SHA-1 to SHA-512
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660779214990" ID="ID_88333696" MODIFIED="1660779222487" TEXT="Why is validation necessary">
+<node CREATED="1657071146269" ID="ID_1046601191" MODIFIED="1657071146269">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Validating evidence may be the most critical aspect of computer forensics
+  </body>
+</html></richcontent>
+<node CREATED="1660779323991" ID="ID_1663545449" MODIFIED="1660779391846" TEXT="Validation is important for tools to show results produced are accurate and reliable"/>
+</node>
+<node CREATED="1657071153761" ID="ID_1117854623" MODIFIED="1657071153761">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Requires using a hashing algorithm utility
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657071226423" ID="ID_1510321591" MODIFIED="1660499314058">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Windows Validation Methods
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1657071271819" ID="ID_1158993682" MODIFIED="1657071271819">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Commercial computer forensics programs have built-in validation features
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1657071273663" ID="ID_277588595" MODIFIED="1657071289195" TEXT="Windows doesnt have built in tools for hashing "/>
+</node>
+</node>
+</node>
+<node CREATED="1660779410258" ID="ID_457140928" MODIFIED="1660779424840" TEXT="Remote Acquisition">
+<node CREATED="1660779445933" ID="ID_1345255474" MODIFIED="1660779455265" TEXT="Possible issues with remote acquisition">
+<node CREATED="1660779473853" ID="ID_589127766" MODIFIED="1660779481587" TEXT="Slower speed"/>
+<node CREATED="1660779481924" ID="ID_693018276" MODIFIED="1660779485971" TEXT="Network problems"/>
+<node CREATED="1660779549528" MODIFIED="1660779549528">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Suspects could easily install their own security tools that trigger an alarm to notify them of remote access intrusions
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660779553206" MODIFIED="1660779553206">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Antivirus, antispyware, and firewall tools can be configured to ignore remote access programs &#8211; access could be blocked!
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660779572088" FOLDED="true" ID="ID_1692602095" MODIFIED="1660836228566" TEXT="Topic 4: Digital Forensics Tools">
+<node CREATED="1660824229874" ID="ID_162234499" MODIFIED="1660824656004" TEXT="Consult your business plan to get the best hardware and software for the Digital Forensics investigation">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660824304773" ID="ID_50015822" MODIFIED="1660824314740" TEXT="Computer forensics tool functions">
+<node CREATED="1660824317575" ID="ID_23676152" MODIFIED="1660824321177" TEXT="Acquisition">
+<node CREATED="1660323684784" ID="ID_179210864" MODIFIED="1660323684784">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Making a copy of the original drive
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323700343" ID="ID_832804338" MODIFIED="1660499339963">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Acquisition subfunctions:
+  </body>
+</html></richcontent>
+<node CREATED="1660323706829" MODIFIED="1660323706829">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Physical data copy
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323709897" MODIFIED="1660323709897">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Logical data copy - logical partition
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323712723" MODIFIED="1660323712723">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Data acquisition format &#8211; raw data format
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323716510" MODIFIED="1660323716510">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    GUI acquisition
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323719691" MODIFIED="1660323719691">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Remote, live (logon), and memory acquisitions
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660323729814" ID="ID_1351261937" MODIFIED="1660499341923">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Two types of data-copying methods are used in software acquisitions:
+  </body>
+</html></richcontent>
+<node CREATED="1660323733821" MODIFIED="1660323733821">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Physical copying of the entire drive
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323738146" MODIFIED="1660323738146">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Logical copying of a disk partition
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660323748283" ID="ID_480561082" MODIFIED="1660499343136">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The formats for disk acquisitions vary
+  </body>
+</html></richcontent>
+<node CREATED="1660323752985" MODIFIED="1660323752985">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    From raw data to vendor-specific proprietary
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660323791083" ID="ID_801733075" MODIFIED="1660323791083">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Creating smaller segmented files is a typical feature in vendor acquisition tools &#8211; segmented files are smaller and therefore can be stored in smaller media
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323795592" ID="ID_211211591" MODIFIED="1660499344012">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Remote acquisition of files is common in larger organizations
+  </body>
+</html></richcontent>
+<node CREATED="1660323799122" MODIFIED="1660323799122">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Popular tools, such as AccessData and EnCase, can do remote acquisitions of forensics drive images on a network
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660323660792" ID="ID_826424707" MODIFIED="1660499334987">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Validation and verification
+  </body>
+</html></richcontent>
+<node CREATED="1660323807211" ID="ID_512216415" MODIFIED="1660499344978">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Validation
+  </body>
+</html></richcontent>
+<node CREATED="1660323811113" ID="ID_803384381" MODIFIED="1660323829214">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    A way to confirm that a tool is functioning as intended - ensuring the integrity of data being copied
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660323834951" ID="ID_1341741919" MODIFIED="1660499345995">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Verification
+  </body>
+</html></richcontent>
+<node CREATED="1660323839063" MODIFIED="1660323839063">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Proves that two sets of data are identical by calculating hash values or using another similar method
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323844056" MODIFIED="1660323844056">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    A related process is filtering, which involves sorting and searching through investigation findings to separate good data and suspicious data
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660323869718" ID="ID_1405473067" MODIFIED="1660499346878">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Subfunctions of validation and verification include:-
+  </body>
+</html></richcontent>
+<node CREATED="1660323876155" MODIFIED="1660323876155">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Hashing &#8211; ensure data hasn&#8217;t been changed
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323880736" MODIFIED="1660323880736">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Filtering &#8211; To separate good files and files need to be investigated
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323883995" MODIFIED="1660323883995">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Analyzing file headers &#8211; To check on change file type
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660323969916" MODIFIED="1660323969916">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    National Software Reference Library (NSRL) has compiled a list of known file hashes
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323973994" ID="ID_519385426" MODIFIED="1660499347778">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Many computer forensics programs include a list of common header values
+  </body>
+</html></richcontent>
+<node CREATED="1660323978900" MODIFIED="1660323978900">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    With this information, you can see whether a file extension is incorrect for the file type
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660323982653" MODIFIED="1660323982653">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Most forensics tools can identify header values
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660323663465" ID="ID_1672762027" MODIFIED="1660499336037">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Extraction
+  </body>
+</html></richcontent>
+<node CREATED="1660323988885" MODIFIED="1660323988885">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Recovery task in a digital investigation
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323993765" MODIFIED="1660323993765">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Most challenging of all tasks to master!!
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660323996118" MODIFIED="1660323996118">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Recovering data is the first step in analyzing an investigation&#8217;s data
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324000976" ID="ID_1556548787" MODIFIED="1660499349584">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Subfunctions of extraction
+  </body>
+</html></richcontent>
+<node CREATED="1660324005477" MODIFIED="1660324005477">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Data viewing &#8211; Different tools provide different way of viewing data
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324008740" MODIFIED="1660324008740">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Keyword searching &#8211; A good function but if wrong key word is used may produce &#8220;noise&#8221;
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324011980" MODIFIED="1660324011980">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Decompressing or uncompressing
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324015579" MODIFIED="1660324015579">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Carving - Reconstructing fragments of files
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324018441" MODIFIED="1660324018441">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Decrypting &#8211; Can be a potential problem for investigation
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324022387" MODIFIED="1660324022387">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Bookmarking or tagging
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660324030845" MODIFIED="1660324030845">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Keyword search speeds up analysis for investigators
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324088469" MODIFIED="1660324088469">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    From an investigation perspective, encrypted files and systems are a problem
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324091963" ID="ID_357565275" MODIFIED="1660499351759">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Many password recovery tools have a feature for generating potential password lists
+  </body>
+</html></richcontent>
+<node CREATED="1660324095218" MODIFIED="1660324095218">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    For a password dictionary attack
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660324099124" MODIFIED="1660324099124">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    If a password dictionary attack fails, you can run a brute-force attack
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660323666074" ID="ID_690206238" MODIFIED="1660499337265">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Reconstruction
+  </body>
+</html></richcontent>
+<node CREATED="1660324107483" MODIFIED="1660324107483">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Re-create a suspect drive to show what happened during a crime or an incident &#8211; Another reason is to create a copy of suspect drive for other investigators
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324111730" ID="ID_597453981" MODIFIED="1660499353266">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Methods of reconstruction
+  </body>
+</html></richcontent>
+<node CREATED="1660324114930" MODIFIED="1660324114930">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Disk-to-disk copy
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324118019" MODIFIED="1660324118019">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Partition-to-partition copy
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324120620" MODIFIED="1660324120620">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Image-to-disk copy
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324123447" MODIFIED="1660324123447">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Image-to-partition copy
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324126593" MODIFIED="1660324126593">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Rebuilding files from data runs and carving
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660324133611" ID="ID_1177620673" MODIFIED="1660499354390">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    To re-create an image of a suspect drive
+  </body>
+</html></richcontent>
+<node CREATED="1660324145630" MODIFIED="1660324145630">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Copy an image to another location, such as a partition, a physical disk, or a virtual machine
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324148873" MODIFIED="1660324148873">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Simplest method is to use a tool that makes a direct disk-to-image copy
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660324157161" ID="ID_1308991537" MODIFIED="1660499355480">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Examples of disk-to-image copy tools
+  </body>
+</html></richcontent>
+<node CREATED="1660324161153" MODIFIED="1660324161153">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Linux dd command
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324163488" MODIFIED="1660324163488">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    ProDiscover
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324166304" MODIFIED="1660324166304">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Voom Technologies Shadow Drive
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660323668554" ID="ID_1317123739" MODIFIED="1660499338209">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Reporting
+  </body>
+</html></richcontent>
+<node CREATED="1660324198465" MODIFIED="1660324198465">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    To perform a forensics disk analysis and examination, you need to create a report
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324201859" ID="ID_1773530128" MODIFIED="1660499357200">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Subfunctions of reporting
+  </body>
+</html></richcontent>
+<node CREATED="1660324205284" MODIFIED="1660324205284">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Bookmarking or tagging
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324208091" MODIFIED="1660324208091">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Log reports &#8211; document investigation steps
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660324210551" MODIFIED="1660324210551">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Report generator
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660324214500" MODIFIED="1660324214500">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Use this information when producing a final report for your investigation
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660824411612" ID="ID_680371665" MODIFIED="1660824653940" TEXT="Maintain a software library on your lab. Keep useful software drivers">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660824514621" ID="ID_301796397" MODIFIED="1660824520882" TEXT="Computer forensic tool types">
+<node CREATED="1660824522861" ID="ID_452274144" MODIFIED="1660824525169" TEXT="Software">
+<node CREATED="1660824531322" ID="ID_1141229458" MODIFIED="1660824546571" TEXT="Command-line based"/>
+<node CREATED="1660824547326" ID="ID_1997406364" MODIFIED="1660824551832" TEXT="GUI">
+<node CREATED="1660824554083" ID="ID_1370815039" MODIFIED="1660824557036" TEXT="Encase"/>
+<node CREATED="1660824557471" ID="ID_231319696" MODIFIED="1660824562015" TEXT="Paraben"/>
+<node CREATED="1660824562510" ID="ID_1527970848" MODIFIED="1660824564198" TEXT="Magnet"/>
+</node>
+</node>
+<node CREATED="1660824525632" ID="ID_247085370" MODIFIED="1660824528335" TEXT="Hardware">
+<node CREATED="1660824567262" ID="ID_1317797066" MODIFIED="1660824579846" TEXT="Customized equipment"/>
+<node CREATED="1660824580413" ID="ID_419633415" MODIFIED="1660824585180" TEXT="Commercial options">
+<node CREATED="1660824587845" ID="ID_1342250416" MODIFIED="1660824613004" TEXT="Can buy off the shelf, includes workstations and write-blockers"/>
+</node>
+</node>
+</node>
+<node CREATED="1660824621158" ID="ID_19506560" MODIFIED="1660824653158" TEXT="Always run a validation test when upgrading your forensics tools ( both software/hardware )">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660824664813" ID="ID_168069102" MODIFIED="1661069895431" TEXT="Topic 5: Evidence Processing - OS &amp; File systems">
+<node CREATED="1660825332897" ID="ID_1321774098" MODIFIED="1660825360306" TEXT="Cluster - Space required for a file that is made up of numbers of sectors">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660826176778" ID="ID_676430652" MODIFIED="1660826187175" TEXT="Disk partition">
+<node CREATED="1660826189844" ID="ID_1914785101" MODIFIED="1660826267828" TEXT="Before a drive (a,b,c,d) can be used by any OS, a Partition table needs to be created on the drive.">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660826268616" ID="ID_1490635268" MODIFIED="1660826300200" TEXT="Partition drive is stored in the Master Boot Record ( MBR ) sector 0">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660826312072" ID="ID_888130899" MODIFIED="1660826319021" TEXT="Master Boot Record">
+<node CREATED="1660826321590" ID="ID_1984554957" MODIFIED="1660826507189" TEXT="MBR is the information in the first sector of any hard disk that identifies how and where an operating system is located so that it can be boot ( loaded ) into the computer&apos;s main storage or random access memory. As such, the MBR holds the information on how the logical partitions, containing file systems, are organized on that medium">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660826521477" ID="ID_508417489" MODIFIED="1660832761891" TEXT="Ram slack">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660826761143" ID="ID_1606345365" MODIFIED="1660832759866" TEXT="portion in the last sector used in the last assigned cluster">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660826529865" ID="ID_1016580116" MODIFIED="1660832761891" TEXT="File slack">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660826605295" ID="ID_1345070597" MODIFIED="1660832759865" TEXT="unused space allocated for a file">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660827226326" ID="ID_1436971058" MODIFIED="1660827283364" TEXT="Determining Cluster size, Ram &amp; File slack">
+<node CREATED="1660825957013" ID="ID_1743782043" MODIFIED="1660829446977" TEXT="Number of Cluster required to store a file">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660825976598" ID="ID_1342003381" MODIFIED="1660834485196" TEXT="Filesize / Clustersize = ClusterRequired ( Round up )  ">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660826086751" ID="ID_993575319" MODIFIED="1660829448392" TEXT="While ClusterSize is determined by no. of sectors">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660829160809" ID="ID_146358247" MODIFIED="1660829177400" TEXT="Calculate RAM slack">
+<node CREATED="1660829193384" ID="ID_1112536064" MODIFIED="1660829330064" TEXT="Per sector size = 512 Bytes ( in general )">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660829215799" ID="ID_344488775" MODIFIED="1660829749073" TEXT="FileSize / SectorSize = SectorsRequired (Round up)">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660829266255" ID="ID_1995687928" MODIFIED="1660829330063" TEXT="SectorRequired * SectorSize = Total Sector Size Required">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660829310981" ID="ID_488100987" MODIFIED="1660829330062" TEXT="Total Sector Size - File Size = RAM Slack">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660829178518" ID="ID_542905375" MODIFIED="1660829184693" TEXT="Calculate File slack">
+<node CREATED="1660829344595" ID="ID_583526935" MODIFIED="1660829756907" TEXT="SizeOfClusterRequired - FileSize - RAM Slack = File Slack">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1660833072763" ID="ID_458066142" MODIFIED="1660833082372" TEXT="File allocation table ( FAT )">
+<node CREATED="1660833104033" ID="ID_1484514872" MODIFIED="1660834624557" TEXT="File structure database that Microsoft originally designed for floppy disks">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660833421539" ID="ID_1925228086" MODIFIED="1660833428395" TEXT="Concept of FAT">
+<node CREATED="1660833430372" ID="ID_1411206955" MODIFIED="1660833445548" TEXT="Cluster is made up of sectors and one sector is 512 Bytes"/>
+<node CREATED="1660833445989" ID="ID_1222559305" MODIFIED="1660833460599" TEXT="Cluster number is the logical address in OS"/>
+</node>
+<node CREATED="1660833463835" ID="ID_603363906" MODIFIED="1660833472870" TEXT="Specifications of FAT">
+<node CREATED="1660833478113" ID="ID_1579563970" MODIFIED="1660834497355" TEXT="Location       #Bytes     Meaning            Value  ">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660833541389" ID="ID_791165614" MODIFIED="1660834191476" TEXT="01E               0         OS Boot loader           0    "/>
+<node CREATED="1660833584865" ID="ID_1199694604" MODIFIED="1660834141645" TEXT="01C               2           #Hidden sectors         0  "/>
+<node CREATED="1660833644254" ID="ID_412835284" MODIFIED="1660834187854" TEXT="01A               2               #Heads                  2     "/>
+<node CREATED="1660833671539" ID="ID_1711200271" MODIFIED="1660834198004" TEXT="018             2          #Sectors/Track   18 (12x)"/>
+<node CREATED="1660833727235" ID="ID_1712538877" MODIFIED="1660834176022" TEXT="016               2               #sectors/FAT         9    "/>
+<node CREATED="1660833759770" ID="ID_1783507362" MODIFIED="1660834447603" TEXT="015                1           Media Bytes   F0:(floppy) "/>
+<node CREATED="1660833813532" ID="ID_98751743" MODIFIED="1660834329023" TEXT="013        2     #logical sectors    2880(0B40x)"/>
+<node CREATED="1660833838139" ID="ID_1460223199" MODIFIED="1660834331986" TEXT="011          2    #Root Dir Entries    224(00E0x)"/>
+<node CREATED="1660833867012" ID="ID_271896442" MODIFIED="1660834335595" TEXT="010            1                     #FATS                   2      "/>
+<node CREATED="1660833902506" ID="ID_395334752" MODIFIED="1660834455783" TEXT="00E             2               #Boot sectors              1    "/>
+<node CREATED="1660833921949" ID="ID_253446787" MODIFIED="1660834451389" TEXT="00D              1             #Sectors/Cluster          1   "/>
+<node CREATED="1660833941351" ID="ID_96875584" MODIFIED="1660834343283" TEXT="00B            2      #Bytes/Sector     512(0200x)"/>
+<node CREATED="1660833968830" ID="ID_103425618" MODIFIED="1660834349850" TEXT="003            8       OEM Name ID     MSDOS5.0"/>
+<node CREATED="1660833987612" ID="ID_575443713" MODIFIED="1660834352770" TEXT="000             3         Jmp to loader     EB 3C 90"/>
+</node>
+</node>
+<node CREATED="1660834768180" ID="ID_1089499540" MODIFIED="1660834776924" TEXT="NT File system - NFTS">
+<node CREATED="1660834780212" ID="ID_969234309" MODIFIED="1660834818260" TEXT="To improve on FAT File system. In NFTS, everything written to the disk is a file">
+<node CREATED="1660834828617" ID="ID_849578609" MODIFIED="1660834852399" TEXT="on the Master File Table ( MFT )  ">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660834863145" ID="ID_1119797616" MODIFIED="1660834879634" TEXT="Understanding how NTFS files are stored in NTFS system">
+<node CREATED="1660834883279" ID="ID_1015017744" MODIFIED="1660834890750" TEXT="Resident"/>
+<node CREATED="1660834891160" ID="ID_135383910" MODIFIED="1660834894742" TEXT="Non-Resident"/>
+</node>
+</node>
+</node>
+<node CREATED="1660834924419" ID="ID_789501952" MODIFIED="1660835038098" TEXT="On an First data set NTFS disk">
+<node CREATED="1660834938791" ID="ID_1628235194" MODIFIED="1660834948305" TEXT="1. Is the Partition Boot Sector">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660834948684" ID="ID_1503162248" MODIFIED="1660834961660" TEXT="2. Next is Master File Table ( MFT )">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660835039326" ID="ID_1377000515" MODIFIED="1660835050753" TEXT="MFT contains information about all files on the disk"/>
+<node CREATED="1660835051364" ID="ID_1370217086" MODIFIED="1660835064005" TEXT="In the MFT, the first 15 records are reserved for system files"/>
+<node CREATED="1660835065150" ID="ID_1802918693" MODIFIED="1660835130005" TEXT="MFT structures &amp; attributes in MFT">
+<node CREATED="1660668202009" ID="ID_1574880300" MODIFIED="1660668213046" TEXT="Attribute from a MFT">
+<node CREATED="1660668222564" ID="ID_169416175" MODIFIED="1660668226949" TEXT="0x10">
+<node CREATED="1660668260015" ID="ID_1163254921" MODIFIED="1660668341325" TEXT="This field contains data on file creation, alterations, MFT changes, read dates and times, and DOS file permissions"/>
+</node>
+<node CREATED="1660668228444" ID="ID_1686587478" MODIFIED="1660668231869" TEXT="0x20">
+<node CREATED="1660668346232" ID="ID_661342338" MODIFIED="1660668389823" TEXT="Attributes that don&apos;t fit in the MFT (nonresident attributes) are listed here along with their locations"/>
+</node>
+<node CREATED="1660668232944" ID="ID_848529530" MODIFIED="1660668236354" TEXT="0x30">
+<node CREATED="1660668392813" ID="ID_447006510" MODIFIED="1660668543743" TEXT="The long and short names for a file are contained here. Up to 255 unicode bytes are available for long filenames. For POSIX requirements, addition names or hard links can also be listed. Files with short filenames have only one attribute ID 0x30. Long filenames have two attributes ID 0x30 in the MFT record: one for the short name and one for the long name"/>
+</node>
+<node CREATED="1660668237488" ID="ID_1737604797" MODIFIED="1660668240362" TEXT="0x40">
+<node CREATED="1660668548817" ID="ID_1610502878" MODIFIED="1660668643989" TEXT="Ownership and who has access rights to the file or folder are listed here. Every MFT record is assigned a unique GUID. Depending on your NFTS setup, some file records might not contain this attribute ID."/>
+</node>
+<node CREATED="1660668241425" ID="ID_1783955691" MODIFIED="1660668243491" TEXT="0x50">
+<node CREATED="1660668649354" ID="ID_1435065434" MODIFIED="1660668663049" TEXT="Contains the access controls (ACL) for the file"/>
+</node>
+</node>
+<node CREATED="1660330526817" ID="ID_917204487" MODIFIED="1660835598041">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    MFT Structures
+  </body>
+</html></richcontent>
+<node CREATED="1660330543173" ID="ID_1444430486" MODIFIED="1660499517598">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    For the header of all MFT records, the record fields of interest are as follows
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660330548403" MODIFIED="1660330548403">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    At offset 0x00 - the MFT record identifier FILE
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660330552962" MODIFIED="1660330552962">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    At offset 0x14 - length of the header
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660330557959" ID="ID_167600986" MODIFIED="1660330573950">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    At offset 0x1C to 0x1F - size of the MFT record
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660330561241" ID="ID_378072599" MODIFIED="1660330583058">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    At offset 0x32 and 0x33 - the update sequence array
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660330610600" ID="ID_1151506001" MODIFIED="1660499519217">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Standard Information attribute
+  </body>
+</html></richcontent>
+<node CREATED="1660330615923" MODIFIED="1660330615923">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Create date and time
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660330618862" MODIFIED="1660330618862">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Last modified date and time
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660330621507" MODIFIED="1660330621507">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Last access date and time
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660330624341" MODIFIED="1660330624341">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Record update date and time
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660835622847" FOLDED="true" ID="ID_628587196" MODIFIED="1661095699589" TEXT="Topic 6: Digital Forensics Analysis &amp; Validation">
+<node CREATED="1660835663141" ID="ID_898791669" MODIFIED="1660835671118" TEXT="What is Scope Creep">
+<node CREATED="1660337381655" ID="ID_506574552" MODIFIED="1660835728842">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Scope creep - when an investigation expands beyond the original description
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660337386524" MODIFIED="1660337386524">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Because of unexpected evidence found
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660337390062" MODIFIED="1660337390062">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Attorneys may ask investigators to examine other areas to recover more evidence
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660337393759" MODIFIED="1660337393759">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Increases the time and resources needed to extract, analyze, and present evidence
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660337397357" MODIFIED="1660337397357">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Need to document additional time spend on recovering additional evidences!!
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660337408596" ID="ID_1654092358" MODIFIED="1660499615155">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Scope creep has become more common
+  </body>
+</html></richcontent>
+<node CREATED="1660337413514" ID="ID_714717316" MODIFIED="1660337413514">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Criminal investigations require more detailed examination of evidence just before trial
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660337417474" ID="ID_1085059478" MODIFIED="1660337417474">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    To help prosecutors fend off attacks from defense attorneys
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660381336518" ID="ID_1832813168" MODIFIED="1660499626261">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    New evidence discovered often isn&#8217;t revealed to prosecution
+  </body>
+</html></richcontent>
+<node CREATED="1660381342220" MODIFIED="1660381342220">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It&#8217;s become more important for prosecution teams to ensure they have analyzed the evidence exhaustively before trial
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660835736343" ID="ID_1419772221" MODIFIED="1660835749015" TEXT="Purpose and features of Hexademical Editors">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660381719324" ID="ID_361787460" MODIFIED="1660492786212">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Using OSForensics to Analyze Data
+  </body>
+</html></richcontent>
+<node CREATED="1660381726538" ID="ID_724106284" MODIFIED="1660499637981">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    OSForensics can perform forensics analysis on the following file systems:
+  </body>
+</html></richcontent>
+<node CREATED="1660381732316" MODIFIED="1660381732316">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Microsoft FAT12, FAT16, and FAT32
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660381735294" MODIFIED="1660381735294">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Microsoft NTFS
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660381738170" MODIFIED="1660381738170">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Mac HFS+ and HFSX
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660381741180" ID="ID_1661822619" MODIFIED="1660381741180">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Linux Ext2fs, and Ext4fs
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660381752745" ID="ID_1461876551" MODIFIED="1660499639181">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    OSForensics can analyze data from several sources
+  </body>
+</html></richcontent>
+<node CREATED="1660381756789" MODIFIED="1660381756789">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Including image files from other vendors
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660381762631" ID="ID_1611758623" MODIFIED="1660492786216">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Validating Forensic Data
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660381768564" ID="ID_1683537077" MODIFIED="1660382030809">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Ensuring the integrity of data collected is essential for presenting evidence in court
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660381776291" ID="ID_1197723716" MODIFIED="1660499640561">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Most forensic tools offer hashing of image files
+  </body>
+</html></richcontent>
+<node CREATED="1660381782984" ID="ID_1482229429" MODIFIED="1660499643721">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Example - when ProDiscover loads an image file:
+  </body>
+</html></richcontent>
+<node CREATED="1660381786716" MODIFIED="1660381786716">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It runs a hash and compares the value with the original hash calculated when the image was first acquired
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660381794237" ID="ID_1136335328" MODIFIED="1660499641358">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Validating with Hexadecimal Editors
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660381808097" ID="ID_522287814" MODIFIED="1660381808097">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Some digital forensics tools may have some limitations in performing hashing, so using advanced hexadecimal editors is necessary to ensure data integrity.
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660381812946" ID="ID_673969765" MODIFIED="1660499645029">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Advanced hex editors offer features not available in digital forensics tools, such as:
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660381817993" ID="ID_15754833" MODIFIED="1660381821306">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Hashing specific files or sectors
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660381837384" ID="ID_200539825" MODIFIED="1660499645957">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    With the hash value in hand
+  </body>
+</html></richcontent>
+<node CREATED="1660381840931" MODIFIED="1660381840931">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    You can use a forensics tool to search for a suspicious file that might have had its name changed to look like an innocuous file
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660381847715" ID="ID_1147572929" MODIFIED="1660381849834">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    WinHex provides MD5 and SHA-1 hashing algorithms
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660381883409" ID="ID_392882755" MODIFIED="1660499646835">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Using Hash Values to Discriminate Data
+  </body>
+</html></richcontent>
+<node CREATED="1660381888450" MODIFIED="1660381888450">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    AccessData has its own hashing database, is known as Known File Filter (KFF)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660381891740" MODIFIED="1660381891740">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    KFF filters known program files from view and contains hash values of known illegal files
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660381896354" MODIFIED="1660381896354">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It compares known file hash values with files on your evidence drive to see if they contain suspicious data
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660381899432" MODIFIED="1660381899432">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Other digital forensics tools can import the NSRL database and run hash comparisons
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660837230166" ID="ID_1398917281" MODIFIED="1660837241818" TEXT="Hexadecimal Editors">
+<node CREATED="1660836365995" ID="ID_567584309" MODIFIED="1660837265549" TEXT="Purpose of Hexadecimal Editors">
+<node CREATED="1660836380886" ID="ID_150138865" MODIFIED="1660836382694">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Some digital forensics tools may have some limitations in performing hashing, so using advanced hexadecimal editors is necessary to ensure data integrity.
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660836414016" ID="ID_1008422725" MODIFIED="1660837272837" TEXT="Features of Hexadecimal Editors">
+<node CREATED="1660836445296" ID="ID_1639192601" MODIFIED="1660836445296">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Using Hash Values to Discriminate Data
+  </body>
+</html></richcontent>
+<node CREATED="1660836450459" MODIFIED="1660836450459">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    AccessData has its own hashing database, is known as Known File Filter (KFF)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660836455200" MODIFIED="1660836455200">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    KFF filters known program files from view and contains hash values of known illegal files
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660836459322" MODIFIED="1660836459322">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It compares known file hash values with files on your evidence drive to see if they contain suspicious data
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660836462708" MODIFIED="1660836462708">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Other digital forensics tools can import the NSRL database and run hash comparisons
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660843358590" ID="ID_1047425149" MODIFIED="1660843360718" TEXT="Hashing"/>
+<node CREATED="1660843361081" ID="ID_231344012" MODIFIED="1660843364155" TEXT="Bit-shifting"/>
+</node>
+</node>
+<node CREATED="1660839300834" ID="ID_520689344" MODIFIED="1660839333191" TEXT="Data Hiding techniques">
+<node CREATED="1660839336108" ID="ID_1456634188" MODIFIED="1660839351985" TEXT="Areas on harddisk that can be used to hide data">
+<node CREATED="1660839402455" ID="ID_80172071" MODIFIED="1660839406216" TEXT="Slack space"/>
+</node>
+<node CREATED="1660839352700" ID="ID_855181737" MODIFIED="1660839358214" TEXT="Techniques">
+<node CREATED="1660839360819" ID="ID_1700063321" MODIFIED="1660839368679" TEXT="Hiding entire partitions"/>
+<node CREATED="1660839369010" ID="ID_87663626" MODIFIED="1660839373836" TEXT="Changing file extensions"/>
+<node CREATED="1660839374167" ID="ID_1555181198" MODIFIED="1660839381379" TEXT="Setting attributes to hidden"/>
+<node CREATED="1660839381701" ID="ID_364514031" MODIFIED="1660839386485" TEXT="Bit-shifting"/>
+<node CREATED="1660839386813" ID="ID_1836446595" MODIFIED="1660839390522" TEXT="Encryption"/>
+<node CREATED="1660839390902" ID="ID_450451193" MODIFIED="1660839395609" TEXT="Password protection"/>
+</node>
+</node>
+<node CREATED="1660839462052" ID="ID_1021899843" MODIFIED="1660839687718" TEXT="Steganography">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660839471056" ID="ID_560668163" MODIFIED="1660839476513" TEXT="What is Steganography">
+<node CREATED="1660386260003" ID="ID_66564320" MODIFIED="1660386260653">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Steganalysis - term for detecting and analyzing steganography files
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660839510918" ID="ID_972937478" MODIFIED="1660839517873" TEXT="When to use Steganography">
+<node CREATED="1660839908718" ID="ID_1597765860" MODIFIED="1660839908718" TEXT="The purpose of steganography is to conceal and deceive. It is a form of covert communication and can involve the use of any medium to hide messages."/>
+</node>
+</node>
+<node CREATED="1660839688179" ID="ID_314861520" MODIFIED="1660839694898" TEXT="Watermarking">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660839704674" ID="ID_1552825118" MODIFIED="1660839848159" TEXT="What is Watermarking">
+<node CREATED="1660386266282" ID="ID_877316767" MODIFIED="1660499681709">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Digital watermarking - developed as a way to protect file ownership
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660386271216" ID="ID_1880368922" MODIFIED="1660386271216">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Usually not visible when used for steganography
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660839712600" ID="ID_1675530512" MODIFIED="1660839851479" TEXT="When to use Watermarking">
+<node CREATED="1660839741360" ID="ID_1233814034" MODIFIED="1660839741361" TEXT="Watermarks can be used to protect confidential information and to indicate the validity of a legal document."/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660839926883" FOLDED="true" ID="ID_764154676" MODIFIED="1660843345678" TEXT="Topic 7: Digital Forensic Lab">
+<node CREATED="1660839984788" ID="ID_1582303187" MODIFIED="1660840015733" TEXT="To stay relevant, we need to upgrade skills through training / certifications"/>
+<node CREATED="1660840022599" ID="ID_1283953711" MODIFIED="1660840289714" TEXT="Digital Forensics Lab">
+<node CREATED="1660840041003" ID="ID_520997015" MODIFIED="1660840077740" TEXT="A Digital Forensics Lab is where you conduct investigations, store evidence and do most of your work."/>
+<node CREATED="1660840081973" ID="ID_195111019" MODIFIED="1660840099849" TEXT="Must know what to check when auditing a computer forensics laboratory">
+<node CREATED="1660397273959" ID="ID_641206447" MODIFIED="1660397273959">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    1. Ceiling, floor, roof, and exterior walls of the lab
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660397277498" ID="ID_959066286" MODIFIED="1660397277498">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    2. Doors and doors locks
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660397281110" ID="ID_670119406" MODIFIED="1660397281110">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    3. Visitor logs
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660397284086" ID="ID_1449619075" MODIFIED="1660397284086">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    4. Evidence container logs
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660397287495" ID="ID_1781735744" MODIFIED="1660397287495">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    5. At the end of every workday, secure any evidence that&#8217;s not being processed in a forensic workstation
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660840296279" ID="ID_444800526" MODIFIED="1660840594427" TEXT="A lab facility must be physically secured so that evidence is not lost, corrupted or destroyed  ">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660841788967" ID="ID_689181962" MODIFIED="1660841827272" TEXT="A forensics workstation needs to have adequate memory, space and ports to deal with common types of cases that come through the lab">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660841827723" ID="ID_811554256" MODIFIED="1660841859803" TEXT="Prepare a business case to enlist the support of your managers and other team members when building a forensics lab">
+<node CREATED="1660841863307" ID="ID_397730379" MODIFIED="1660841874863" TEXT="Justification is always required!">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1660841914466" FOLDED="true" ID="ID_1818464140" MODIFIED="1660843343588" TEXT="Topic 8: Crime &amp; Incidence scene processing">
+<node CREATED="1660842691015" ID="ID_399509156" MODIFIED="1660842698078" TEXT="Define Digital Evidence ">
+<node CREATED="1660842700168" ID="ID_235763218" MODIFIED="1660842753037" TEXT="Digital evidence is anything stored or transmitted on electronic or optical media"/>
+</node>
+<node CREATED="1660842761557" ID="ID_618401460" MODIFIED="1660842793384" TEXT="Task investigators perform">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660842773686" ID="ID_1820253334" MODIFIED="1660842778703" TEXT="Acquisition"/>
+<node CREATED="1660842779070" ID="ID_1936296602" MODIFIED="1660842784095" TEXT="Identification"/>
+<node CREATED="1660842784484" ID="ID_1006613101" MODIFIED="1660842786949" TEXT="Evaluation"/>
+<node CREATED="1660842787384" ID="ID_1772243868" MODIFIED="1660842789244" TEXT="Admission"/>
+</node>
+<node CREATED="1660842810923" ID="ID_241607147" MODIFIED="1660842822924" TEXT="Rule of evidence">
+<node CREATED="1660405117297" ID="ID_1596485739" MODIFIED="1660499798792">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Consistent practices help verify your work and enhance your credibility
+  </body>
+</html></richcontent>
+<node CREATED="1660405125612" MODIFIED="1660405125612">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    must handle all evidence consistently
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660405131990" ID="ID_649680120" MODIFIED="1660499800031">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Comply with your state&#8217;s rules of evidence or with the Federal Rules of Evidence
+  </body>
+</html></richcontent>
+<node CREATED="1660405135631" MODIFIED="1660405135631">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    &#8211; i.e Security and accountability control for evidence
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660405699901" ID="ID_869104379" MODIFIED="1660499815675">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The five properties that evidence must have in order to be useful:
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660405703679" ID="ID_732544262" MODIFIED="1660405716543">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Admissible
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660405706167" ID="ID_1355327988" MODIFIED="1660405716544">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Authentic
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660405708765" ID="ID_666669768" MODIFIED="1660405716544">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Complete
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660405711065" ID="ID_700454827" MODIFIED="1660405716544">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Reliable
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660405713565" ID="ID_1448830540" MODIFIED="1660405716544">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Believable
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1660842950053" ID="ID_1212163133" MODIFIED="1660842968417" TEXT="Collecting evidence in Private-sector incident scenes">
+<node CREATED="1660842975472" ID="ID_753676659" MODIFIED="1660842999423" TEXT="Corporate policy - Stating right to inspect computing assets at will"/>
+<node CREATED="1660407944565" ID="ID_6022591" MODIFIED="1660499825519">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Corporate policy statement about misuse of digital assets
+  </body>
+</html></richcontent>
+<node CREATED="1660407954873" ID="ID_1508751329" MODIFIED="1660407955481">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Allows corporate investigators to conduct covert surveillance (surveillance on someone without the person notice it) with little or no cause
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660407959595" ID="ID_609124440" MODIFIED="1660407970001">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    And access company systems without a warrant
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660407976962" ID="ID_1663972732" MODIFIED="1660499826595">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Companies should display a warning banner and publish a policy
+  </body>
+</html></richcontent>
+<node CREATED="1660407981247" MODIFIED="1660407981247">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Stating that they reserve the right to inspect computing assets at will
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660843074079" ID="ID_1058385094" MODIFIED="1660843093642" TEXT="Identify the type of OS or digital device at start of investigation"/>
+<node CREATED="1660843093913" ID="ID_1768823814" MODIFIED="1660843102367" TEXT="Ways to store digital evidence">
+<node CREATED="1660410478904" ID="ID_389190534" MODIFIED="1660410479529">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The media you use to store digital evidence usually depends on how long you need to keep it
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660410484820" ID="ID_391323488" MODIFIED="1660499914957">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    CDs, DVDs, DVD-Rs, DVD+Rs, or DVD-RWs
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660410488299" MODIFIED="1660410488299">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The ideal media
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660410491189" ID="ID_1624248868" MODIFIED="1660410491189">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Capacity: up to 17 GB
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660410494282" ID="ID_65670857" MODIFIED="1660410500853">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Lifespan: 2 to 5 years
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660410516214" ID="ID_1035152342" MODIFIED="1660499916181">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Magnetic tapes - 4-mm DAT
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660410520159" MODIFIED="1660410520159">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Capacity: 40 to 72 GB
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660410523275" ID="ID_776493295" MODIFIED="1660410523888">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Lifespan: 30 years
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660410530634" MODIFIED="1660410530634">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Costs: drive: $400 to $800; tape: $40
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660410624724" ID="ID_1753472101" MODIFIED="1660499917352">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Super Digital Linear Tape (Super-DLT or SDLT)
+  </body>
+</html></richcontent>
+<node CREATED="1660410628509" MODIFIED="1660410628509">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Specifically designed for large RAID data backups
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660410631430" MODIFIED="1660410631430">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Can store more than 1 TB of data
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660410634906" ID="ID_161626192" MODIFIED="1660410634906">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Smaller external SDLT drives can connect to a workstation through a SCSI card
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660410638494" ID="ID_170855683" MODIFIED="1660499920902">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Don&#8217;t rely on one media storage method to preserve your evidence
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660410644665" MODIFIED="1660410644665">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Make two copies of every image to prevent data loss
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660410648018" MODIFIED="1660410648018">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Use different tools to create the two images
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660843232363" ID="ID_869032209" MODIFIED="1660843245383" TEXT="Tools required for initial response field kit">
+<node CREATED="1660409913944" ID="ID_1205704226" MODIFIED="1660499878870">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Create an initial-response field kit
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660409919268" ID="ID_661871909" MODIFIED="1660409919843">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Should be lightweight and easy to transport
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660670064566" ID="ID_1778465234" MODIFIED="1660670070315" TEXT="flashlight"/>
+<node CREATED="1660670070882" ID="ID_668367208" MODIFIED="1660670082488" TEXT="laptop computer"/>
+<node CREATED="1660670083493" ID="ID_1796332212" MODIFIED="1660670088409" TEXT="digital camera"/>
+<node CREATED="1660670092727" ID="ID_1912674830" MODIFIED="1660670097957" TEXT="digital forensics kit"/>
+</node>
+</node>
+<node CREATED="1660409923589" ID="ID_1715285962" MODIFIED="1660499879731">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Create an extensive-response field kit
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660409927433" ID="ID_1388648259" MODIFIED="1660409927433">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Includes all tools you can afford to take to the field
+  </body>
+</html></richcontent>
+<node CREATED="1660670121374" ID="ID_592406133" MODIFIED="1660670161244" TEXT="additional handtools: pilers, bolt cutters, pry bar"/>
+<node CREATED="1660670162201" ID="ID_1862311629" MODIFIED="1660670175841" TEXT="leather gloves"/>
+<node CREATED="1660670176755" ID="ID_257009811" MODIFIED="1660670187434" TEXT="hand truck / luggage cart"/>
+<node CREATED="1660670188367" ID="ID_154235832" MODIFIED="1660670205483" TEXT="USB drives of varies sizes"/>
+<node CREATED="1660670275799" ID="ID_1652456204" MODIFIED="1660670282683" TEXT="magnifying glasses"/>
+<node CREATED="1660670314300" ID="ID_1867837071" MODIFIED="1660670361686" TEXT="electrical power strips"/>
+</node>
+<node CREATED="1660409930252" MODIFIED="1660409930252">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    When at the scene, extract only those items you need to acquire evidence
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660843284269" ID="ID_811800857" MODIFIED="1661096401585" TEXT="Topic 9: Historic Cellular">
+<node CREATED="1660845034201" ID="ID_1520532451" MODIFIED="1660845046422" TEXT="How does a mobile phone contacts based stations">
+<node CREATED="1660845209023" ID="ID_376449118" MODIFIED="1660845222611">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    A mobile phone uses radio waves to talk to a cell tower that connects it to the rest of the phone network
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660845252695" ID="ID_1893837396" MODIFIED="1660845279123" TEXT="Purpose of MTSO ( Mobile Telephone Switching Office )">
+<node CREATED="1660417898553" ID="ID_1218726384" MODIFIED="1660417898553">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Contains switching equipment for routing mobile phone calls
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660417903954" ID="ID_61908976" MODIFIED="1660417903954">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Handles the entire cell network
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660417906954" ID="ID_1847396985" MODIFIED="1660499989306">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Controls handoff
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660417915238" ID="ID_333229736" MODIFIED="1660417915238">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Handoff &#8211; process of transferring an ongoing call or data session from one channel (cell) to another channel (cell)
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660417919482" ID="ID_1391456638" MODIFIED="1660499990255">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Communicates with PSTN (Public Switch Telephone Network)
+  </body>
+</html></richcontent>
+<node CREATED="1660417923025" MODIFIED="1660417923025">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Land-line network
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660417927020" ID="ID_1129791200" MODIFIED="1660417932378">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The BRAIN of the cell phone network!
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660419076308" ID="ID_1301190551" MODIFIED="1660419078332">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    MTSO will evaluate the signal strength between the device and the network and tell the device or network to make the appropriate adjustments to the transmission.
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660846635938" ID="ID_902589467" MODIFIED="1660847851775" TEXT="What is a Handoff">
+<node CREATED="1660417915238" ID="ID_1241051634" MODIFIED="1660417915238">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Handoff &#8211; process of transferring an ongoing call or data session from one channel (cell) to another channel (cell)
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660847853028" ID="ID_1027956097" MODIFIED="1660847870810" TEXT="Mobile Telecommunication technologies">
+<node CREATED="1660420353022" ID="ID_1358450903" MODIFIED="1660500000162">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    iDEN
+  </body>
+</html></richcontent>
+<node CREATED="1660420395504" ID="ID_151217039" MODIFIED="1660500007662">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    (integrated Digital Enhanced Network) 2G, Digital
+  </body>
+</html></richcontent>
+<node CREATED="1660484869287" ID="ID_1170962860" MODIFIED="1660500011601">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Integrated Digital Enhanced Network
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660484879253" ID="ID_970044294" MODIFIED="1660484880039">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    iDEN phones can support SMS messages, voice mail, and data networking such as VPNs, the Internet, and intranets.
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660484885743" ID="ID_817614779" MODIFIED="1660500013804">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Allows user to take advantage of PTT (push to talk) walkie talkie technology
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660484890166" MODIFIED="1660484890166">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Half duplex
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660420365062" ID="ID_1463514594" MODIFIED="1660500002001">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    CDMA
+  </body>
+</html></richcontent>
+<node CREATED="1660420399746" ID="ID_438012515" MODIFIED="1660500006524">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    (Code Division Multiple Access) 2G/3G, Digital
+  </body>
+</html></richcontent>
+<node CREATED="1660484896759" ID="ID_988774870" MODIFIED="1660500034471">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Code Division Multiple Access
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660484902111" ID="ID_1279292444" MODIFIED="1660500041449">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Utilizes spread-spectrum technology
+  </body>
+</html></richcontent>
+<node CREATED="1660484982758" ID="ID_277670679" MODIFIED="1660484983437">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Spreads information contained in a particular signal (code) of interest over a much greater bandwidth than the original signal.
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660484988123" MODIFIED="1660484988123">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Assigns a code to each piece of data passed across the spectrum
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660484996145" ID="ID_428643272" MODIFIED="1660485006439">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Unable to carry voice and data at the same time
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660485014583" ID="ID_242128034" MODIFIED="1660485015445">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Every communication channel uses the full available spectrum
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660485020751" FOLDED="true" ID="ID_253650362" MODIFIED="1660492785825">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Two channels
+  </body>
+</html></richcontent>
+<node CREATED="1660485026737" MODIFIED="1660485026737">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    &#8226; Encode / Decode
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660485034467" MODIFIED="1660485034467">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Spread Spectrum: channels are spread across the entire frequency range (1850- 1990MHz) instead of dedicated to one
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660485102547" ID="ID_1147575749" MODIFIED="1660500033389">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    CDMA Family:-
+  </body>
+</html></richcontent>
+<node CREATED="1660485106506" ID="ID_1364022912" MODIFIED="1660500035646">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    cdmaOne (2G):
+  </body>
+</html></richcontent>
+<node CREATED="1660485109427" MODIFIED="1660485109427">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Original CDMA system
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660485112962" ID="ID_1703564989" MODIFIED="1660500036424">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    CDMA2000 (3G):
+  </body>
+</html></richcontent>
+<node CREATED="1660485116475" MODIFIED="1660485116475">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Evolved from cdmaOne
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485121892" ID="ID_1306093708" MODIFIED="1660485123361">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    A family of technology for 3G mobile cellular communications for transmission of voice, data and signals
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660485128136" MODIFIED="1660485128136">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    1xRTT (Voice), 1xEV-DO (3G wireless standard-Data)
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660485131386" ID="ID_1477305400" MODIFIED="1660500037407">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    W-CDMA (3G):
+  </body>
+</html></richcontent>
+<node CREATED="1660485136245" MODIFIED="1660485136245">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Borrows ideas from CDMA
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485139831" ID="ID_2953491" MODIFIED="1660485144977">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Use GSM technology and evolve into UMTS (Universal Mobile Telecommunications Service)
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1660485186959" ID="ID_1118870383" MODIFIED="1660500032535">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    BitPIM Software for CDMA
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660485192037" ID="ID_1130428228" MODIFIED="1660500038517">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    BitPIM is an open source, crossplatform program that allows you to view and manipulate data on many CDMA phones
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660485199348" MODIFIED="1660485199348">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    These include the PhoneBook, Calendar, WallPapers, RingTones and the Filesystem
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660485203571" MODIFIED="1660485203571">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Analyse most Qualcomm CDMA chipset based phones
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485206442" ID="ID_1623873807" MODIFIED="1660485207181">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    PIM stands for Personal Information Management
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660485217057" ID="ID_641930042" MODIFIED="1660500031488">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Qualcomm for CDMA
+  </body>
+</html></richcontent>
+<node CREATED="1660485221902" ID="ID_1590660551" MODIFIED="1660485222476">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Founded in 1985 - Multinational semiconductor and telecommunications equipment company. Listed company in USA NASDAQ
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660485280110" MODIFIED="1660485280110">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Created CDMA and it&#8217;s components in the late 1990&#8217;s
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485287857" ID="ID_1594645522" MODIFIED="1660485291288">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Owns the patent on CDMA chipset technology
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660420371298" ID="ID_1399902286" MODIFIED="1660500002520">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    GSM
+  </body>
+</html></richcontent>
+<node CREATED="1660420404066" ID="ID_99415665" MODIFIED="1660500005613">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    (Global System Mobile Communication) 2G, Digital
+  </body>
+</html></richcontent>
+<node CREATED="1660485298669" ID="ID_1941005817" MODIFIED="1660485298669">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Based on TDMA
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485323404" ID="ID_1708630826" MODIFIED="1660485325901">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    A digital cellular technology used for transmitting mobile voice and data services
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660485334756" ID="ID_1396687047" MODIFIED="1660485335462">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Global Systems for Mobile Communication with frequency range from 850-1900MHz
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660485340713" MODIFIED="1660485340713">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Utilizes SIM technology
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660848431590" ID="ID_177379487" MODIFIED="1660848444939" TEXT="Cellular Phone Identification Number">
+<node CREATED="1660485372820" ID="ID_1974412842" MODIFIED="1660500017195">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    MIN - Mobile Identity Number
+  </body>
+</html></richcontent>
+<node CREATED="1660485376408" MODIFIED="1660485376408">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    10 digit number
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485382166" ID="ID_1381734013" MODIFIED="1660485384835">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Assigned by the carrier and used for mobile phone identification
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660485389687" ID="ID_957657661" MODIFIED="1660500026605">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It consists of two different parts MIN 1 and MIN 2
+  </body>
+</html></richcontent>
+<node CREATED="1660485394519" ID="ID_1897665763" MODIFIED="1660485395336">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The MIN 1 is usually the 24-bit number after the area code
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660485402851" ID="ID_1565974502" MODIFIED="1660485405306">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    MIN 2 is the area/mobile subscriber code
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1660485473976" ID="ID_990384610" MODIFIED="1660500019734">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    MEID &#8211;Mobile Equipment ID
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660485478298" MODIFIED="1660485478298">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Replaces the soon to be exhausted ESN for CDMA devices
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485486655" ID="ID_235155536" MODIFIED="1660500025298">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    All of these fields are hexadecimal values
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660485495285" ID="ID_53041278" MODIFIED="1660485518182">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    RR: Regional Code. Globally administered
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660485498751" ID="ID_439364034" MODIFIED="1661094794914">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    XXXXXX
+  </body>
+</html></richcontent>
+<node CREATED="1660485502855" MODIFIED="1660485502855">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    000000 - For small quantities of test/prototype mobiles
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485513254" ID="ID_435589209" MODIFIED="1660485515464">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    000001 - FFFFFE - Allocated to regional administration bodies or mobile manufacturers, subject to industry agreement
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660485523491" MODIFIED="1660485523491">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    FFFFFF &#8211; Reserved
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660485529244" MODIFIED="1660485529244">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    ZZZZZZ: Manufacturer assigned to uniquely ID device
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485533029" MODIFIED="1660485533029">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    C &#8211; Check Digit: Not transmitted over the air
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660485592380" ID="ID_914501263" MODIFIED="1660500020557">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    IMEI &#8211; International Mobile Equipment Identity
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660485599715" ID="ID_468713025" MODIFIED="1660485600520">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The IMEI is a unique 15-digit code used to identify an individual GSM mobile telephone to a mobile network
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660485661802" ID="ID_200508762" MODIFIED="1660500022373">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    IMEI Checksum Verification
+  </body>
+</html></richcontent>
+<node CREATED="1660485666339" ID="ID_204685065" MODIFIED="1660500024403">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The check digit is validated in three steps:
+  </body>
+</html></richcontent>
+<node CREATED="1660485670095" MODIFIED="1660485670095">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Starting from the right, double every other digit (e.g., 7 &#8594; 14)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485675148" MODIFIED="1660485675148">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Sum the digits (e.g., 14 &#8594; 1 + 4).
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485678418" ID="ID_1855991123" MODIFIED="1660485678418">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Check if the sum is divisible by 10.
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660911072913" ID="ID_202715343" MODIFIED="1661095901369" TEXT="Topic 10: Data Type Android">
+<node CREATED="1660911749724" ID="ID_1325476719" MODIFIED="1660911754090" TEXT="What is android OS">
+<node CREATED="1660911774480" ID="ID_852787451" MODIFIED="1660911813055" TEXT="A non-proprietary, open standard mobile operating system based on a modified version of the linux kernel">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660911813301" ID="ID_1087198221" MODIFIED="1660911836968" TEXT="Developed by the Open Handset Alliance ( OHA )">
+<node CREATED="1660911841219" ID="ID_33958105" MODIFIED="1660911854132" TEXT="In charge of the Android smartphone operating system"/>
+<node CREATED="1660911854890" ID="ID_1464655767" MODIFIED="1660911899021" TEXT="Created by Google and includes key members such as China Mobile, HTC, Intel, Motorola, NTT DoCoMo, Sprint and T-Mobile USA"/>
+<node CREATED="1660911903334" ID="ID_784753148" MODIFIED="1660911916436" TEXT="A group of more then 50 mobile technology companies working together"/>
+</node>
+</node>
+<node CREATED="1660914535265" ID="ID_658521879" MODIFIED="1660914544552" TEXT="Android Architecture">
+<node CREATED="1661095906605" ID="ID_1263420796" MODIFIED="1661095913259" TEXT="System Apps">
+<node CREATED="1661095944598" ID="ID_1832993312" MODIFIED="1661095949361" TEXT="Build in and user apps"/>
+</node>
+<node CREATED="1661095913577" ID="ID_77155760" MODIFIED="1661095920304" TEXT="Java API Framework">
+<node CREATED="1661095952006" ID="ID_1462197879" MODIFIED="1661095957795" TEXT="API inferface"/>
+<node CREATED="1661095958181" ID="ID_1387975393" MODIFIED="1661095979827" TEXT="Activity manager for managing application life cycles"/>
+</node>
+<node CREATED="1661095920603" ID="ID_1056969305" MODIFIED="1661095928597" TEXT="Native C/C++ Libraries">
+<node CREATED="1661095982500" ID="ID_464002971" MODIFIED="1661095986048" TEXT="SQLite"/>
+<node CREATED="1661095986391" ID="ID_1203237132" MODIFIED="1661095994598" TEXT="C/C++ Libraries"/>
+<node CREATED="1661095994947" ID="ID_1355027267" MODIFIED="1661096008189" TEXT="3D Graphics"/>
+</node>
+<node CREATED="1661095929082" ID="ID_1283684522" MODIFIED="1661095933306" TEXT="Android Runtime">
+<node CREATED="1661096013140" ID="ID_1325468009" MODIFIED="1661096036982" TEXT="Each app runs in it&apos;s own process with its own instance of Android Runtime"/>
+<node CREATED="1661096042013" ID="ID_791103509" MODIFIED="1661096077360" TEXT="Designed to run in environments with limited battery/memory and CPU by executing DEX ( Dalvik Executable ) files"/>
+</node>
+<node CREATED="1661095933627" ID="ID_1766840013" MODIFIED="1661095938942" TEXT="Linux Kernel">
+<node CREATED="1661096080976" ID="ID_1727163583" MODIFIED="1661096093006" TEXT="Device Drivers"/>
+<node CREATED="1661096093326" ID="ID_794665045" MODIFIED="1661096098308" TEXT="Process managers"/>
+<node CREATED="1661096098638" ID="ID_934506823" MODIFIED="1661096104801" TEXT="Memory managers"/>
+<node CREATED="1661096105283" ID="ID_1632615375" MODIFIED="1661096107128" TEXT="Networking"/>
+</node>
+</node>
+<node CREATED="1661096118454" ID="ID_1260971487" MODIFIED="1661096131223" TEXT="How to perform data acquisition on Android phone">
+<node CREATED="1660485955781" ID="ID_1425379137" MODIFIED="1660492786408">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Seizure and Isolation
+  </body>
+</html></richcontent>
+<node CREATED="1660485969685" MODIFIED="1660485969685">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Note location from where mobile has been collected.
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485973946" MODIFIED="1660485973946">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Take the picture using camera and take picture of the location
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485977425" ID="ID_876855640" MODIFIED="1660492930770">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Chain of Custody
+  </body>
+</html></richcontent>
+<node CREATED="1660485982897" MODIFIED="1660485982897">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Is a document to maintain each record of the Digital evidence from the collection to presentation
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485990584" ID="ID_1591392408" MODIFIED="1660485990584">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Another part of documentation is taking pictures (photographs) of the crime scene, capturing the original state of the mobile device, as well as the make, model, serial number, IMEI number or operating system version .which would help during the acquisition phase and need to be captured as well
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660485999758" MODIFIED="1660485999758">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Take the picture of the mobile phone before starting any progress
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486002981" MODIFIED="1660486002981">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Request for Pin, Pattern, Passwords, SIM pin
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486006619" MODIFIED="1660486006619">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Check for any Unified Endpoint Management solutions
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486009919" ID="ID_206319343" MODIFIED="1660492929598">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Note the status of the device
+  </body>
+</html></richcontent>
+<node CREATED="1660486016485" ID="ID_1714621110" MODIFIED="1660486022591" TEXT="Powered on or off"/>
+<node CREATED="1660486022914" ID="ID_513862532" MODIFIED="1660486044803" TEXT="if powered on, check battery status, network status"/>
+<node CREATED="1660486048750" ID="ID_61172611" MODIFIED="1660486054642" TEXT="Check where the screen is locked"/>
+</node>
+<node CREATED="1660486063654" MODIFIED="1660486063654">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Search/request for the SIM and if any cables are located around
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486170599" ID="ID_924513041" MODIFIED="1660492786412">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Isolation Techniques (If the device is ON)
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660486175758" MODIFIED="1660486175758">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Activate Airplane mode
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486186293" MODIFIED="1660486186293">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Check and manually disable, if necessary, &#8220;hotspots&#8221; or any GPS locations, the Wi-Fi and Bluetooth toggles (these may be left on even in Airplane mode if the user enabled Wi-Fi once in that mode)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486196956" MODIFIED="1660486196956">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Do not remove the SIM or SD card at this point
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486201103" MODIFIED="1660486201103">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Connect the phone to a power bank
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486206109" MODIFIED="1660486206109">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    If you have a Faraday bag handy, place the phone along with the adapter and charger into the Faraday bag
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660486217529" ID="ID_926833722" MODIFIED="1660492786416">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Isolation Techniques (If device is OFF, DO NOT turn ON.)
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660486231147" MODIFIED="1660486231147">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Place it in an Evidence Bag or Box
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486235223" MODIFIED="1660486235223">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    If you have a Faraday bag handy, place the phone along with the adapter and charger into the Faraday bag
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486238040" MODIFIED="1660486238040">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Bring it back to Forensic Lab
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486241930" ID="ID_1500281070" MODIFIED="1660486272425">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    &#160;------ Back in the Forensic Lab ------
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486245424" MODIFIED="1660486245424">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    You will want to, Write-protect the SD card, remove the SIM card
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486257251" MODIFIED="1660486257251">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Do a proper acquisition of both SIM and SD card
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486278478" MODIFIED="1660486278478">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    As mentioned phones cannot always be left powered off during acquisition of the phone
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486288339" ID="ID_1570537907" MODIFIED="1660486295464">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    You will have to turn on the phone if necessary, and treat is as if it was turn on and apply the Isolation Techniques
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660486641453" ID="ID_966799883" MODIFIED="1660492786427">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Types of Acquisition
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660486698754" ID="ID_1662801470" MODIFIED="1660492911157" TEXT="File system">
+<node CREATED="1660486772256" ID="ID_982290476" MODIFIED="1660486772258" TEXT="This method of acquisition enables the examiner to gain more data than obtained via a logical acquisition because it provides access to file system data."/>
+</node>
+<node CREATED="1660486702776" ID="ID_918659423" MODIFIED="1660492909754" TEXT="Physical">
+<node CREATED="1660486792501" ID="ID_69872742" MODIFIED="1660486792502" TEXT="A physical acquisition has the advantage of allowing deleted files and data remnants to be examined."/>
+</node>
+<node CREATED="1660486893466" ID="ID_1431002329" MODIFIED="1660492908462">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Advance Logical
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660486899494" ID="ID_231428699" MODIFIED="1660486900665">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Combines both Logical and File System extraction methods
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660486904483" ID="ID_1387789430" MODIFIED="1660492906531">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Manual / logical
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660486909897" MODIFIED="1660486909897">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    The examiner uses the user interface of the phone to browse and investigate
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486912931" MODIFIED="1660486912931">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    No special tools or techniques are required
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486917736" MODIFIED="1660486917736">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Manual Extraction of Chat messages (Screen Shots, export to external media)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486921436" MODIFIED="1660486921436">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    limitation is that only the files and data visible through the normal user interface
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486924865" MODIFIED="1660486924865">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Data extracted through other methods can also be verified using this
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486928267" MODIFIED="1660486928267">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Very easily modify data on the device
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660486933943" ID="ID_879149680" MODIFIED="1660492903947">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Brute Force
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660486938229" MODIFIED="1660486938229">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    offensive techniques like password cracking, patterns, pins, Rooting the device
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1661096464555" ID="ID_1223630071" MODIFIED="1661097106762" TEXT="Topic 11: Data type IOS">
+<node CREATED="1660497241898" ID="ID_1940529802" MODIFIED="1660497242813">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    HFS+ File system
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497246600" MODIFIED="1660497246600">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Apple developed Hierarchical File System (HFS)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497252997" MODIFIED="1660497252997">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Provides large data sets
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497257448" MODIFIED="1660497257448">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Disk formatted with HFS has 512-byte Blocks at Physical level
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497260742" ID="ID_557677747" MODIFIED="1660497260742">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    There are two (2) types of Blocks in the HFS system
+  </body>
+</html></richcontent>
+<node CREATED="1660497264438" ID="ID_359865994" MODIFIED="1660497268622">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Logical Blocks
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497277260" MODIFIED="1660497277260">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    which are numbered from first to last within the volume
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660497272996" ID="ID_1958165548" MODIFIED="1660497277778">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Allocation blocks
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497285099" ID="ID_441867391" MODIFIED="1660497285099">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    group of logical blocks used to track data. Allocation blocks, Can be tied together as groups to be utilized more efficiently by HFS
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660497307906" ID="ID_18870937" MODIFIED="1660497307906">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    HFS uses both absolute time (Local time) as well as UNIX time so one can identify the location of the system
+  </body>
+</html></richcontent>
+<node CREATED="1660497313323" MODIFIED="1660497313323">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Absolute time e.g. 371589010, found in History.plist(safari)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497316945" MODIFIED="1660497316945">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    UNIX time e.g. 1349896210, found in moz_cookies (firefox), global_history.dat (opera)
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660497322163" MODIFIED="1660497322163">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    HFS files system uses catalog file system to organize data
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497327569" MODIFIED="1660497327569">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It uses B * tree (Balanced tree) structure to organize data
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497330711" MODIFIED="1660497330711">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Trees are consists of nodes
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497333582" ID="ID_942425789" MODIFIED="1660497333582">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    When data are added or deleted, it runs the algorithm to keep balance
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497371208" ID="ID_671079665" MODIFIED="1660497382007" TEXT="Structure of HFS+">
+<node CREATED="1660497348510" ID="ID_900282470" MODIFIED="1660497350432">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Reserved Boot Block
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497393595" MODIFIED="1660497393595">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    first 1024 bytes are reserved boot blocks
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660497388635" ID="ID_516159176" MODIFIED="1660497389439">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Volume Header
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497397483" MODIFIED="1660497397483">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It contains information about the structure of HFS Volume. It keeps track of Catalog ID Numbering and increases it one each time file added. HFS+ volume header also contains signature &#8220;H+.&#8221;
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660497405651" ID="ID_88771491" MODIFIED="1660497406372">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Allocation file
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497410332" MODIFIED="1660497410332">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It keeps track of allocation blocks used by the file system. It basically includes a bitmap. Each bit represents the status of the allocation block. If it is set to 1, that means Allocation block is used, and if it is 0, that means allocation block is not used.
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660497416031" ID="ID_1325268556" MODIFIED="1660497416740">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Extent Overflow file
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497420959" MODIFIED="1660497420959">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It consists of a pointer to the extent of the. If the file is larger than eight contiguous allocation blocks, then it uses extents.
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660497424598" ID="ID_1042686568" MODIFIED="1660497425366">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Catalog File
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497428878" MODIFIED="1660497428878">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It organizes data using balanced tree system as mentioned previously. It utilizes to find the location of file or folder within the volume. It also contains the metadata of file like creation and modification date, permissions.
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660497433180" ID="ID_1018062729" MODIFIED="1660497434371">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Attribute File
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497437600" MODIFIED="1660497437600">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It contains the customizable attributes of a file
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660497440889" ID="ID_1384118946" MODIFIED="1660497441998">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Startup File
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497445072" ID="ID_860333093" MODIFIED="1660497445072">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It assists the booting system which does not have built-in ROM support.
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497447756" MODIFIED="1660497447756">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Actual data is stored in the file system and tracked by the file system.
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660497451237" ID="ID_1629448671" MODIFIED="1660497451968">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Alternate Volume Header
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497454983" MODIFIED="1660497454983">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It is Back up Volume header located at Last 1024 byte of the volume
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660497459611" MODIFIED="1660497459611">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Last 512 Bytes are reserved
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1661096558402" ID="ID_730030867" MODIFIED="1661096566988" TEXT="Acquisitions Procedures of IOS">
+<node CREATED="1660485955781" ID="ID_227975874" MODIFIED="1660492786408">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Seizure and Isolation
+  </body>
+</html></richcontent>
+<node CREATED="1660485969685" MODIFIED="1660485969685">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Note location from where mobile has been collected.
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485973946" MODIFIED="1660485973946">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Take the picture using camera and take picture of the location
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485977425" ID="ID_915709732" MODIFIED="1660492930770">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Chain of Custody
+  </body>
+</html></richcontent>
+<node CREATED="1660485982897" MODIFIED="1660485982897">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Is a document to maintain each record of the Digital evidence from the collection to presentation
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660485990584" ID="ID_1752251903" MODIFIED="1660485990584">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Another part of documentation is taking pictures (photographs) of the crime scene, capturing the original state of the mobile device, as well as the make, model, serial number, IMEI number or operating system version .which would help during the acquisition phase and need to be captured as well
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660485999758" MODIFIED="1660485999758">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Take the picture of the mobile phone before starting any progress
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486002981" MODIFIED="1660486002981">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Request for Pin, Pattern, Passwords, SIM pin
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486006619" MODIFIED="1660486006619">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Check for any Unified Endpoint Management solutions
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660486009919" ID="ID_1723991831" MODIFIED="1660492929598">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Note the status of the device
+  </body>
+</html></richcontent>
+<node CREATED="1660486016485" ID="ID_666645323" MODIFIED="1660486022591" TEXT="Powered on or off"/>
+<node CREATED="1660486022914" ID="ID_122173557" MODIFIED="1660486044803" TEXT="if powered on, check battery status, network status"/>
+<node CREATED="1660486048750" ID="ID_345598616" MODIFIED="1660486054642" TEXT="Check where the screen is locked"/>
+</node>
+<node CREATED="1660486063654" MODIFIED="1660486063654">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Search/request for the SIM and if any cables are located around
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494601041" ID="ID_1831027837" MODIFIED="1660494601989">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Four (4) Major points
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660494606132" ID="ID_969803634" MODIFIED="1660494606132">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Circumventing the passcode/iTunes backup password is not always possible
+  </body>
+</html></richcontent>
+<node CREATED="1660494610937" MODIFIED="1660494610937">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    1. Try to secure the passcode from the owner and/or immediately disable the passcode requirement if the phone is accessible
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494614079" MODIFIED="1660494614079">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    2. Place the phone in &#8220;airplane mode&#8221;
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494619578" MODIFIED="1660494619578">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    3. Change the setting, the Auto-lock feature to &#8220;never&#8221; would be a desired setting for the duration of forensic acquisition
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494624732" MODIFIED="1660494624732">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    4. Document the settings changed prior to taking a forensic image
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660494646273" ID="ID_609723713" MODIFIED="1660494647244">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Isolation Techniques (If iOS device turned ON)
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660494681720" MODIFIED="1660494681720">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Place the phone in &#8220;airplane mode&#8221;
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494687477" MODIFIED="1660494687477">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Check and manually disable, if necessary, &quot;hotspots&#8221; or any GPS locations, the Wi-Fi and Bluetooth toggles mode (these may be left on even in Airplane mode if the user enabled Wi-Fi once in that mode)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494690722" MODIFIED="1660494690722">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Connect the phone to a power bank
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494695175" MODIFIED="1660494695175">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Do not remove the SIM card at this point. There maybe scenarios where it is found that devices lock up when the SIM card is removed
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494698692" MODIFIED="1660494698692">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Use a Lightning adapter to prevent USB Restricted mode from being activated (for devices running iOS 11.4.1 only; iOS 12 and 13 may restrict USB immediately)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494702867" MODIFIED="1660494702867">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    If you have a Faraday bag handy, place the phone along with the adapter and charger into the Faraday bag
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660494709896" ID="ID_1490128697" MODIFIED="1660494711157">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Isolation Techniques (If device is OFF, DO NOT turn ON.)
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660494716327" MODIFIED="1660494716327">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Place it in an Evidence Bag or Box
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494720473" MODIFIED="1660494720473">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    If you have a Faraday bag handy, place the phone along with the adapter and charger into the Faraday bag
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494723480" MODIFIED="1660494723480">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Bring it back to Forensic Lab
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494726428" MODIFIED="1660494726428">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Back in the Forensic Lab
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494729681" MODIFIED="1660494729681">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    You will want to remove the SIM card
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494732899" MODIFIED="1660494732899">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Do a proper acquisition of the SIM
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660494736035" MODIFIED="1660494736035">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    You will have to turn on the phone if necessary, and treat is as if it was turn on and apply the Isolation Techniques
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1660497854013" ID="ID_110724605" MODIFIED="1661096617309">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    What are Property List (Plist) files
+  </body>
+</html></richcontent>
+<node CREATED="1660497882307" MODIFIED="1660497882307">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Plist is a data file (sometimes called a property file) used to store various types of data on iOS and Macintosh operating systems.
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497886228" MODIFIED="1660497886228">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Originally Apple used the NeXSTEP format or a binary format for these files but this was deprecated and a new XLM format was introduced
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497889148" MODIFIED="1660497889148">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Property lists/XML files are used in the management of configuration of OS and applications
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497892207" MODIFIED="1660497892207">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Contains useful artifacts related to web cookies, email accounts, GPS Map routes and searches system configuration preferences, browsing history and bookmarks etc.
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497895459" MODIFIED="1660497895459">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    These files could be open to the simple text editor to view the contents
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660497918664" ID="ID_168850924" MODIFIED="1660497925149" TEXT="Exif metadata">
+<node CREATED="1660497929846" ID="ID_284189359" MODIFIED="1660497934358">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Exchangeable image file (EXIF)
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660497939967" MODIFIED="1660497939967">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    A standard that specifies the formats for images, sounds, used by digital cameras, scanners and other systems handling image and sound files recorded by digital cameras or voice recorders
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497943454" MODIFIED="1660497943454">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Contains, Timestamps, Longitude, latitude, location and device information depending on the device used to capture
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1660497900325" ID="ID_960805451" MODIFIED="1660497900325">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    SQL Lite Databases
+  </body>
+</html></richcontent>
+<node CREATED="1660497905081" MODIFIED="1660497905081">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    SQLite data format is a popular format for mobile devices and open source applications.
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497909178" MODIFIED="1660497909178">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Logical extraction of the iPhone could provide lots of SQLite database files
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497913748" MODIFIED="1660497913748">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    It uses SQLite databases to store user data, the tool SQLite browser is used to explore and read SQL Lite database
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660497917100" MODIFIED="1660497917100">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Native iOS applications such as Calendar, Text Messages, Notes, Photos, Address Book utilize this database structure to store and organize their data
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660495946358" ID="ID_1379079577" MODIFIED="1661097021366">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    iOS Devices
+  </body>
+</html></richcontent>
+<node CREATED="1660495952430" ID="ID_82840029" MODIFIED="1660495952430">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    iPhone
+  </body>
+</html></richcontent>
+<node CREATED="1660495968673" MODIFIED="1660495968673">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Most popular among IOS devices is iPhone, due to design, Camera and Features
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660495956113" ID="ID_1470037027" MODIFIED="1660495956113">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    iPad
+  </body>
+</html></richcontent>
+<node CREATED="1660495972448" MODIFIED="1660495972448">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    After the Huge success of the iPhone
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660495976930" MODIFIED="1660495976930">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Apple launched iPad tablet known as iPad or iPad first Generation. It was released after the iPhone 3Gs
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660495961566" ID="ID_1048008463" MODIFIED="1660495961566">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    iPod
+  </body>
+</html></richcontent>
+<node CREATED="1660495988250" MODIFIED="1660495988250">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    First iPod was launched by Apple in 2001. It was known as &#8220;First Generation&#8221;
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660495991279" MODIFIED="1660495991279">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Subsequent have been referred as &#8220;Second Generation&#8221; so on
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660495995819" MODIFIED="1660495995819">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Initial lunched as Music play but it advances to have the ability to play Videos and Games to users
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660496100792" MODIFIED="1660496100792">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    An examiner could retrieve forensic data from storage, browser, gallery, etc. on an iPod
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660496111740" ID="ID_1652377238" MODIFIED="1660496111740">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    iPod Touch models featured
+  </body>
+</html></richcontent>
+<node CREATED="1660496115838" MODIFIED="1660496115838">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Camera, Wi-Fi Capabilities, Safari web browser, Storage and Playback for Audio, Video and Photo, YouTube player
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660496118633" MODIFIED="1660496118633">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Apps could be installed from App store
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1661096676028" ID="ID_653217887" MODIFIED="1661139953835" TEXT="Topic 12: Rooting and Jailbreaking">
+<node CREATED="1661096698471" ID="ID_319426398" MODIFIED="1661096718385" TEXT="Meaning of Rooting in Android">
+<node CREATED="1660498713092" ID="ID_650318690" MODIFIED="1660498713092">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Rooting used in Android
+  </body>
+</html></richcontent>
+<node CREATED="1660498717101" ID="ID_1392675778" MODIFIED="1660498732653">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Rooting is the Android equivalent of jailbreaking on IOS, a means of unlocking the operating system so you can install unapproved apps, deleted unwanted bloatware, update the OS, replace the firmware, customize anything and so on.
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660498738322" ID="ID_207456683" MODIFIED="1660498738322">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Allow user to gain &#8220;root&#8221; user privileges
+  </body>
+</html></richcontent>
+<node CREATED="1660498744652" MODIFIED="1660498744652">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    No restriction on system settings after rooted
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660498752395" MODIFIED="1660498752395">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Android allow sideloading without rooting by default. (Install app from non-android market. i.e download apk files from website and install)
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1661096736648" ID="ID_44712234" MODIFIED="1661096743311" TEXT="Meaning of Jailbreaking in IOS">
+<node CREATED="1660498759651" ID="ID_1788846024" MODIFIED="1660498764622">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Jailbreaking in iOS
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498765929" ID="ID_1777847420" MODIFIED="1660498765929">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Required modification on OS settings
+  </body>
+</html></richcontent>
+<node CREATED="1660498771993" ID="ID_690799704" MODIFIED="1660498789918">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    A form of privilege escalation via hardware / software exploits
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498776709" ID="ID_274903539" MODIFIED="1660498790377">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Enable installation of 3rd PartyApps
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660498786803" MODIFIED="1660498786803">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Phone will work with App Store / can still make call after Jailbroken
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1661096749780" ID="ID_1994989475" MODIFIED="1661096755390" TEXT="Impacts of jailbreaking">
+<node CREATED="1660498874246" ID="ID_1709684750" MODIFIED="1660498874246">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    To escape control, need to run 3rd party tools
+  </body>
+</html></richcontent>
+<node CREATED="1660498878043" ID="ID_833876970" MODIFIED="1660498878043">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Question to ask&#8230; Are these toolssecure?
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660498882237" ID="ID_834959631" MODIFIED="1660498882959">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Voiding of warranty
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1660498887194" ID="ID_1573573736" MODIFIED="1660498887194">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Error and performance issue (not tested). Could cause phones become unstable
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660498896529" ID="ID_1150692419" MODIFIED="1660498896529">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Don&#8217;t root or jailbreak your everyday product devices!!
+  </body>
+</html></richcontent>
+<node CREATED="1660498900464" MODIFIED="1660498900464">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Needed for day to day operations
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660498905666" ID="ID_1382876225" MODIFIED="1660498911926">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Check organization&#8217;s <b>legal posture (security policy) </b>on permitted activities with corporate devices
+  </body>
+</html></richcontent>
+<node CREATED="1660498916943" MODIFIED="1660498916943">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    E.g. EULA (end-user license agreement) violation
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1661096770641" ID="ID_288990675" MODIFIED="1661096775914" TEXT="End user motivations">
+<node CREATED="1660498799641" ID="ID_594654568" MODIFIED="1660498799641">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    More application sources
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660498802915" ID="ID_409357173" MODIFIED="1660498803506">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Access unauthorized applications
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498806553" ID="ID_1756731024" MODIFIED="1660498807236">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Pirated software &amp; Firefox in iPhone
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1660498813869" ID="ID_376634920" MODIFIED="1660498813869">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Remove vendor-installed SW (bloatware)
+  </body>
+</html></richcontent>
+<node CREATED="1660498821361" MODIFIED="1660498821361">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Improve performance
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660498825571" MODIFIED="1660498825571">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Increase available memory (RAM / ROM [mmc])
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node CREATED="1660498829666" ID="ID_779394824" MODIFIED="1660498841044">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Access restricted hardware resources
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660498834214" ID="ID_471846987" MODIFIED="1660498834214">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Ie Bluetooth on Kindle Fire (Tablet from Amazon)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660498837613" ID="ID_1321364807" MODIFIED="1660498842041">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Perform system tweaking
+  </body>
+</html></richcontent>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1661096785314" ID="ID_1779613459" MODIFIED="1661096796802" TEXT="Tools used in Rooting &amp; Jailbreaking">
+<node CREATED="1661096814651" ID="ID_612360844" MODIFIED="1661096816232" TEXT="IOS">
+<node CREATED="1661096826766" ID="ID_555871300" MODIFIED="1661096831023" TEXT="JailBreakMe"/>
+</node>
+<node CREATED="1661096816805" ID="ID_1242674063" MODIFIED="1661096820943" TEXT="Android">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+<node CREATED="1660499034295" ID="ID_1781290862" MODIFIED="1660499034295">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    ADB (old school)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660499037568" ID="ID_1907302621" MODIFIED="1660499037568">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    z4root (from Android 2.3)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660499040390" ID="ID_1410186894" MODIFIED="1660499040390">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    SuperOneClick (need adb)
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660499043356" ID="ID_1643488205" MODIFIED="1660499043356">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Flashing recovery &amp; custom ROM
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1660499046251" ID="ID_808004948" MODIFIED="1660499046251">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    Motochopper (Android 4.32)
+  </body>
+</html></richcontent>
+</node>
+</node>
 </node>
 </node>
 </node>
